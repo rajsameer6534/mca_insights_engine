@@ -1,0 +1,966 @@
+CIN,Company_Name,Company_Class,Date_of_Incorporation,Authorized_Capital,Paidup_Capital,Company_Status,NIC_Code,Registered_Address,RoC,State
+UAF00008IN816751,MAH-Info-8 Pvt Ltd,Private (Ltd by shares),2010-06-12,200000.0,200000.0,Active,96,"19, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00013IN214975,MAH-Agro-13 Pvt Ltd,Private,2016-04-05,2000000.0,1600000.0,Active,10,"161, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00028IN274389,MAH-Retail-28 Pvt Ltd,Public,2006-11-18,10000000.0,5000000.0,Active,47,"125, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00034IN378517,MAH-Retail-34 Pvt Ltd,Private (Ltd by shares),2023-09-11,500000.0,250000.0,Strike Off,47,"34, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00099IN961322,MAH-Foods-99 Pvt Ltd,Private,2007-04-22,10000000.0,10000000.0,Active,86,"148, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00114IN592296,MAH-Consult-114 Pvt Ltd,Public,2019-01-24,200000.0,160000.0,Active,11,"68, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00121IN563187,MAH-Foods-121 Pvt Ltd,Public,2005-08-10,5000000.0,5000000.0,Active,11,"151, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00139IN926952,MAH-Fin-139 Pvt Ltd,Public,2022-04-19,200000.0,100000.0,Strike Off,46,"1, Maharashtra",RoC-Mumbai,Maharashtra
+UBG00038JO836971,GUJ-Consult-38 Pvt Ltd,Private (Ltd by shares),2022-07-21,10000000.0,8000000.0,Active,86,"190, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00060JO474314,GUJ-Consult-60 Pvt Ltd,Private,2020-05-02,10000000.0,10000000.0,Active,62,"200, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00068JO781113,GUJ-Foods-68 Pvt Ltd,Private,2007-10-05,2000000.0,1600000.0,Amalgamated,63,"64, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00098JO834549,GUJ-Tech-98 Pvt Ltd,Private,2017-03-27,5000000.0,2500000.0,Active,72,"49, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00100JO601608,GUJ-Fin-100 Pvt Ltd,Public,2006-12-05,2000000.0,1000000.0,Strike Off,86,"97, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00122JO563303,GUJ-Tech-122 Pvt Ltd,Private,2011-10-18,200000.0,100000.0,Strike Off,71,"175, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00136JO414455,GUJ-Retail-136 Pvt Ltd,Private (Ltd by shares),2017-09-11,5000000.0,4000000.0,Amalgamated,46,"48, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00137JO160423,GUJ-Fin-137 Pvt Ltd,Public,2020-04-28,200000.0,160000.0,Active,70,"106, Gujarat",RoC-Ahmedabad,Gujarat
+UCH00014KP524965,DEL-Retail-14 Pvt Ltd,Private (Ltd by shares),2012-05-22,10000000.0,5000000.0,Active,11,"97, Delhi",RoC-Delhi,Delhi
+UCH00054KP844638,DEL-Consult-54 Pvt Ltd,Public,2021-11-16,1000000.0,1000000.0,Dormant,64,"114, Delhi",RoC-Delhi,Delhi
+UCH00065KP197666,DEL-Info-65 Pvt Ltd,Private (Ltd by shares),2016-08-16,500000.0,500000.0,Active,96,"118, Delhi",RoC-Delhi,Delhi
+UCH00073KP945106,DEL-Tech-73 Pvt Ltd,Public,2009-08-03,200000.0,160000.0,Active,96,"27, Delhi",RoC-Delhi,Delhi
+UCH00086KP620526,DEL-Foods-86 Pvt Ltd,Private (Ltd by shares),2010-02-01,5000000.0,2500000.0,Active,46,"134, Delhi",RoC-Delhi,Delhi
+UCH00094KP691194,DEL-Consult-94 Pvt Ltd,Private (Ltd by shares),2007-09-15,100000.0,80000.0,Active,62,"78, Delhi",RoC-Delhi,Delhi
+UCH00112KP941134,DEL-Fin-112 Pvt Ltd,Public,2017-03-14,200000.0,200000.0,Active,86,"5, Delhi",RoC-Delhi,Delhi
+UCH00117KP690984,DEL-Agro-117 Pvt Ltd,Private,2016-10-01,5000000.0,5000000.0,Strike Off,72,"145, Delhi",RoC-Delhi,Delhi
+UDI00007LQ393964,TAM-Consult-7 Pvt Ltd,Private (Ltd by shares),2020-05-12,100000.0,80000.0,Active,62,"126, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00024LQ371216,TAM-Info-24 Pvt Ltd,Private,2022-03-10,100000.0,80000.0,Active,96,"144, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00030LQ235691,TAM-Fin-30 Pvt Ltd,Private (Ltd by shares),2011-03-19,10000000.0,5000000.0,Dormant,11,"112, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00057LQ940183,TAM-Fin-57 Pvt Ltd,Private,2017-07-27,200000.0,100000.0,Dormant,70,"115, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00079LQ142608,TAM-Retail-79 Pvt Ltd,Private (Ltd by shares),2007-03-06,5000000.0,5000000.0,Active,64,"72, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00092LQ106185,TAM-Info-92 Pvt Ltd,Private (Ltd by shares),2018-06-01,1000000.0,1000000.0,Active,71,"185, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00103LQ980919,TAM-Foods-103 Pvt Ltd,Private (Ltd by shares),2010-01-11,200000.0,100000.0,Amalgamated,62,"35, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00115LQ341162,TAM-Tech-115 Pvt Ltd,Private (Ltd by shares),2020-10-01,2000000.0,1000000.0,Dormant,46,"132, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UEJ00032MR100096,KAR-Fin-32 Pvt Ltd,Private,2014-06-14,500000.0,250000.0,Active,10,"195, Karnataka",RoC-Bangalore,Karnataka
+UEJ00052MR656937,KAR-Agro-52 Pvt Ltd,Public,2015-12-15,500000.0,500000.0,Active,11,"116, Karnataka",RoC-Bangalore,Karnataka
+UEJ00060MR326387,KAR-Fin-60 Pvt Ltd,Private,2013-09-02,5000000.0,2500000.0,Active,11,"25, Karnataka",RoC-Bangalore,Karnataka
+UEJ00072MR907812,KAR-Agro-72 Pvt Ltd,Private (Ltd by shares),2006-06-12,10000000.0,8000000.0,Amalgamated,11,"192, Karnataka",RoC-Bangalore,Karnataka
+UEJ00087MR499194,KAR-Fin-87 Pvt Ltd,Private,2016-02-01,500000.0,500000.0,Amalgamated,47,"182, Karnataka",RoC-Bangalore,Karnataka
+UEJ00104MR506216,KAR-Fin-104 Pvt Ltd,Private (Ltd by shares),2012-09-18,1000000.0,1000000.0,Active,71,"196, Karnataka",RoC-Bangalore,Karnataka
+UEJ00109MR571228,KAR-Info-109 Pvt Ltd,Private,2010-12-24,100000.0,50000.0,Active,96,"93, Karnataka",RoC-Bangalore,Karnataka
+UEJ00128MR922072,KAR-Consult-128 Pvt Ltd,Private (Ltd by shares),2020-03-21,1000000.0,1000000.0,Strike Off,70,"106, Karnataka",RoC-Bangalore,Karnataka
+UAF00016IN211579,MAH-Consult-16 Pvt Ltd,Public,2005-12-24,400000.0,500000.0,Active,71,"161, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00036IN356150,MAH-Foods-36 Pvt Ltd,Private,2022-04-17,500000.0,250000.0,Strike Off,11,"73, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00066IN273061,MAH-Consult-66 Pvt Ltd,Private,2005-07-11,5000000.0,5000000.0,Amalgamated,96,"120, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00069IN885408,MAH-Fin-69 Pvt Ltd,Public,2013-07-09,10000000.0,5000000.0,Dormant,10,"14, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00084IN878967,MAH-Fin-84 Pvt Ltd,Private (Ltd by shares),2013-04-04,5000000.0,2500000.0,Strike Off,11,"196, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00097IN522060,MAH-Foods-97 Pvt Ltd,Private (Ltd by shares),2023-05-15,100000.0,80000.0,Active,96,"129, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00104IN313446,MAH-Foods-104 Pvt Ltd,Private,2011-09-12,2000000.0,1600000.0,Dormant,10,"141, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00145IN814622,MAH-Foods-145 Pvt Ltd,Private (Ltd by shares),2014-07-20,2000000.0,1600000.0,Active,47,"77, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00150IN175231,MAH-Info-150 Pvt Ltd,Private,2009-05-28,5000000.0,2500000.0,Active,10,"5, Maharashtra",RoC-Mumbai,Maharashtra
+UBG00012JO986209,GUJ-Fin-12 Pvt Ltd,Private (Ltd by shares),2016-09-12,100000.0,80000.0,Active,64,"197, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00022JO524068,GUJ-Info-22 Pvt Ltd,Public,2018-01-15,100000.0,80000.0,Amalgamated,72,"164, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00047JO956375,GUJ-Retail-47 Pvt Ltd,Private,2019-09-05,8000000.0,8000000.0,Active,47,"90, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00048JO185569,GUJ-Foods-48 Pvt Ltd,Private,2018-01-13,2000000.0,1600000.0,Active,64,"58, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00080JO772612,GUJ-Consult-80 Pvt Ltd,Public,2015-10-02,10000000.0,5000000.0,Active,10,"148, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00084JO639995,GUJ-Fin-84 Pvt Ltd,Public,2015-12-28,500000.0,400000.0,Active,63,"28, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00106JO214532,GUJ-Fin-106 Pvt Ltd,Private (Ltd by shares),2011-04-27,2000000.0,1600000.0,Active,46,"190, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00112JO992400,GUJ-Fin-112 Pvt Ltd,Public,2015-05-15,5000000.0,5000000.0,Dormant,46,"120, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00125JO166857,GUJ-Fin-125 Pvt Ltd,Private,2011-10-03,100000.0,80000.0,Strike Off,96,"16, Gujarat",RoC-Ahmedabad,Gujarat
+UCH00034KP319832,DEL-Retail-34 Pvt Ltd,Private (Ltd by shares),2010-11-25,2000000.0,1000000.0,Dormant,96,"75, Delhi",RoC-Delhi,Delhi
+UCH00035KP364955,DEL-Info-35 Pvt Ltd,Private (Ltd by shares),2007-07-22,1000000.0,500000.0,Active,47,"40, Delhi",RoC-Delhi,Delhi
+UCH00038KP934908,DEL-Retail-38 Pvt Ltd,Private,2016-03-21,2000000.0,1000000.0,Amalgamated,63,"28, Delhi",RoC-Delhi,Delhi
+UCH00043KP938913,DEL-Agro-43 Pvt Ltd,Private,2008-01-28,500000.0,500000.0,Strike Off,86,"190, Delhi",RoC-Delhi,Delhi
+UCH00114KP161437,DEL-Consult-114 Pvt Ltd,Private (Ltd by shares),2010-01-11,2000000.0,1000000.0,Active,62,"121, Delhi",RoC-Delhi,Delhi
+UCH00126KP111949,DEL-Foods-126 Pvt Ltd,Private,2016-06-06,5000000.0,2500000.0,Strike Off,70,"54, Delhi",RoC-Delhi,Delhi
+UCH00133KP478356,DEL-Tech-133 Pvt Ltd,Private,2006-07-19,2000000.0,1600000.0,Active,10,"110, Delhi",RoC-Delhi,Delhi
+UCH00138KP338564,DEL-Fin-138 Pvt Ltd,Public,2008-02-22,500000.0,500000.0,Amalgamated,72,"16, Delhi",RoC-Delhi,Delhi
+UCH00140KP893969,DEL-Retail-140 Pvt Ltd,Private,2006-09-19,2000000.0,2000000.0,Active,11,"45, Delhi",RoC-Delhi,Delhi
+UDI00015LQ783238,TAM-Retail-15 Pvt Ltd,Private,2011-04-21,200000.0,200000.0,Active,62,"132, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00020LQ257212,TAM-Fin-20 Pvt Ltd,Private,2015-05-09,5000000.0,5000000.0,Active,47,"196, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00027LQ412848,TAM-Retail-27 Pvt Ltd,Private,2007-08-07,2000000.0,1000000.0,Dormant,71,"14, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00065LQ104548,TAM-Fin-65 Pvt Ltd,Private,2023-02-25,1000000.0,800000.0,Active,70,"189, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00091LQ506881,TAM-Retail-91 Pvt Ltd,Public,2022-02-19,10000000.0,5000000.0,Dormant,64,"162, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00094LQ962057,TAM-Info-94 Pvt Ltd,Public,2014-10-03,500000.0,400000.0,Amalgamated,64,"8, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00121LQ960307,TAM-Consult-121 Pvt Ltd,Private (Ltd by shares),2020-03-08,10000000.0,8000000.0,Dormant,72,"47, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00142LQ881782,TAM-Foods-142 Pvt Ltd,Public,2005-02-25,500000.0,400000.0,Active,72,"149, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00162LQ503472,TAM-Foods-162 Pvt Ltd,Private (Ltd by shares),2022-12-02,100000.0,80000.0,Dormant,11,"117, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UEJ00024MR715429,KAR-Fin-24 Pvt Ltd,Public,2024-11-13,500000.0,400000.0,Strike Off,96,"116, Karnataka",RoC-Bangalore,Karnataka
+UEJ00028MR232552,KAR-Agro-28 Pvt Ltd,Private,2014-04-08,5000000.0,4000000.0,Dormant,86,"135, Karnataka",RoC-Bangalore,Karnataka
+UEJ00045MR477934,KAR-Tech-45 Pvt Ltd,Private,2022-09-04,500000.0,400000.0,Active,47,"171, Karnataka",RoC-Bangalore,Karnataka
+UEJ00050MR859587,KAR-Agro-50 Pvt Ltd,Private,2016-08-24,200000.0,100000.0,Amalgamated,63,"65, Karnataka",RoC-Bangalore,Karnataka
+UEJ00082MR114400,KAR-Foods-82 Pvt Ltd,Private,2007-02-24,100000.0,50000.0,Active,62,"178, Karnataka",RoC-Bangalore,Karnataka
+UEJ00090MR625600,KAR-Foods-90 Pvt Ltd,Private (Ltd by shares),2016-11-12,500000.0,500000.0,Active,47,"16, Karnataka",RoC-Bangalore,Karnataka
+UEJ00123MR935434,KAR-Tech-123 Pvt Ltd,Private,2014-04-01,100000.0,50000.0,Dormant,86,"189, Karnataka",RoC-Bangalore,Karnataka
+UEJ00130MR493468,KAR-Info-130 Pvt Ltd,Private,2015-06-03,200000.0,160000.0,Strike Off,63,"137, Karnataka",RoC-Bangalore,Karnataka
+UEJ00154MR818596,KAR-Consult-154 Pvt Ltd,Public,2011-06-15,200000.0,100000.0,Active,96,"77, Karnataka",RoC-Bangalore,Karnataka
+UAF00001IN246316,MAH-Info-1 Pvt Ltd,Private (Ltd by shares),2025-02-01,5000000.0,4000000.0,Active,47,"27, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00002IN329258,MAH-Agro-2 Pvt Ltd,Private (Ltd by shares),2022-02-19,1000000.0,500000.0,Active,11,"130, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00003IN571029,MAH-Fin-3 Pvt Ltd,Private,2005-09-07,7500000.0,5000000.0,Amalgamated,47,"72, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00004IN900581,MAH-Foods-4 Pvt Ltd,Private,2010-12-14,500000.0,400000.0,Active,47,"27, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00005IN865179,MAH-Retail-5 Pvt Ltd,Private,2017-02-12,10000000.0,8000000.0,Active,10,"138, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00006IN301629,MAH-Info-6 Pvt Ltd,Private,2017-02-18,500000.0,500000.0,Strike Off,72,"18, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00007IN391476,MAH-Retail-7 Pvt Ltd,Public,2012-05-03,10000000.0,5000000.0,Active,64,"163, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00009IN497887,MAH-Foods-9 Pvt Ltd,Private (Ltd by shares),2025-03-18,5000000.0,2500000.0,Active,70,"164, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00010IN944151,MAH-Foods-10 Pvt Ltd,Public,2022-04-22,500000.0,250000.0,Dormant,10,"103, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00011IN623481,MAH-Retail-11 Pvt Ltd,Public,2007-04-19,5000000.0,4000000.0,Active,86,"165, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00012IN712982,MAH-Retail-12 Pvt Ltd,Public,2009-05-05,240000.0,200000.0,Active,96,"150, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00014IN363626,MAH-Fin-14 Pvt Ltd,Private (Ltd by shares),2018-10-03,1000000.0,800000.0,Dormant,71,"3, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00015IN407757,MAH-Retail-15 Pvt Ltd,Public,2008-11-18,15000000.0,8000000.0,Strike Off,11,"41, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00017IN665579,MAH-Consult-17 Pvt Ltd,Private,2025-09-20,200000.0,100000.0,Strike Off,46,"136, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00018IN351083,MAH-Tech-18 Pvt Ltd,Private (Ltd by shares),2024-06-16,100000.0,50000.0,Strike Off,62,"62, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00019IN791798,MAH-Retail-19 Pvt Ltd,Private,2007-02-24,1000000.0,500000.0,Active,46,"141, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00020IN891952,MAH-Info-20 Pvt Ltd,Private,2013-09-28,2000000.0,1600000.0,Active,71,"177, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00021IN573417,MAH-Tech-21 Pvt Ltd,Private,2014-07-22,5000000.0,4000000.0,Dormant,71,"64, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00022IN330914,MAH-Tech-22 Pvt Ltd,Private (Ltd by shares),2007-06-01,2000000.0,2000000.0,Active,72,"19, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00023IN639131,MAH-Agro-23 Pvt Ltd,Private (Ltd by shares),2025-01-08,100000.0,50000.0,Strike Off,11,"72, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00024IN922733,MAH-Retail-24 Pvt Ltd,Private,2020-04-18,240000.0,200000.0,Dormant,47,"105, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00025IN589710,MAH-Consult-25 Pvt Ltd,Private,2008-02-22,1500000.0,800000.0,Amalgamated,64,"187, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00026IN360735,MAH-Agro-26 Pvt Ltd,Private (Ltd by shares),2025-11-04,100000.0,80000.0,Strike Off,11,"49, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00027IN179046,MAH-Retail-27 Pvt Ltd,Private,2019-03-14,160000.0,160000.0,Dormant,47,"141, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00029IN378085,MAH-Consult-29 Pvt Ltd,Public,2011-07-02,200000.0,160000.0,Dormant,64,"117, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00030IN299122,MAH-Foods-30 Pvt Ltd,Private,2018-12-24,10000000.0,10000000.0,Dormant,46,"56, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00031IN152578,MAH-Fin-31 Pvt Ltd,Private (Ltd by shares),2023-12-18,100000.0,100000.0,Strike Off,10,"123, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00032IN723939,MAH-Tech-32 Pvt Ltd,Private,2021-03-02,2000000.0,1000000.0,Active,11,"173, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00033IN185965,MAH-Retail-33 Pvt Ltd,Private (Ltd by shares),2017-02-19,200000.0,200000.0,Active,72,"169, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00035IN751332,MAH-Fin-35 Pvt Ltd,Private,2025-05-15,500000.0,250000.0,Active,70,"26, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00037IN956795,MAH-Fin-37 Pvt Ltd,Private (Ltd by shares),2019-09-23,500000.0,500000.0,Active,86,"77, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00038IN395442,MAH-Fin-38 Pvt Ltd,Private (Ltd by shares),2008-03-09,100000.0,50000.0,Active,62,"54, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00039IN987204,MAH-Tech-39 Pvt Ltd,Private (Ltd by shares),2015-04-22,5000000.0,4000000.0,Dormant,62,"24, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00040IN374680,MAH-Agro-40 Pvt Ltd,Public,2018-05-02,100000.0,80000.0,Active,86,"190, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00041IN824586,MAH-Agro-41 Pvt Ltd,Private,2022-12-14,2000000.0,1000000.0,Active,11,"140, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00042IN423232,MAH-Foods-42 Pvt Ltd,Public,2016-10-18,200000.0,160000.0,Active,10,"11, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00043IN526117,MAH-Fin-43 Pvt Ltd,Private,2011-11-08,5000000.0,2500000.0,Strike Off,71,"192, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00044IN288073,MAH-Info-44 Pvt Ltd,Public,2012-03-26,10000000.0,5000000.0,Dormant,10,"86, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00045IN140605,MAH-Consult-45 Pvt Ltd,Private,2012-05-06,10000000.0,10000000.0,Active,64,"121, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00046IN792094,MAH-Agro-46 Pvt Ltd,Public,2011-08-12,500000.0,250000.0,Active,10,"103, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00047IN984642,MAH-Fin-47 Pvt Ltd,Private,2013-02-25,500000.0,400000.0,Strike Off,86,"85, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00048IN725550,MAH-Retail-48 Pvt Ltd,Private (Ltd by shares),2008-05-06,1600000.0,1600000.0,Active,11,"89, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00049IN299312,MAH-Foods-49 Pvt Ltd,Private (Ltd by shares),2015-07-20,3000000.0,1000000.0,Amalgamated,72,"12, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00050IN552248,MAH-Tech-50 Pvt Ltd,Public,2018-01-17,10000000.0,10000000.0,Amalgamated,63,"171, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00051IN424308,MAH-Info-51 Pvt Ltd,Public,2024-06-22,10000000.0,5000000.0,Active,71,"105, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00052IN797229,MAH-Retail-52 Pvt Ltd,Private (Ltd by shares),2017-12-10,2000000.0,1000000.0,Active,64,"174, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00053IN400850,MAH-Agro-53 Pvt Ltd,Private (Ltd by shares),2010-10-19,500000.0,400000.0,Active,62,"111, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00054IN324082,MAH-Fin-54 Pvt Ltd,Private (Ltd by shares),2024-11-11,1000000.0,800000.0,Dormant,86,"122, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00055IN958179,MAH-Consult-55 Pvt Ltd,Private (Ltd by shares),2010-11-03,500000.0,500000.0,Strike Off,11,"61, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00056IN356736,MAH-Retail-56 Pvt Ltd,Private,2014-04-26,200000.0,100000.0,Active,10,"157, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00057IN519066,MAH-Agro-57 Pvt Ltd,Private (Ltd by shares),2019-07-21,2000000.0,1000000.0,Amalgamated,70,"38, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00058IN643118,MAH-Retail-58 Pvt Ltd,Private (Ltd by shares),2005-02-25,1000000.0,500000.0,Active,96,"13, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00059IN742412,MAH-Consult-59 Pvt Ltd,Private (Ltd by shares),2012-02-15,200000.0,160000.0,Strike Off,70,"185, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00060IN371782,MAH-Consult-60 Pvt Ltd,Private (Ltd by shares),2018-09-15,200000.0,200000.0,Dormant,70,"64, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00061IN181247,MAH-Info-61 Pvt Ltd,Private,2013-09-16,5000000.0,2500000.0,Amalgamated,70,"74, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00062IN342495,MAH-Retail-62 Pvt Ltd,Private,2013-06-11,2400000.0,1000000.0,Active,46,"178, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00063IN165290,MAH-Agro-63 Pvt Ltd,Public,2011-02-14,1000000.0,800000.0,Dormant,64,"108, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00064IN106182,MAH-Foods-64 Pvt Ltd,Public,2023-12-01,10000000.0,10000000.0,Amalgamated,70,"77, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00065IN330080,MAH-Foods-65 Pvt Ltd,Public,2018-09-24,5000000.0,5000000.0,Active,70,"112, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00067IN773971,MAH-Retail-67 Pvt Ltd,Public,2024-09-01,1000000.0,1000000.0,Active,11,"35, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00068IN442722,MAH-Foods-68 Pvt Ltd,Public,2010-01-09,1000000.0,800000.0,Active,70,"195, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00070IN359295,MAH-Agro-70 Pvt Ltd,Private (Ltd by shares),2012-11-03,10000000.0,10000000.0,Active,10,"6, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00071IN328552,MAH-Retail-71 Pvt Ltd,Public,2009-04-05,1000000.0,1000000.0,Active,72,"180, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00072IN426147,MAH-Tech-72 Pvt Ltd,Private,2016-03-20,2000000.0,2000000.0,Active,46,"149, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00073IN720859,MAH-Info-73 Pvt Ltd,Private,2014-10-22,1000000.0,800000.0,Amalgamated,11,"161, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00074IN920652,MAH-Tech-74 Pvt Ltd,Private (Ltd by shares),2008-12-25,500000.0,500000.0,Strike Off,72,"89, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00075IN990844,MAH-Retail-75 Pvt Ltd,Private,2018-11-12,100000.0,100000.0,Strike Off,10,"126, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00076IN284692,MAH-Info-76 Pvt Ltd,Private (Ltd by shares),2018-06-21,10000000.0,8000000.0,Active,64,"134, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00077IN965845,MAH-Info-77 Pvt Ltd,Public,2013-10-26,2000000.0,1600000.0,Dormant,64,"152, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00078IN886931,MAH-Retail-78 Pvt Ltd,Private (Ltd by shares),2015-04-27,100000.0,80000.0,Dormant,47,"146, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00079IN322423,MAH-Foods-79 Pvt Ltd,Public,2017-06-01,1500000.0,800000.0,Active,70,"67, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00080IN300337,MAH-Tech-80 Pvt Ltd,Private (Ltd by shares),2013-10-23,600000.0,500000.0,Active,71,"62, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00081IN846420,MAH-Retail-81 Pvt Ltd,Private,2018-08-18,10000000.0,5000000.0,Active,86,"115, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00082IN796212,MAH-Fin-82 Pvt Ltd,Public,2007-05-08,1000000.0,1000000.0,Active,62,"95, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00083IN836996,MAH-Retail-83 Pvt Ltd,Public,2022-09-12,1000000.0,1000000.0,Active,63,"70, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00085IN718226,MAH-Consult-85 Pvt Ltd,Private (Ltd by shares),2010-04-07,5000000.0,4000000.0,Dormant,96,"135, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00086IN288158,MAH-Foods-86 Pvt Ltd,Private (Ltd by shares),2014-02-27,300000.0,160000.0,Active,63,"4, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00087IN232413,MAH-Info-87 Pvt Ltd,Public,2022-03-09,120000.0,50000.0,Active,96,"193, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00088IN457256,MAH-Agro-88 Pvt Ltd,Public,2008-01-19,500000.0,400000.0,Dormant,70,"14, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00089IN705050,MAH-Info-89 Pvt Ltd,Private,2020-02-27,100000.0,80000.0,Dormant,11,"176, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00090IN224205,MAH-Fin-90 Pvt Ltd,Public,2009-03-26,2400000.0,1600000.0,Active,47,"196, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00091IN564226,MAH-Foods-91 Pvt Ltd,Public,2024-10-26,2000000.0,1000000.0,Strike Off,70,"151, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00092IN755900,MAH-Agro-92 Pvt Ltd,Private (Ltd by shares),2014-10-20,100000.0,100000.0,Active,47,"68, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00093IN102805,MAH-Retail-93 Pvt Ltd,Private (Ltd by shares),2007-03-08,300000.0,200000.0,Active,46,"116, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00094IN396451,MAH-Info-94 Pvt Ltd,Private,2024-08-10,150000.0,50000.0,Active,96,"117, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00095IN220351,MAH-Fin-95 Pvt Ltd,Private (Ltd by shares),2012-05-26,10000000.0,10000000.0,Active,64,"58, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00096IN931131,MAH-Foods-96 Pvt Ltd,Private (Ltd by shares),2009-05-27,200000.0,100000.0,Active,46,"153, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00098IN437978,MAH-Fin-98 Pvt Ltd,Private,2020-08-03,2000000.0,1000000.0,Amalgamated,96,"65, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00100IN713762,MAH-Retail-100 Pvt Ltd,Public,2010-08-17,5000000.0,4000000.0,Active,46,"163, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00101IN209680,MAH-Consult-101 Pvt Ltd,Public,2007-08-12,1000000.0,800000.0,Strike Off,86,"42, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00102IN138479,MAH-Retail-102 Pvt Ltd,Public,2018-12-16,500000.0,500000.0,Amalgamated,71,"23, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00103IN668950,MAH-Retail-103 Pvt Ltd,Private,2013-06-04,15000000.0,8000000.0,Amalgamated,86,"106, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00105IN738448,MAH-Consult-105 Pvt Ltd,Private (Ltd by shares),2014-08-23,1000000.0,500000.0,Active,86,"62, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00106IN335615,MAH-Consult-106 Pvt Ltd,Public,2010-05-18,100000.0,100000.0,Dormant,11,"30, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00107IN839677,MAH-Foods-107 Pvt Ltd,Public,2008-11-27,200000.0,160000.0,Active,71,"107, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00108IN728492,MAH-Fin-108 Pvt Ltd,Private,2020-04-15,2000000.0,1000000.0,Amalgamated,47,"192, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00109IN380150,MAH-Consult-109 Pvt Ltd,Public,2007-05-25,10000000.0,8000000.0,Strike Off,71,"1, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00110IN664742,MAH-Retail-110 Pvt Ltd,Public,2014-10-19,6000000.0,4000000.0,Active,70,"89, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00111IN350405,MAH-Fin-111 Pvt Ltd,Private,2022-09-13,1000000.0,800000.0,Active,96,"99, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00112IN795928,MAH-Consult-112 Pvt Ltd,Private,2018-01-11,4000000.0,4000000.0,Amalgamated,64,"167, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00113IN986088,MAH-Retail-113 Pvt Ltd,Private (Ltd by shares),2020-01-05,2000000.0,2000000.0,Amalgamated,11,"26, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00115IN659543,MAH-Retail-115 Pvt Ltd,Private (Ltd by shares),2024-12-13,5000000.0,2500000.0,Strike Off,86,"82, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00116IN817644,MAH-Foods-116 Pvt Ltd,Private (Ltd by shares),2020-09-02,2000000.0,1000000.0,Dormant,86,"59, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00117IN274446,MAH-Info-117 Pvt Ltd,Private,2007-07-04,10000000.0,10000000.0,Active,70,"77, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00118IN551607,MAH-Agro-118 Pvt Ltd,Private (Ltd by shares),2006-06-26,100000.0,80000.0,Dormant,63,"63, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00119IN182804,MAH-Fin-119 Pvt Ltd,Private (Ltd by shares),2018-10-22,15000000.0,5000000.0,Active,46,"98, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00120IN366314,MAH-Retail-120 Pvt Ltd,Private (Ltd by shares),2012-08-19,200000.0,100000.0,Dormant,86,"66, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00122IN503380,MAH-Consult-122 Pvt Ltd,Private,2025-07-23,600000.0,400000.0,Active,47,"124, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00123IN409571,MAH-Tech-123 Pvt Ltd,Public,2012-07-19,500000.0,500000.0,Active,96,"169, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00124IN881369,MAH-Retail-124 Pvt Ltd,Private,2013-01-19,10000000.0,10000000.0,Active,72,"74, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00125IN892280,MAH-Info-125 Pvt Ltd,Private (Ltd by shares),2024-06-08,5000000.0,2500000.0,Active,86,"197, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00126IN926918,MAH-Retail-126 Pvt Ltd,Private (Ltd by shares),2009-11-04,5000000.0,5000000.0,Active,62,"9, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00127IN535686,MAH-Agro-127 Pvt Ltd,Private,2016-12-05,150000.0,80000.0,Strike Off,96,"52, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00128IN964749,MAH-Retail-128 Pvt Ltd,Private (Ltd by shares),2022-06-17,1600000.0,1600000.0,Active,62,"76, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00129IN859396,MAH-Info-129 Pvt Ltd,Private (Ltd by shares),2015-02-15,100000.0,50000.0,Active,86,"102, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00130IN229592,MAH-Retail-130 Pvt Ltd,Private (Ltd by shares),2016-02-26,1000000.0,500000.0,Active,71,"95, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00131IN807617,MAH-Agro-131 Pvt Ltd,Private,2013-10-13,10000000.0,10000000.0,Strike Off,11,"121, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00132IN963874,MAH-Retail-132 Pvt Ltd,Public,2024-09-11,2400000.0,1000000.0,Active,86,"180, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00133IN616554,MAH-Tech-133 Pvt Ltd,Private,2025-07-04,200000.0,100000.0,Strike Off,62,"25, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00134IN878325,MAH-Info-134 Pvt Ltd,Public,2022-03-13,1000000.0,800000.0,Amalgamated,72,"40, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00135IN134305,MAH-Info-135 Pvt Ltd,Private,2025-02-27,1200000.0,1000000.0,Dormant,62,"95, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00136IN485178,MAH-Fin-136 Pvt Ltd,Public,2019-08-08,10000000.0,8000000.0,Active,86,"166, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00137IN794963,MAH-Agro-137 Pvt Ltd,Private (Ltd by shares),2006-07-09,200000.0,100000.0,Dormant,11,"165, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00138IN925206,MAH-Fin-138 Pvt Ltd,Private,2024-01-02,10000000.0,8000000.0,Active,46,"53, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00140IN127032,MAH-Agro-140 Pvt Ltd,Public,2009-03-18,500000.0,250000.0,Active,86,"4, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00141IN846490,MAH-Fin-141 Pvt Ltd,Private,2022-12-08,160000.0,200000.0,Active,96,"125, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00142IN284731,MAH-Foods-142 Pvt Ltd,Private,2023-10-15,500000.0,500000.0,Active,70,"104, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00143IN618306,MAH-Info-143 Pvt Ltd,Private,2024-02-22,10000000.0,10000000.0,Amalgamated,63,"170, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00144IN792984,MAH-Agro-144 Pvt Ltd,Private (Ltd by shares),2007-04-27,200000.0,200000.0,Active,46,"116, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00146IN635218,MAH-Retail-146 Pvt Ltd,Public,2014-07-23,500000.0,250000.0,Active,72,"33, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00147IN395917,MAH-Consult-147 Pvt Ltd,Private,2006-06-18,100000.0,50000.0,Active,11,"8, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00148IN501384,MAH-Retail-148 Pvt Ltd,Public,2018-12-19,1000000.0,1000000.0,Strike Off,96,"98, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00149IN682401,MAH-Retail-149 Pvt Ltd,Public,2022-04-22,200000.0,160000.0,Active,47,"93, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00151IN945091,MAH-Retail-151 Pvt Ltd,Private (Ltd by shares),2020-11-14,200000.0,100000.0,Dormant,86,"117, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00152IN959907,MAH-Retail-152 Pvt Ltd,Public,2024-07-20,200000.0,160000.0,Amalgamated,71,"99, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00153IN348250,MAH-Info-153 Pvt Ltd,Public,2012-03-14,2400000.0,1000000.0,Dormant,96,"129, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00154IN606743,MAH-Info-154 Pvt Ltd,Private,2018-09-19,500000.0,250000.0,Active,72,"95, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00155IN642060,MAH-Tech-155 Pvt Ltd,Private (Ltd by shares),2023-08-23,100000.0,50000.0,Active,70,"134, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00156IN764469,MAH-Fin-156 Pvt Ltd,Public,2007-04-16,5000000.0,5000000.0,Active,86,"149, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00157IN637566,MAH-Retail-157 Pvt Ltd,Private (Ltd by shares),2024-01-11,2000000.0,1000000.0,Dormant,70,"147, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00158IN137042,MAH-Info-158 Pvt Ltd,Private (Ltd by shares),2015-07-12,10000000.0,8000000.0,Active,46,"153, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00159IN596144,MAH-Fin-159 Pvt Ltd,Private (Ltd by shares),2014-12-26,2000000.0,1600000.0,Active,86,"44, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00160IN608307,MAH-Tech-160 Pvt Ltd,Private (Ltd by shares),2006-11-10,10000000.0,10000000.0,Active,62,"33, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00161IN999529,MAH-Foods-161 Pvt Ltd,Private (Ltd by shares),2007-05-09,200000.0,200000.0,Active,62,"4, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00162IN568349,MAH-Foods-162 Pvt Ltd,Public,2008-10-06,2000000.0,2000000.0,Active,86,"45, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00163IN188501,MAH-Agro-163 Pvt Ltd,Private,2012-08-06,10000000.0,10000000.0,Active,63,"153, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00164IN768545,MAH-Agro-164 Pvt Ltd,Private (Ltd by shares),2020-07-25,1000000.0,500000.0,Dormant,96,"54, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00165IN586554,MAH-Retail-165 Pvt Ltd,Public,2016-01-21,600000.0,250000.0,Active,46,"122, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00166IN882702,MAH-Retail-166 Pvt Ltd,Private,2008-04-23,200000.0,100000.0,Active,62,"98, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00167IN289131,MAH-Retail-167 Pvt Ltd,Private,2018-04-20,200000.0,160000.0,Active,64,"38, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00168IN711218,MAH-Info-168 Pvt Ltd,Public,2014-05-08,2000000.0,1600000.0,Active,63,"166, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00169IN322526,MAH-Info-169 Pvt Ltd,Private (Ltd by shares),2007-01-16,200000.0,160000.0,Amalgamated,86,"99, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00170IN161606,MAH-Tech-170 Pvt Ltd,Private,2018-12-20,500000.0,250000.0,Active,71,"86, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00171IN365978,MAH-Fin-171 Pvt Ltd,Public,2020-06-20,5000000.0,5000000.0,Active,10,"159, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00172IN288085,MAH-Foods-172 Pvt Ltd,Private (Ltd by shares),2014-07-22,500000.0,250000.0,Active,72,"44, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00173IN656189,MAH-Retail-173 Pvt Ltd,Public,2020-06-15,200000.0,100000.0,Strike Off,96,"37, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00174IN478108,MAH-Retail-174 Pvt Ltd,Public,2008-06-02,200000.0,160000.0,Active,96,"73, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00175IN872663,MAH-Retail-175 Pvt Ltd,Private,2024-05-17,500000.0,400000.0,Active,63,"196, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00176IN255840,MAH-Tech-176 Pvt Ltd,Private,2022-11-21,10000000.0,8000000.0,Active,47,"59, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00177IN221660,MAH-Retail-177 Pvt Ltd,Public,2006-08-09,200000.0,200000.0,Dormant,64,"11, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00178IN986925,MAH-Info-178 Pvt Ltd,Private,2016-12-18,1000000.0,800000.0,Dormant,11,"38, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00179IN886365,MAH-Fin-179 Pvt Ltd,Private (Ltd by shares),2016-02-07,10000000.0,8000000.0,Active,46,"70, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00180IN180567,MAH-Agro-180 Pvt Ltd,Public,2023-04-19,100000.0,100000.0,Active,64,"197, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00181IN491704,MAH-Fin-181 Pvt Ltd,Public,2008-06-01,500000.0,500000.0,Active,64,"28, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00182IN758879,MAH-Foods-182 Pvt Ltd,Private (Ltd by shares),2009-01-03,1000000.0,1000000.0,Dormant,70,"153, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00183IN867080,MAH-Info-183 Pvt Ltd,Private,2005-06-02,5000000.0,5000000.0,Dormant,63,"146, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00184IN879930,MAH-Tech-184 Pvt Ltd,Private (Ltd by shares),2011-01-26,5000000.0,4000000.0,Strike Off,10,"141, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00185IN193520,MAH-Tech-185 Pvt Ltd,Private,2017-02-13,500000.0,250000.0,Active,64,"54, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00186IN413048,MAH-Retail-186 Pvt Ltd,Private (Ltd by shares),2017-07-10,5000000.0,5000000.0,Active,11,"111, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00187IN637555,MAH-Agro-187 Pvt Ltd,Public,2014-11-20,200000.0,160000.0,Active,63,"126, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00188IN893237,MAH-Retail-188 Pvt Ltd,Private (Ltd by shares),2017-08-09,2000000.0,2000000.0,Amalgamated,11,"95, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00189IN458345,MAH-Retail-189 Pvt Ltd,Private,2010-07-21,1000000.0,500000.0,Active,71,"174, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00190IN590963,MAH-Retail-190 Pvt Ltd,Public,2025-11-23,200000.0,160000.0,Active,62,"21, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00191IN548509,MAH-Foods-191 Pvt Ltd,Private,2014-03-05,5000000.0,4000000.0,Active,71,"146, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00192IN199074,MAH-Retail-192 Pvt Ltd,Private (Ltd by shares),2022-02-02,2000000.0,1000000.0,Amalgamated,64,"170, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00193IN117058,MAH-Tech-193 Pvt Ltd,Private (Ltd by shares),2023-05-12,500000.0,500000.0,Active,71,"190, Maharashtra",RoC-Mumbai,Maharashtra
+UBG00001JO232915,GUJ-Info-1 Pvt Ltd,Private (Ltd by shares),2012-10-11,100000.0,50000.0,Active,10,"108, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00002JO722503,GUJ-Tech-2 Pvt Ltd,Private (Ltd by shares),2008-12-03,1000000.0,800000.0,Dormant,71,"116, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00003JO774591,GUJ-Tech-3 Pvt Ltd,Public,2012-10-02,5000000.0,5000000.0,Active,70,"16, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00004JO184714,GUJ-Foods-4 Pvt Ltd,Private,2017-07-22,80000.0,80000.0,Dormant,11,"156, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00005JO726410,GUJ-Fin-5 Pvt Ltd,Public,2007-03-09,2000000.0,2000000.0,Active,64,"76, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00006JO782535,GUJ-Consult-6 Pvt Ltd,Private (Ltd by shares),2021-10-14,100000.0,100000.0,Strike Off,86,"142, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00007JO518098,GUJ-Retail-7 Pvt Ltd,Private,2011-07-15,200000.0,160000.0,Strike Off,70,"187, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00008JO820184,GUJ-Retail-8 Pvt Ltd,Private,2015-07-11,5000000.0,4000000.0,Strike Off,46,"18, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00009JO683397,GUJ-Tech-9 Pvt Ltd,Private (Ltd by shares),2007-02-14,100000.0,100000.0,Strike Off,46,"151, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00010JO886730,GUJ-Retail-10 Pvt Ltd,Private,2022-06-22,100000.0,80000.0,Strike Off,86,"185, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00011JO788637,GUJ-Retail-11 Pvt Ltd,Private,2014-10-10,500000.0,250000.0,Active,46,"58, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00013JO289179,GUJ-Foods-13 Pvt Ltd,Public,2024-11-21,3000000.0,1000000.0,Active,10,"180, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00014JO248766,GUJ-Info-14 Pvt Ltd,Private,2015-06-01,200000.0,100000.0,Amalgamated,11,"163, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00015JO457455,GUJ-Agro-15 Pvt Ltd,Public,2007-12-17,200000.0,160000.0,Amalgamated,70,"95, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00016JO891083,GUJ-Fin-16 Pvt Ltd,Private (Ltd by shares),2015-10-20,100000.0,50000.0,Active,46,"13, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00017JO563516,GUJ-Retail-17 Pvt Ltd,Private,2007-05-15,5000000.0,4000000.0,Dormant,72,"70, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00018JO811444,GUJ-Fin-18 Pvt Ltd,Private (Ltd by shares),2021-02-12,1000000.0,500000.0,Active,86,"125, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00019JO314353,GUJ-Foods-19 Pvt Ltd,Private,2014-01-08,1000000.0,1000000.0,Active,10,"55, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00020JO551574,GUJ-Agro-20 Pvt Ltd,Public,2013-05-11,100000.0,50000.0,Dormant,96,"34, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00021JO516359,GUJ-Consult-21 Pvt Ltd,Private,2022-12-08,2000000.0,2000000.0,Strike Off,11,"190, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00023JO582446,GUJ-Consult-23 Pvt Ltd,Public,2014-02-13,100000.0,80000.0,Active,72,"177, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00024JO519902,GUJ-Fin-24 Pvt Ltd,Public,2007-07-28,100000.0,50000.0,Amalgamated,72,"21, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00025JO635280,GUJ-Info-25 Pvt Ltd,Private (Ltd by shares),2014-12-11,200000.0,160000.0,Active,11,"30, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00026JO207798,GUJ-Agro-26 Pvt Ltd,Private,2021-04-25,500000.0,400000.0,Active,47,"66, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00027JO910389,GUJ-Info-27 Pvt Ltd,Public,2010-10-05,10000000.0,10000000.0,Active,46,"127, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00028JO431495,GUJ-Agro-28 Pvt Ltd,Private,2023-10-15,5000000.0,5000000.0,Strike Off,86,"113, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00029JO631981,GUJ-Tech-29 Pvt Ltd,Public,2020-08-21,500000.0,400000.0,Active,63,"80, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00030JO996840,GUJ-Tech-30 Pvt Ltd,Private (Ltd by shares),2019-01-02,400000.0,400000.0,Active,86,"158, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00031JO949153,GUJ-Fin-31 Pvt Ltd,Private,2021-07-15,2000000.0,2000000.0,Active,70,"167, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00032JO208529,GUJ-Consult-32 Pvt Ltd,Private (Ltd by shares),2015-10-16,1600000.0,1000000.0,Active,70,"88, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00033JO559022,GUJ-Retail-33 Pvt Ltd,Private (Ltd by shares),2007-09-21,200000.0,100000.0,Active,96,"135, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00034JO912085,GUJ-Foods-34 Pvt Ltd,Private (Ltd by shares),2024-03-12,500000.0,400000.0,Amalgamated,64,"174, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00035JO685066,GUJ-Info-35 Pvt Ltd,Public,2006-11-21,750000.0,250000.0,Strike Off,11,"99, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00036JO185461,GUJ-Fin-36 Pvt Ltd,Private,2013-12-28,5000000.0,5000000.0,Active,63,"170, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00037JO723945,GUJ-Info-37 Pvt Ltd,Public,2016-05-21,5000000.0,5000000.0,Amalgamated,46,"22, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00039JO480211,GUJ-Foods-39 Pvt Ltd,Private,2021-02-21,5000000.0,4000000.0,Strike Off,10,"47, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00040JO410160,GUJ-Consult-40 Pvt Ltd,Private (Ltd by shares),2015-08-07,200000.0,100000.0,Active,11,"26, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00041JO237414,GUJ-Fin-41 Pvt Ltd,Private,2022-12-17,100000.0,100000.0,Strike Off,72,"97, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00042JO558933,GUJ-Tech-42 Pvt Ltd,Public,2010-03-27,5000000.0,5000000.0,Strike Off,96,"106, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00043JO659951,GUJ-Agro-43 Pvt Ltd,Public,2012-08-20,500000.0,500000.0,Dormant,47,"80, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00044JO915922,GUJ-Retail-44 Pvt Ltd,Private (Ltd by shares),2011-06-22,2000000.0,1600000.0,Active,62,"129, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00045JO154714,GUJ-Info-45 Pvt Ltd,Public,2018-03-27,200000.0,200000.0,Active,62,"124, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00046JO187949,GUJ-Consult-46 Pvt Ltd,Public,2022-02-23,10000000.0,10000000.0,Active,62,"42, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00049JO244283,GUJ-Tech-49 Pvt Ltd,Public,2015-02-27,6000000.0,5000000.0,Strike Off,46,"74, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00050JO119927,GUJ-Foods-50 Pvt Ltd,Private,2009-12-16,1000000.0,1000000.0,Active,11,"56, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00051JO349183,GUJ-Foods-51 Pvt Ltd,Private,2022-12-20,2000000.0,1600000.0,Active,62,"32, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00052JO216242,GUJ-Consult-52 Pvt Ltd,Private (Ltd by shares),2012-07-21,10000000.0,10000000.0,Dormant,11,"128, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00053JO250551,GUJ-Foods-53 Pvt Ltd,Private,2022-01-21,3000000.0,2000000.0,Active,96,"110, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00054JO800674,GUJ-Tech-54 Pvt Ltd,Public,2024-06-08,2000000.0,1600000.0,Active,86,"135, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00055JO592972,GUJ-Tech-55 Pvt Ltd,Public,2007-09-18,2000000.0,2000000.0,Active,64,"163, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00056JO352838,GUJ-Info-56 Pvt Ltd,Private (Ltd by shares),2016-05-24,100000.0,80000.0,Active,63,"169, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00057JO469412,GUJ-Fin-57 Pvt Ltd,Private (Ltd by shares),2008-10-24,10000000.0,8000000.0,Active,10,"87, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00058JO166165,GUJ-Info-58 Pvt Ltd,Public,2010-11-15,5000000.0,4000000.0,Active,46,"199, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00059JO425138,GUJ-Fin-59 Pvt Ltd,Private (Ltd by shares),2006-05-07,100000.0,50000.0,Active,63,"102, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00061JO879414,GUJ-Retail-61 Pvt Ltd,Public,2025-06-09,100000.0,80000.0,Amalgamated,64,"99, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00062JO862400,GUJ-Retail-62 Pvt Ltd,Public,2010-08-23,1000000.0,800000.0,Active,11,"21, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00063JO443848,GUJ-Info-63 Pvt Ltd,Public,2024-03-18,500000.0,400000.0,Active,11,"76, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00064JO568849,GUJ-Tech-64 Pvt Ltd,Public,2019-10-23,1000000.0,500000.0,Dormant,63,"187, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00065JO768480,GUJ-Retail-65 Pvt Ltd,Private (Ltd by shares),2024-07-09,5000000.0,2500000.0,Active,86,"94, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00066JO232361,GUJ-Tech-66 Pvt Ltd,Private (Ltd by shares),2010-01-05,10000000.0,10000000.0,Dormant,10,"61, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00067JO571778,GUJ-Foods-67 Pvt Ltd,Public,2016-06-13,2000000.0,1000000.0,Active,86,"96, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00069JO223481,GUJ-Foods-69 Pvt Ltd,Public,2005-12-06,1000000.0,1000000.0,Amalgamated,71,"199, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00070JO228594,GUJ-Agro-70 Pvt Ltd,Public,2019-04-20,400000.0,500000.0,Dormant,47,"19, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00071JO464301,GUJ-Info-71 Pvt Ltd,Private (Ltd by shares),2010-12-15,150000.0,100000.0,Strike Off,86,"17, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00072JO633469,GUJ-Agro-72 Pvt Ltd,Private,2022-05-10,10000000.0,5000000.0,Strike Off,63,"32, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00073JO700076,GUJ-Foods-73 Pvt Ltd,Private (Ltd by shares),2009-04-26,1000000.0,500000.0,Strike Off,71,"120, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00074JO853789,GUJ-Retail-74 Pvt Ltd,Public,2009-10-03,100000.0,80000.0,Active,96,"135, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00075JO588461,GUJ-Info-75 Pvt Ltd,Public,2018-10-03,200000.0,160000.0,Strike Off,70,"133, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00076JO627290,GUJ-Consult-76 Pvt Ltd,Private,2009-09-21,2000000.0,1000000.0,Active,64,"15, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00077JO336422,GUJ-Foods-77 Pvt Ltd,Public,2021-03-10,240000.0,100000.0,Strike Off,96,"133, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00078JO755383,GUJ-Foods-78 Pvt Ltd,Private (Ltd by shares),2007-05-07,5000000.0,5000000.0,Active,46,"158, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00079JO790731,GUJ-Fin-79 Pvt Ltd,Private (Ltd by shares),2007-09-21,200000.0,200000.0,Active,46,"185, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00081JO757629,GUJ-Fin-81 Pvt Ltd,Private (Ltd by shares),2025-04-25,2000000.0,1600000.0,Active,70,"75, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00082JO575575,GUJ-Tech-82 Pvt Ltd,Private,2014-08-08,10000000.0,10000000.0,Active,62,"177, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00083JO736129,GUJ-Agro-83 Pvt Ltd,Private (Ltd by shares),2010-08-14,1000000.0,800000.0,Active,63,"81, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00085JO201514,GUJ-Tech-85 Pvt Ltd,Public,2012-08-04,400000.0,400000.0,Active,46,"75, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00086JO856157,GUJ-Foods-86 Pvt Ltd,Private,2024-07-08,10000000.0,5000000.0,Strike Off,72,"49, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00087JO194423,GUJ-Retail-87 Pvt Ltd,Public,2020-09-15,1800000.0,800000.0,Dormant,10,"130, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00088JO618934,GUJ-Fin-88 Pvt Ltd,Private (Ltd by shares),2012-04-19,600000.0,250000.0,Active,62,"168, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00089JO377319,GUJ-Info-89 Pvt Ltd,Public,2020-05-18,100000.0,50000.0,Dormant,46,"94, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00090JO680096,GUJ-Foods-90 Pvt Ltd,Public,2016-01-13,80000.0,100000.0,Active,63,"19, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00091JO201377,GUJ-Retail-91 Pvt Ltd,Public,2021-08-25,3000000.0,1600000.0,Active,46,"96, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00092JO142210,GUJ-Tech-92 Pvt Ltd,Private,2022-06-25,200000.0,100000.0,Amalgamated,71,"10, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00093JO742848,GUJ-Foods-93 Pvt Ltd,Public,2015-08-17,1000000.0,500000.0,Active,63,"42, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00094JO968524,GUJ-Fin-94 Pvt Ltd,Public,2024-12-27,400000.0,500000.0,Strike Off,71,"137, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00095JO806537,GUJ-Tech-95 Pvt Ltd,Private (Ltd by shares),2023-05-16,10000000.0,5000000.0,Strike Off,63,"107, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00096JO597643,GUJ-Foods-96 Pvt Ltd,Private (Ltd by shares),2014-12-28,5000000.0,5000000.0,Active,72,"168, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00097JO649697,GUJ-Info-97 Pvt Ltd,Private (Ltd by shares),2023-04-24,100000.0,100000.0,Dormant,46,"185, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00099JO626195,GUJ-Consult-99 Pvt Ltd,Public,2019-06-14,200000.0,160000.0,Active,64,"157, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00101JO909489,GUJ-Consult-101 Pvt Ltd,Private (Ltd by shares),2010-08-18,500000.0,500000.0,Strike Off,86,"185, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00102JO392559,GUJ-Fin-102 Pvt Ltd,Private,2025-12-09,2000000.0,1600000.0,Active,47,"77, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00103JO603110,GUJ-Foods-103 Pvt Ltd,Private (Ltd by shares),2014-05-23,200000.0,200000.0,Active,63,"144, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00104JO958130,GUJ-Foods-104 Pvt Ltd,Private,2013-05-04,2000000.0,2000000.0,Active,64,"198, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00105JO787836,GUJ-Foods-105 Pvt Ltd,Public,2014-01-10,5000000.0,2500000.0,Strike Off,70,"192, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00107JO344146,GUJ-Tech-107 Pvt Ltd,Public,2012-04-02,5000000.0,5000000.0,Active,86,"26, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00108JO677086,GUJ-Agro-108 Pvt Ltd,Private (Ltd by shares),2015-12-16,100000.0,100000.0,Dormant,10,"105, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00109JO777273,GUJ-Tech-109 Pvt Ltd,Private,2020-08-21,200000.0,160000.0,Strike Off,62,"197, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00110JO538184,GUJ-Consult-110 Pvt Ltd,Private,2025-10-08,2000000.0,2000000.0,Active,46,"46, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00111JO412886,GUJ-Fin-111 Pvt Ltd,Private,2017-08-06,5000000.0,4000000.0,Active,10,"155, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00113JO369761,GUJ-Info-113 Pvt Ltd,Private,2011-02-11,200000.0,200000.0,Dormant,86,"48, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00114JO997734,GUJ-Info-114 Pvt Ltd,Public,2015-05-19,5000000.0,2500000.0,Strike Off,72,"104, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00115JO247442,GUJ-Retail-115 Pvt Ltd,Private,2021-06-03,1800000.0,1000000.0,Active,46,"83, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00116JO416613,GUJ-Fin-116 Pvt Ltd,Private (Ltd by shares),2005-05-13,200000.0,160000.0,Amalgamated,63,"186, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00117JO800224,GUJ-Tech-117 Pvt Ltd,Public,2005-05-21,750000.0,500000.0,Active,10,"120, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00118JO223119,GUJ-Info-118 Pvt Ltd,Public,2010-07-22,2400000.0,2000000.0,Active,96,"76, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00119JO884056,GUJ-Fin-119 Pvt Ltd,Public,2024-04-08,200000.0,160000.0,Active,70,"96, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00120JO813390,GUJ-Consult-120 Pvt Ltd,Private,2022-08-25,2400000.0,2000000.0,Active,47,"153, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00121JO217659,GUJ-Tech-121 Pvt Ltd,Private (Ltd by shares),2021-08-17,7500000.0,4000000.0,Active,72,"141, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00123JO238353,GUJ-Fin-123 Pvt Ltd,Public,2023-08-03,2000000.0,1600000.0,Active,70,"107, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00124JO122827,GUJ-Retail-124 Pvt Ltd,Private,2023-01-18,1200000.0,1000000.0,Active,96,"66, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00126JO864715,GUJ-Info-126 Pvt Ltd,Public,2020-01-10,1000000.0,500000.0,Active,86,"108, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00127JO793939,GUJ-Consult-127 Pvt Ltd,Private,2017-08-28,1000000.0,800000.0,Dormant,86,"139, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00128JO233533,GUJ-Info-128 Pvt Ltd,Private,2025-06-04,200000.0,200000.0,Amalgamated,71,"58, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00129JO497700,GUJ-Consult-129 Pvt Ltd,Private,2005-05-15,5000000.0,5000000.0,Amalgamated,71,"59, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00130JO948799,GUJ-Info-130 Pvt Ltd,Private (Ltd by shares),2019-06-05,500000.0,250000.0,Active,10,"108, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00131JO726822,GUJ-Info-131 Pvt Ltd,Private,2005-04-07,100000.0,50000.0,Dormant,70,"181, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00132JO327823,GUJ-Consult-132 Pvt Ltd,Private,2012-12-02,1000000.0,800000.0,Active,71,"199, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00133JO726962,GUJ-Consult-133 Pvt Ltd,Public,2009-09-10,240000.0,200000.0,Strike Off,72,"173, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00134JO415098,GUJ-Foods-134 Pvt Ltd,Private (Ltd by shares),2012-05-05,5000000.0,5000000.0,Active,64,"16, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00135JO619696,GUJ-Tech-135 Pvt Ltd,Private (Ltd by shares),2023-12-06,5000000.0,5000000.0,Amalgamated,71,"89, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00138JO446305,GUJ-Info-138 Pvt Ltd,Public,2022-09-05,1000000.0,500000.0,Active,47,"21, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00139JO495489,GUJ-Info-139 Pvt Ltd,Private (Ltd by shares),2016-02-18,5000000.0,2500000.0,Active,62,"155, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00140JO319036,GUJ-Consult-140 Pvt Ltd,Public,2006-02-07,15000000.0,10000000.0,Active,70,"86, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00141JO952283,GUJ-Foods-141 Pvt Ltd,Public,2013-01-13,1000000.0,800000.0,Dormant,62,"46, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00142JO615959,GUJ-Tech-142 Pvt Ltd,Private (Ltd by shares),2007-08-07,2000000.0,1600000.0,Active,86,"37, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00143JO371577,GUJ-Tech-143 Pvt Ltd,Private,2018-04-20,5000000.0,2500000.0,Dormant,96,"9, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00144JO256085,GUJ-Info-144 Pvt Ltd,Private,2007-10-24,500000.0,400000.0,Active,70,"164, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00145JO702553,GUJ-Tech-145 Pvt Ltd,Private (Ltd by shares),2006-11-13,500000.0,250000.0,Strike Off,64,"132, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00146JO336817,GUJ-Tech-146 Pvt Ltd,Private (Ltd by shares),2020-08-14,1000000.0,1000000.0,Active,71,"99, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00147JO417538,GUJ-Retail-147 Pvt Ltd,Private (Ltd by shares),2020-02-19,2000000.0,1600000.0,Strike Off,86,"15, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00148JO897392,GUJ-Consult-148 Pvt Ltd,Private (Ltd by shares),2025-02-12,2000000.0,1600000.0,Active,70,"75, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00149JO829685,GUJ-Retail-149 Pvt Ltd,Private (Ltd by shares),2011-03-18,100000.0,80000.0,Active,62,"28, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00150JO137432,GUJ-Agro-150 Pvt Ltd,Private (Ltd by shares),2016-08-03,5000000.0,4000000.0,Active,46,"7, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00151JO659876,GUJ-Consult-151 Pvt Ltd,Private,2023-04-16,1000000.0,500000.0,Active,70,"116, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00152JO223928,GUJ-Agro-152 Pvt Ltd,Private (Ltd by shares),2006-06-02,500000.0,500000.0,Active,64,"168, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00153JO707488,GUJ-Agro-153 Pvt Ltd,Private,2021-08-22,10000000.0,10000000.0,Active,96,"19, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00154JO835363,GUJ-Info-154 Pvt Ltd,Private,2009-08-21,80000.0,80000.0,Active,47,"34, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00155JO278980,GUJ-Consult-155 Pvt Ltd,Private,2010-11-02,500000.0,250000.0,Amalgamated,72,"152, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00156JO943530,GUJ-Agro-156 Pvt Ltd,Public,2008-02-16,2000000.0,2000000.0,Active,11,"110, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00157JO977057,GUJ-Consult-157 Pvt Ltd,Private,2017-06-04,5000000.0,5000000.0,Active,63,"55, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00158JO894348,GUJ-Retail-158 Pvt Ltd,Private (Ltd by shares),2023-03-11,100000.0,50000.0,Active,46,"44, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00159JO204823,GUJ-Consult-159 Pvt Ltd,Private (Ltd by shares),2016-09-06,1000000.0,500000.0,Active,46,"162, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00160JO288128,GUJ-Tech-160 Pvt Ltd,Private (Ltd by shares),2017-03-01,1000000.0,500000.0,Active,10,"181, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00161JO250038,GUJ-Info-161 Pvt Ltd,Private (Ltd by shares),2023-05-14,5000000.0,4000000.0,Dormant,47,"70, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00162JO288744,GUJ-Info-162 Pvt Ltd,Private (Ltd by shares),2019-07-08,200000.0,200000.0,Active,72,"128, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00163JO104792,GUJ-Fin-163 Pvt Ltd,Private,2007-11-27,10000000.0,8000000.0,Strike Off,64,"61, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00164JO907750,GUJ-Info-164 Pvt Ltd,Private,2008-09-04,2000000.0,1600000.0,Active,70,"169, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00165JO284888,GUJ-Agro-165 Pvt Ltd,Private,2013-01-07,100000.0,50000.0,Dormant,70,"172, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00166JO559392,GUJ-Agro-166 Pvt Ltd,Private,2005-03-10,5000000.0,2500000.0,Dormant,63,"130, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00167JO407645,GUJ-Info-167 Pvt Ltd,Public,2023-11-11,2000000.0,2000000.0,Dormant,46,"183, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00168JO752048,GUJ-Agro-168 Pvt Ltd,Private (Ltd by shares),2018-11-21,5000000.0,4000000.0,Dormant,46,"73, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00169JO735173,GUJ-Retail-169 Pvt Ltd,Public,2007-11-16,200000.0,100000.0,Active,46,"26, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00170JO476215,GUJ-Foods-170 Pvt Ltd,Private (Ltd by shares),2020-05-08,200000.0,200000.0,Active,10,"92, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00171JO454140,GUJ-Retail-171 Pvt Ltd,Private (Ltd by shares),2010-03-27,10000000.0,10000000.0,Active,11,"30, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00172JO923012,GUJ-Foods-172 Pvt Ltd,Private,2012-02-18,200000.0,160000.0,Active,63,"197, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00173JO152871,GUJ-Retail-173 Pvt Ltd,Private,2022-05-05,10000000.0,10000000.0,Active,96,"118, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00174JO210531,GUJ-Agro-174 Pvt Ltd,Private,2008-10-20,10000000.0,5000000.0,Active,71,"162, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00175JO622600,GUJ-Info-175 Pvt Ltd,Private,2011-06-06,5000000.0,4000000.0,Dormant,71,"26, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00176JO560438,GUJ-Retail-176 Pvt Ltd,Private,2025-06-11,10000000.0,5000000.0,Active,47,"197, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00177JO378937,GUJ-Foods-177 Pvt Ltd,Public,2012-08-11,500000.0,500000.0,Active,11,"184, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00178JO244697,GUJ-Consult-178 Pvt Ltd,Public,2016-11-22,200000.0,100000.0,Amalgamated,47,"110, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00179JO564077,GUJ-Agro-179 Pvt Ltd,Private,2018-08-28,2000000.0,2000000.0,Strike Off,10,"198, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00180JO555157,GUJ-Tech-180 Pvt Ltd,Private,2021-02-03,500000.0,400000.0,Amalgamated,46,"101, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00181JO521530,GUJ-Info-181 Pvt Ltd,Private (Ltd by shares),2025-03-19,100000.0,100000.0,Active,64,"180, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00182JO653429,GUJ-Fin-182 Pvt Ltd,Private (Ltd by shares),2014-12-24,500000.0,400000.0,Active,62,"38, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00183JO462021,GUJ-Consult-183 Pvt Ltd,Public,2017-08-21,200000.0,200000.0,Dormant,96,"167, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00184JO860321,GUJ-Info-184 Pvt Ltd,Private,2011-05-03,100000.0,100000.0,Strike Off,64,"190, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00185JO457259,GUJ-Consult-185 Pvt Ltd,Private,2021-09-10,200000.0,100000.0,Active,71,"163, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00186JO972655,GUJ-Consult-186 Pvt Ltd,Private (Ltd by shares),2005-01-26,2000000.0,2000000.0,Active,47,"78, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00187JO757446,GUJ-Fin-187 Pvt Ltd,Private,2018-09-04,5000000.0,2500000.0,Strike Off,62,"91, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00188JO455446,GUJ-Agro-188 Pvt Ltd,Private (Ltd by shares),2006-11-04,1000000.0,800000.0,Active,70,"191, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00189JO413735,GUJ-Foods-189 Pvt Ltd,Private (Ltd by shares),2023-12-21,5000000.0,5000000.0,Active,63,"171, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00190JO443772,GUJ-Fin-190 Pvt Ltd,Private,2023-11-05,5000000.0,4000000.0,Active,11,"150, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00191JO185927,GUJ-Tech-191 Pvt Ltd,Public,2016-08-04,200000.0,200000.0,Amalgamated,64,"16, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00192JO651818,GUJ-Retail-192 Pvt Ltd,Private (Ltd by shares),2009-08-07,1000000.0,500000.0,Strike Off,86,"151, Gujarat",RoC-Ahmedabad,Gujarat
+UBG00193JO543990,GUJ-Retail-193 Pvt Ltd,Public,2021-07-28,500000.0,500000.0,Dormant,86,"177, Gujarat",RoC-Ahmedabad,Gujarat
+UCH00001KP829417,DEL-Fin-1 Pvt Ltd,Private,2005-04-07,5000000.0,2500000.0,Dormant,47,"181, Delhi",RoC-Delhi,Delhi
+UCH00002KP659572,DEL-Info-2 Pvt Ltd,Public,2017-04-18,500000.0,400000.0,Amalgamated,70,"92, Delhi",RoC-Delhi,Delhi
+UCH00003KP592296,DEL-Consult-3 Pvt Ltd,Private,2013-06-17,1000000.0,800000.0,Active,96,"82, Delhi",RoC-Delhi,Delhi
+UCH00004KP253011,DEL-Tech-4 Pvt Ltd,Private (Ltd by shares),2016-06-14,100000.0,100000.0,Amalgamated,96,"67, Delhi",RoC-Delhi,Delhi
+UCH00005KP445888,DEL-Agro-5 Pvt Ltd,Private (Ltd by shares),2023-10-24,1000000.0,800000.0,Active,47,"98, Delhi",RoC-Delhi,Delhi
+UCH00006KP900441,DEL-Consult-6 Pvt Ltd,Private (Ltd by shares),2012-08-18,5000000.0,5000000.0,Strike Off,62,"126, Delhi",RoC-Delhi,Delhi
+UCH00007KP246757,DEL-Info-7 Pvt Ltd,Public,2025-12-16,1000000.0,500000.0,Dormant,46,"140, Delhi",RoC-Delhi,Delhi
+UCH00008KP957730,DEL-Info-8 Pvt Ltd,Private,2010-09-21,100000.0,100000.0,Active,11,"13, Delhi",RoC-Delhi,Delhi
+UCH00009KP258366,DEL-Tech-9 Pvt Ltd,Private (Ltd by shares),2018-03-27,5000000.0,2500000.0,Amalgamated,96,"56, Delhi",RoC-Delhi,Delhi
+UCH00010KP611552,DEL-Tech-10 Pvt Ltd,Private (Ltd by shares),2019-06-02,2000000.0,2000000.0,Dormant,86,"2, Delhi",RoC-Delhi,Delhi
+UCH00011KP400614,DEL-Tech-11 Pvt Ltd,Private (Ltd by shares),2022-07-01,100000.0,100000.0,Active,71,"129, Delhi",RoC-Delhi,Delhi
+UCH00012KP301255,DEL-Fin-12 Pvt Ltd,Public,2018-03-04,120000.0,100000.0,Active,47,"135, Delhi",RoC-Delhi,Delhi
+UCH00013KP581294,DEL-Fin-13 Pvt Ltd,Private (Ltd by shares),2016-05-26,1000000.0,500000.0,Strike Off,64,"63, Delhi",RoC-Delhi,Delhi
+UCH00015KP624139,DEL-Consult-15 Pvt Ltd,Private (Ltd by shares),2020-01-21,80000.0,100000.0,Active,11,"112, Delhi",RoC-Delhi,Delhi
+UCH00016KP321686,DEL-Consult-16 Pvt Ltd,Private (Ltd by shares),2015-10-28,100000.0,100000.0,Dormant,47,"178, Delhi",RoC-Delhi,Delhi
+UCH00017KP690882,DEL-Info-17 Pvt Ltd,Private,2020-05-02,100000.0,100000.0,Active,71,"9, Delhi",RoC-Delhi,Delhi
+UCH00018KP413814,DEL-Agro-18 Pvt Ltd,Private,2015-01-07,2000000.0,1000000.0,Amalgamated,11,"145, Delhi",RoC-Delhi,Delhi
+UCH00019KP246748,DEL-Consult-19 Pvt Ltd,Private (Ltd by shares),2023-07-22,2000000.0,1600000.0,Amalgamated,96,"177, Delhi",RoC-Delhi,Delhi
+UCH00020KP343420,DEL-Consult-20 Pvt Ltd,Public,2007-09-24,500000.0,250000.0,Amalgamated,64,"20, Delhi",RoC-Delhi,Delhi
+UCH00021KP386604,DEL-Consult-21 Pvt Ltd,Public,2024-10-20,1000000.0,800000.0,Active,86,"116, Delhi",RoC-Delhi,Delhi
+UCH00022KP714334,DEL-Info-22 Pvt Ltd,Private,2012-06-18,1000000.0,800000.0,Active,86,"98, Delhi",RoC-Delhi,Delhi
+UCH00023KP380989,DEL-Agro-23 Pvt Ltd,Private (Ltd by shares),2024-05-26,200000.0,200000.0,Active,11,"98, Delhi",RoC-Delhi,Delhi
+UCH00024KP195966,DEL-Tech-24 Pvt Ltd,Public,2025-03-24,1000000.0,800000.0,Strike Off,11,"79, Delhi",RoC-Delhi,Delhi
+UCH00025KP570646,DEL-Fin-25 Pvt Ltd,Private (Ltd by shares),2016-05-04,200000.0,100000.0,Active,64,"143, Delhi",RoC-Delhi,Delhi
+UCH00026KP727094,DEL-Consult-26 Pvt Ltd,Public,2018-02-01,100000.0,80000.0,Active,72,"84, Delhi",RoC-Delhi,Delhi
+UCH00027KP646417,DEL-Agro-27 Pvt Ltd,Public,2005-05-14,1000000.0,500000.0,Dormant,72,"176, Delhi",RoC-Delhi,Delhi
+UCH00028KP166340,DEL-Agro-28 Pvt Ltd,Public,2010-03-09,500000.0,400000.0,Dormant,46,"112, Delhi",RoC-Delhi,Delhi
+UCH00029KP358568,DEL-Info-29 Pvt Ltd,Public,2018-05-16,10000000.0,5000000.0,Strike Off,62,"161, Delhi",RoC-Delhi,Delhi
+UCH00030KP107096,DEL-Retail-30 Pvt Ltd,Private (Ltd by shares),2024-10-07,1200000.0,500000.0,Active,62,"86, Delhi",RoC-Delhi,Delhi
+UCH00031KP436241,DEL-Fin-31 Pvt Ltd,Private,2017-06-15,500000.0,400000.0,Amalgamated,62,"178, Delhi",RoC-Delhi,Delhi
+UCH00032KP828716,DEL-Info-32 Pvt Ltd,Private (Ltd by shares),2020-06-06,1200000.0,800000.0,Strike Off,96,"126, Delhi",RoC-Delhi,Delhi
+UCH00033KP691240,DEL-Agro-33 Pvt Ltd,Private (Ltd by shares),2012-06-13,500000.0,400000.0,Strike Off,11,"152, Delhi",RoC-Delhi,Delhi
+UCH00036KP520274,DEL-Fin-36 Pvt Ltd,Private (Ltd by shares),2018-07-03,1000000.0,1000000.0,Dormant,72,"130, Delhi",RoC-Delhi,Delhi
+UCH00037KP906306,DEL-Agro-37 Pvt Ltd,Private (Ltd by shares),2018-09-02,10000000.0,8000000.0,Active,11,"169, Delhi",RoC-Delhi,Delhi
+UCH00039KP492292,DEL-Retail-39 Pvt Ltd,Private (Ltd by shares),2008-05-08,2000000.0,2000000.0,Active,70,"119, Delhi",RoC-Delhi,Delhi
+UCH00040KP209627,DEL-Foods-40 Pvt Ltd,Private,2023-12-17,200000.0,160000.0,Active,70,"107, Delhi",RoC-Delhi,Delhi
+UCH00041KP922366,DEL-Agro-41 Pvt Ltd,Public,2008-12-05,500000.0,400000.0,Strike Off,70,"134, Delhi",RoC-Delhi,Delhi
+UCH00042KP170437,DEL-Foods-42 Pvt Ltd,Private (Ltd by shares),2016-08-04,1800000.0,1000000.0,Dormant,63,"12, Delhi",RoC-Delhi,Delhi
+UCH00044KP343118,DEL-Consult-44 Pvt Ltd,Private (Ltd by shares),2021-03-18,200000.0,160000.0,Amalgamated,70,"104, Delhi",RoC-Delhi,Delhi
+UCH00045KP873207,DEL-Fin-45 Pvt Ltd,Public,2010-03-21,5000000.0,4000000.0,Strike Off,10,"51, Delhi",RoC-Delhi,Delhi
+UCH00046KP391865,DEL-Consult-46 Pvt Ltd,Private,2023-07-13,120000.0,100000.0,Active,47,"181, Delhi",RoC-Delhi,Delhi
+UCH00047KP441819,DEL-Agro-47 Pvt Ltd,Private,2023-02-26,10000000.0,10000000.0,Active,63,"118, Delhi",RoC-Delhi,Delhi
+UCH00048KP507517,DEL-Fin-48 Pvt Ltd,Private (Ltd by shares),2013-11-28,1000000.0,1000000.0,Strike Off,72,"101, Delhi",RoC-Delhi,Delhi
+UCH00049KP840282,DEL-Consult-49 Pvt Ltd,Private (Ltd by shares),2008-06-12,10000000.0,8000000.0,Active,86,"77, Delhi",RoC-Delhi,Delhi
+UCH00050KP420214,DEL-Tech-50 Pvt Ltd,Public,2023-02-22,200000.0,160000.0,Active,47,"47, Delhi",RoC-Delhi,Delhi
+UCH00051KP502349,DEL-Retail-51 Pvt Ltd,Public,2009-09-13,1000000.0,1000000.0,Active,72,"48, Delhi",RoC-Delhi,Delhi
+UCH00052KP402865,DEL-Agro-52 Pvt Ltd,Public,2025-09-23,5000000.0,2500000.0,Active,70,"48, Delhi",RoC-Delhi,Delhi
+UCH00053KP243167,DEL-Agro-53 Pvt Ltd,Private (Ltd by shares),2019-10-02,10000000.0,8000000.0,Active,70,"99, Delhi",RoC-Delhi,Delhi
+UCH00055KP388204,DEL-Agro-55 Pvt Ltd,Public,2010-02-19,100000.0,50000.0,Active,10,"138, Delhi",RoC-Delhi,Delhi
+UCH00056KP219754,DEL-Foods-56 Pvt Ltd,Private (Ltd by shares),2010-08-19,5000000.0,4000000.0,Active,72,"199, Delhi",RoC-Delhi,Delhi
+UCH00057KP329157,DEL-Retail-57 Pvt Ltd,Private (Ltd by shares),2016-09-27,10000000.0,5000000.0,Dormant,71,"27, Delhi",RoC-Delhi,Delhi
+UCH00058KP465509,DEL-Consult-58 Pvt Ltd,Public,2025-04-10,10000000.0,5000000.0,Dormant,62,"23, Delhi",RoC-Delhi,Delhi
+UCH00059KP739905,DEL-Info-59 Pvt Ltd,Private,2008-04-07,12000000.0,10000000.0,Strike Off,96,"110, Delhi",RoC-Delhi,Delhi
+UCH00060KP467856,DEL-Fin-60 Pvt Ltd,Private (Ltd by shares),2024-03-26,300000.0,100000.0,Active,72,"72, Delhi",RoC-Delhi,Delhi
+UCH00061KP380329,DEL-Consult-61 Pvt Ltd,Private (Ltd by shares),2022-03-11,5000000.0,4000000.0,Amalgamated,72,"132, Delhi",RoC-Delhi,Delhi
+UCH00062KP787757,DEL-Agro-62 Pvt Ltd,Private,2008-03-25,10000000.0,8000000.0,Active,62,"180, Delhi",RoC-Delhi,Delhi
+UCH00063KP249077,DEL-Fin-63 Pvt Ltd,Public,2012-03-23,500000.0,250000.0,Amalgamated,70,"162, Delhi",RoC-Delhi,Delhi
+UCH00064KP640659,DEL-Info-64 Pvt Ltd,Private (Ltd by shares),2025-07-13,1000000.0,500000.0,Active,64,"72, Delhi",RoC-Delhi,Delhi
+UCH00066KP964915,DEL-Agro-66 Pvt Ltd,Public,2016-02-26,2000000.0,1600000.0,Amalgamated,64,"127, Delhi",RoC-Delhi,Delhi
+UCH00067KP993829,DEL-Retail-67 Pvt Ltd,Private (Ltd by shares),2015-05-11,2000000.0,2000000.0,Active,72,"88, Delhi",RoC-Delhi,Delhi
+UCH00068KP999312,DEL-Agro-68 Pvt Ltd,Public,2006-01-04,5000000.0,4000000.0,Active,11,"113, Delhi",RoC-Delhi,Delhi
+UCH00069KP387330,DEL-Tech-69 Pvt Ltd,Public,2005-07-07,5000000.0,2500000.0,Amalgamated,46,"168, Delhi",RoC-Delhi,Delhi
+UCH00070KP515594,DEL-Info-70 Pvt Ltd,Private (Ltd by shares),2013-02-12,5000000.0,5000000.0,Dormant,10,"79, Delhi",RoC-Delhi,Delhi
+UCH00071KP323788,DEL-Retail-71 Pvt Ltd,Private,2012-07-21,100000.0,100000.0,Active,10,"20, Delhi",RoC-Delhi,Delhi
+UCH00072KP829386,DEL-Foods-72 Pvt Ltd,Public,2023-04-17,5000000.0,4000000.0,Active,10,"31, Delhi",RoC-Delhi,Delhi
+UCH00074KP656278,DEL-Fin-74 Pvt Ltd,Private (Ltd by shares),2016-05-05,1000000.0,500000.0,Active,11,"3, Delhi",RoC-Delhi,Delhi
+UCH00075KP884616,DEL-Agro-75 Pvt Ltd,Private (Ltd by shares),2025-03-15,500000.0,500000.0,Active,86,"106, Delhi",RoC-Delhi,Delhi
+UCH00076KP865470,DEL-Retail-76 Pvt Ltd,Public,2019-04-03,100000.0,50000.0,Active,72,"90, Delhi",RoC-Delhi,Delhi
+UCH00077KP680278,DEL-Fin-77 Pvt Ltd,Private (Ltd by shares),2015-03-08,500000.0,500000.0,Active,47,"154, Delhi",RoC-Delhi,Delhi
+UCH00078KP642899,DEL-Fin-78 Pvt Ltd,Private,2024-05-25,5000000.0,2500000.0,Active,47,"131, Delhi",RoC-Delhi,Delhi
+UCH00079KP218220,DEL-Agro-79 Pvt Ltd,Private (Ltd by shares),2017-05-21,150000.0,50000.0,Dormant,64,"128, Delhi",RoC-Delhi,Delhi
+UCH00080KP505629,DEL-Consult-80 Pvt Ltd,Public,2024-02-17,80000.0,80000.0,Strike Off,46,"146, Delhi",RoC-Delhi,Delhi
+UCH00081KP715895,DEL-Tech-81 Pvt Ltd,Public,2016-09-22,200000.0,160000.0,Active,10,"4, Delhi",RoC-Delhi,Delhi
+UCH00082KP847245,DEL-Fin-82 Pvt Ltd,Public,2011-01-02,10000000.0,8000000.0,Active,86,"197, Delhi",RoC-Delhi,Delhi
+UCH00083KP187657,DEL-Foods-83 Pvt Ltd,Private (Ltd by shares),2018-12-13,100000.0,100000.0,Dormant,62,"21, Delhi",RoC-Delhi,Delhi
+UCH00084KP832614,DEL-Retail-84 Pvt Ltd,Private,2011-03-18,500000.0,400000.0,Active,62,"187, Delhi",RoC-Delhi,Delhi
+UCH00085KP738407,DEL-Tech-85 Pvt Ltd,Private (Ltd by shares),2006-04-03,1000000.0,500000.0,Dormant,72,"80, Delhi",RoC-Delhi,Delhi
+UCH00087KP223791,DEL-Consult-87 Pvt Ltd,Public,2013-03-12,240000.0,200000.0,Active,96,"8, Delhi",RoC-Delhi,Delhi
+UCH00088KP577309,DEL-Fin-88 Pvt Ltd,Private,2018-05-17,150000.0,80000.0,Active,70,"93, Delhi",RoC-Delhi,Delhi
+UCH00089KP701790,DEL-Info-89 Pvt Ltd,Private,2020-10-06,500000.0,250000.0,Active,11,"186, Delhi",RoC-Delhi,Delhi
+UCH00090KP148215,DEL-Retail-90 Pvt Ltd,Public,2012-12-17,100000.0,50000.0,Active,47,"94, Delhi",RoC-Delhi,Delhi
+UCH00091KP437433,DEL-Agro-91 Pvt Ltd,Private (Ltd by shares),2009-03-28,100000.0,100000.0,Amalgamated,47,"107, Delhi",RoC-Delhi,Delhi
+UCH00092KP626428,DEL-Info-92 Pvt Ltd,Private,2015-05-27,150000.0,100000.0,Strike Off,11,"14, Delhi",RoC-Delhi,Delhi
+UCH00093KP911102,DEL-Consult-93 Pvt Ltd,Public,2012-09-02,1000000.0,500000.0,Dormant,62,"80, Delhi",RoC-Delhi,Delhi
+UCH00095KP868043,DEL-Fin-95 Pvt Ltd,Private,2024-04-15,500000.0,500000.0,Dormant,47,"195, Delhi",RoC-Delhi,Delhi
+UCH00096KP980357,DEL-Info-96 Pvt Ltd,Public,2009-01-14,100000.0,50000.0,Strike Off,86,"3, Delhi",RoC-Delhi,Delhi
+UCH00097KP315161,DEL-Fin-97 Pvt Ltd,Public,2005-11-13,10000000.0,10000000.0,Active,11,"61, Delhi",RoC-Delhi,Delhi
+UCH00098KP342716,DEL-Consult-98 Pvt Ltd,Public,2020-01-05,5000000.0,4000000.0,Active,10,"134, Delhi",RoC-Delhi,Delhi
+UCH00099KP239999,DEL-Info-99 Pvt Ltd,Private,2016-08-24,80000.0,100000.0,Active,71,"101, Delhi",RoC-Delhi,Delhi
+UCH00100KP405844,DEL-Foods-100 Pvt Ltd,Public,2023-10-02,1000000.0,1000000.0,Active,47,"81, Delhi",RoC-Delhi,Delhi
+UCH00101KP242723,DEL-Consult-101 Pvt Ltd,Private (Ltd by shares),2015-06-15,500000.0,250000.0,Active,47,"198, Delhi",RoC-Delhi,Delhi
+UCH00102KP526259,DEL-Tech-102 Pvt Ltd,Public,2008-03-04,200000.0,160000.0,Dormant,63,"138, Delhi",RoC-Delhi,Delhi
+UCH00103KP265271,DEL-Consult-103 Pvt Ltd,Public,2011-08-10,1000000.0,800000.0,Active,11,"176, Delhi",RoC-Delhi,Delhi
+UCH00104KP845702,DEL-Agro-104 Pvt Ltd,Public,2024-01-07,10000000.0,8000000.0,Active,11,"92, Delhi",RoC-Delhi,Delhi
+UCH00105KP524035,DEL-Consult-105 Pvt Ltd,Private (Ltd by shares),2021-01-22,500000.0,400000.0,Strike Off,10,"116, Delhi",RoC-Delhi,Delhi
+UCH00106KP112537,DEL-Tech-106 Pvt Ltd,Private,2022-04-04,1200000.0,500000.0,Active,11,"200, Delhi",RoC-Delhi,Delhi
+UCH00107KP714590,DEL-Foods-107 Pvt Ltd,Private,2009-04-27,1200000.0,800000.0,Active,72,"20, Delhi",RoC-Delhi,Delhi
+UCH00108KP228479,DEL-Tech-108 Pvt Ltd,Private,2007-04-21,1000000.0,500000.0,Active,63,"119, Delhi",RoC-Delhi,Delhi
+UCH00109KP130914,DEL-Retail-109 Pvt Ltd,Public,2010-10-14,10000000.0,10000000.0,Amalgamated,70,"175, Delhi",RoC-Delhi,Delhi
+UCH00110KP255851,DEL-Tech-110 Pvt Ltd,Private (Ltd by shares),2010-06-07,200000.0,160000.0,Active,70,"158, Delhi",RoC-Delhi,Delhi
+UCH00111KP602300,DEL-Tech-111 Pvt Ltd,Public,2024-04-21,750000.0,400000.0,Amalgamated,71,"23, Delhi",RoC-Delhi,Delhi
+UCH00113KP626797,DEL-Foods-113 Pvt Ltd,Public,2016-08-18,10000000.0,8000000.0,Active,72,"100, Delhi",RoC-Delhi,Delhi
+UCH00115KP352867,DEL-Foods-115 Pvt Ltd,Private (Ltd by shares),2016-10-08,200000.0,100000.0,Active,86,"137, Delhi",RoC-Delhi,Delhi
+UCH00116KP284654,DEL-Agro-116 Pvt Ltd,Public,2006-04-19,10000000.0,8000000.0,Strike Off,46,"152, Delhi",RoC-Delhi,Delhi
+UCH00118KP158896,DEL-Agro-118 Pvt Ltd,Private,2020-09-10,160000.0,160000.0,Active,11,"155, Delhi",RoC-Delhi,Delhi
+UCH00119KP457311,DEL-Info-119 Pvt Ltd,Public,2005-09-16,100000.0,80000.0,Active,46,"46, Delhi",RoC-Delhi,Delhi
+UCH00120KP987599,DEL-Fin-120 Pvt Ltd,Private,2006-01-05,2000000.0,2000000.0,Active,11,"94, Delhi",RoC-Delhi,Delhi
+UCH00121KP416423,DEL-Foods-121 Pvt Ltd,Private,2016-12-22,1000000.0,1000000.0,Active,63,"35, Delhi",RoC-Delhi,Delhi
+UCH00122KP689275,DEL-Info-122 Pvt Ltd,Public,2018-11-16,5000000.0,4000000.0,Active,96,"158, Delhi",RoC-Delhi,Delhi
+UCH00123KP869649,DEL-Info-123 Pvt Ltd,Private,2012-11-19,10000000.0,5000000.0,Dormant,62,"76, Delhi",RoC-Delhi,Delhi
+UCH00124KP133955,DEL-Agro-124 Pvt Ltd,Public,2010-12-01,5000000.0,5000000.0,Amalgamated,72,"155, Delhi",RoC-Delhi,Delhi
+UCH00125KP447255,DEL-Info-125 Pvt Ltd,Private,2024-04-21,2000000.0,1000000.0,Dormant,46,"20, Delhi",RoC-Delhi,Delhi
+UCH00127KP504684,DEL-Retail-127 Pvt Ltd,Public,2007-06-09,10000000.0,5000000.0,Active,10,"188, Delhi",RoC-Delhi,Delhi
+UCH00128KP969067,DEL-Retail-128 Pvt Ltd,Private (Ltd by shares),2010-07-16,1000000.0,800000.0,Amalgamated,11,"148, Delhi",RoC-Delhi,Delhi
+UCH00129KP434198,DEL-Foods-129 Pvt Ltd,Private,2012-03-15,80000.0,50000.0,Active,10,"27, Delhi",RoC-Delhi,Delhi
+UCH00130KP197627,DEL-Foods-130 Pvt Ltd,Private (Ltd by shares),2015-03-13,200000.0,200000.0,Active,71,"153, Delhi",RoC-Delhi,Delhi
+UCH00131KP555292,DEL-Agro-131 Pvt Ltd,Private,2020-12-01,1500000.0,1000000.0,Dormant,72,"14, Delhi",RoC-Delhi,Delhi
+UCH00132KP395198,DEL-Foods-132 Pvt Ltd,Private,2015-04-07,1000000.0,1000000.0,Active,86,"61, Delhi",RoC-Delhi,Delhi
+UCH00134KP126985,DEL-Agro-134 Pvt Ltd,Private (Ltd by shares),2014-11-21,2000000.0,1600000.0,Active,11,"44, Delhi",RoC-Delhi,Delhi
+UCH00135KP593821,DEL-Retail-135 Pvt Ltd,Public,2014-02-16,10000000.0,5000000.0,Active,64,"170, Delhi",RoC-Delhi,Delhi
+UCH00136KP487345,DEL-Agro-136 Pvt Ltd,Private,2007-11-18,1000000.0,500000.0,Strike Off,64,"115, Delhi",RoC-Delhi,Delhi
+UCH00137KP164633,DEL-Agro-137 Pvt Ltd,Private (Ltd by shares),2013-08-15,500000.0,250000.0,Dormant,72,"193, Delhi",RoC-Delhi,Delhi
+UCH00139KP413369,DEL-Tech-139 Pvt Ltd,Private (Ltd by shares),2021-07-18,4000000.0,4000000.0,Active,70,"102, Delhi",RoC-Delhi,Delhi
+UCH00141KP146372,DEL-Tech-141 Pvt Ltd,Private (Ltd by shares),2023-04-19,200000.0,200000.0,Active,64,"121, Delhi",RoC-Delhi,Delhi
+UCH00142KP961186,DEL-Tech-142 Pvt Ltd,Public,2021-01-14,2000000.0,1600000.0,Dormant,96,"116, Delhi",RoC-Delhi,Delhi
+UCH00143KP239158,DEL-Foods-143 Pvt Ltd,Private,2012-02-18,10000000.0,5000000.0,Amalgamated,47,"76, Delhi",RoC-Delhi,Delhi
+UCH00144KP837468,DEL-Retail-144 Pvt Ltd,Private (Ltd by shares),2025-02-01,1000000.0,1000000.0,Active,46,"147, Delhi",RoC-Delhi,Delhi
+UCH00145KP928226,DEL-Consult-145 Pvt Ltd,Private (Ltd by shares),2023-01-15,1000000.0,500000.0,Amalgamated,46,"95, Delhi",RoC-Delhi,Delhi
+UCH00146KP824304,DEL-Foods-146 Pvt Ltd,Private,2019-12-21,100000.0,100000.0,Active,64,"136, Delhi",RoC-Delhi,Delhi
+UCH00147KP184891,DEL-Fin-147 Pvt Ltd,Private (Ltd by shares),2014-07-25,500000.0,500000.0,Active,86,"86, Delhi",RoC-Delhi,Delhi
+UCH00148KP483349,DEL-Retail-148 Pvt Ltd,Private,2006-09-22,500000.0,250000.0,Strike Off,64,"159, Delhi",RoC-Delhi,Delhi
+UCH00149KP843793,DEL-Consult-149 Pvt Ltd,Private,2016-06-06,5000000.0,5000000.0,Active,71,"53, Delhi",RoC-Delhi,Delhi
+UCH00150KP888819,DEL-Fin-150 Pvt Ltd,Private,2015-04-18,100000.0,100000.0,Dormant,96,"180, Delhi",RoC-Delhi,Delhi
+UCH00151KP157105,DEL-Tech-151 Pvt Ltd,Public,2012-06-12,500000.0,500000.0,Amalgamated,62,"96, Delhi",RoC-Delhi,Delhi
+UCH00152KP657742,DEL-Info-152 Pvt Ltd,Public,2019-08-17,2000000.0,1000000.0,Dormant,96,"137, Delhi",RoC-Delhi,Delhi
+UCH00153KP580115,DEL-Tech-153 Pvt Ltd,Public,2019-10-12,12000000.0,10000000.0,Active,47,"21, Delhi",RoC-Delhi,Delhi
+UCH00154KP830943,DEL-Agro-154 Pvt Ltd,Private,2010-05-03,80000.0,50000.0,Active,11,"128, Delhi",RoC-Delhi,Delhi
+UCH00155KP667735,DEL-Agro-155 Pvt Ltd,Public,2011-09-21,100000.0,80000.0,Amalgamated,86,"122, Delhi",RoC-Delhi,Delhi
+UCH00156KP166007,DEL-Tech-156 Pvt Ltd,Private (Ltd by shares),2018-08-24,5000000.0,2500000.0,Active,47,"60, Delhi",RoC-Delhi,Delhi
+UCH00157KP722180,DEL-Info-157 Pvt Ltd,Private (Ltd by shares),2025-06-14,3000000.0,1600000.0,Strike Off,70,"179, Delhi",RoC-Delhi,Delhi
+UCH00158KP280079,DEL-Consult-158 Pvt Ltd,Private,2022-08-15,500000.0,500000.0,Amalgamated,62,"67, Delhi",RoC-Delhi,Delhi
+UCH00159KP398196,DEL-Retail-159 Pvt Ltd,Private (Ltd by shares),2020-06-10,10000000.0,5000000.0,Active,63,"43, Delhi",RoC-Delhi,Delhi
+UCH00160KP826515,DEL-Info-160 Pvt Ltd,Private,2010-12-18,500000.0,250000.0,Active,96,"40, Delhi",RoC-Delhi,Delhi
+UCH00161KP373056,DEL-Foods-161 Pvt Ltd,Private,2012-02-02,500000.0,500000.0,Active,70,"48, Delhi",RoC-Delhi,Delhi
+UCH00162KP491029,DEL-Retail-162 Pvt Ltd,Private,2022-12-02,5000000.0,4000000.0,Strike Off,46,"139, Delhi",RoC-Delhi,Delhi
+UCH00163KP580290,DEL-Foods-163 Pvt Ltd,Private,2022-05-04,100000.0,80000.0,Dormant,46,"40, Delhi",RoC-Delhi,Delhi
+UCH00164KP403905,DEL-Consult-164 Pvt Ltd,Private (Ltd by shares),2022-09-11,5000000.0,5000000.0,Active,70,"147, Delhi",RoC-Delhi,Delhi
+UCH00165KP602248,DEL-Tech-165 Pvt Ltd,Private (Ltd by shares),2009-10-24,1000000.0,800000.0,Active,96,"36, Delhi",RoC-Delhi,Delhi
+UCH00166KP653545,DEL-Foods-166 Pvt Ltd,Public,2020-01-11,1000000.0,500000.0,Amalgamated,10,"98, Delhi",RoC-Delhi,Delhi
+UCH00167KP291542,DEL-Foods-167 Pvt Ltd,Private,2007-02-04,2000000.0,1000000.0,Active,46,"197, Delhi",RoC-Delhi,Delhi
+UCH00168KP441092,DEL-Agro-168 Pvt Ltd,Private (Ltd by shares),2009-05-14,5000000.0,2500000.0,Active,72,"7, Delhi",RoC-Delhi,Delhi
+UCH00169KP439966,DEL-Foods-169 Pvt Ltd,Private,2006-05-13,100000.0,80000.0,Active,64,"97, Delhi",RoC-Delhi,Delhi
+UCH00170KP633328,DEL-Consult-170 Pvt Ltd,Public,2006-04-08,10000000.0,10000000.0,Active,70,"130, Delhi",RoC-Delhi,Delhi
+UCH00171KP607690,DEL-Tech-171 Pvt Ltd,Private (Ltd by shares),2008-05-02,500000.0,400000.0,Amalgamated,11,"105, Delhi",RoC-Delhi,Delhi
+UCH00172KP900040,DEL-Fin-172 Pvt Ltd,Private,2012-01-09,2000000.0,2000000.0,Active,47,"167, Delhi",RoC-Delhi,Delhi
+UCH00173KP491438,DEL-Fin-173 Pvt Ltd,Private,2014-10-14,1000000.0,500000.0,Active,46,"44, Delhi",RoC-Delhi,Delhi
+UCH00174KP969659,DEL-Fin-174 Pvt Ltd,Private (Ltd by shares),2022-07-18,1000000.0,500000.0,Active,70,"75, Delhi",RoC-Delhi,Delhi
+UCH00175KP498619,DEL-Foods-175 Pvt Ltd,Private,2010-01-02,1000000.0,800000.0,Active,86,"162, Delhi",RoC-Delhi,Delhi
+UCH00176KP194073,DEL-Retail-176 Pvt Ltd,Private,2023-09-10,100000.0,50000.0,Active,62,"179, Delhi",RoC-Delhi,Delhi
+UCH00177KP629342,DEL-Consult-177 Pvt Ltd,Private (Ltd by shares),2009-12-18,500000.0,400000.0,Active,72,"82, Delhi",RoC-Delhi,Delhi
+UCH00178KP357874,DEL-Info-178 Pvt Ltd,Public,2015-11-09,10000000.0,10000000.0,Dormant,62,"83, Delhi",RoC-Delhi,Delhi
+UCH00179KP102146,DEL-Fin-179 Pvt Ltd,Private,2011-08-20,500000.0,250000.0,Active,86,"122, Delhi",RoC-Delhi,Delhi
+UCH00180KP664271,DEL-Tech-180 Pvt Ltd,Private (Ltd by shares),2005-11-06,1000000.0,1000000.0,Dormant,64,"167, Delhi",RoC-Delhi,Delhi
+UCH00181KP229410,DEL-Foods-181 Pvt Ltd,Private (Ltd by shares),2007-09-01,10000000.0,10000000.0,Dormant,86,"97, Delhi",RoC-Delhi,Delhi
+UCH00182KP585168,DEL-Foods-182 Pvt Ltd,Public,2016-07-06,10000000.0,10000000.0,Active,11,"50, Delhi",RoC-Delhi,Delhi
+UCH00183KP194336,DEL-Consult-183 Pvt Ltd,Private (Ltd by shares),2005-04-24,100000.0,80000.0,Strike Off,47,"158, Delhi",RoC-Delhi,Delhi
+UCH00184KP394394,DEL-Retail-184 Pvt Ltd,Private (Ltd by shares),2014-12-08,200000.0,160000.0,Strike Off,10,"181, Delhi",RoC-Delhi,Delhi
+UCH00185KP390819,DEL-Fin-185 Pvt Ltd,Public,2024-04-01,200000.0,200000.0,Amalgamated,11,"129, Delhi",RoC-Delhi,Delhi
+UCH00186KP716735,DEL-Agro-186 Pvt Ltd,Private,2010-09-07,5000000.0,5000000.0,Active,11,"191, Delhi",RoC-Delhi,Delhi
+UCH00187KP988843,DEL-Info-187 Pvt Ltd,Private (Ltd by shares),2009-05-19,10000000.0,5000000.0,Active,47,"6, Delhi",RoC-Delhi,Delhi
+UCH00188KP547861,DEL-Info-188 Pvt Ltd,Private (Ltd by shares),2022-10-09,5000000.0,5000000.0,Dormant,10,"173, Delhi",RoC-Delhi,Delhi
+UCH00189KP813213,DEL-Fin-189 Pvt Ltd,Public,2006-06-14,10000000.0,8000000.0,Active,11,"120, Delhi",RoC-Delhi,Delhi
+UCH00190KP391433,DEL-Retail-190 Pvt Ltd,Public,2016-09-25,100000.0,100000.0,Active,10,"137, Delhi",RoC-Delhi,Delhi
+UCH00191KP946906,DEL-Tech-191 Pvt Ltd,Private,2015-01-13,200000.0,160000.0,Active,72,"189, Delhi",RoC-Delhi,Delhi
+UCH00192KP165896,DEL-Info-192 Pvt Ltd,Private,2018-02-08,200000.0,100000.0,Strike Off,62,"161, Delhi",RoC-Delhi,Delhi
+UCH00193KP359159,DEL-Tech-193 Pvt Ltd,Private,2005-08-14,10000000.0,5000000.0,Strike Off,62,"122, Delhi",RoC-Delhi,Delhi
+UDI00001LQ556542,TAM-Agro-1 Pvt Ltd,Private,2011-04-05,100000.0,80000.0,Active,86,"161, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00002LQ683390,TAM-Retail-2 Pvt Ltd,Public,2024-05-11,5000000.0,2500000.0,Dormant,64,"142, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00003LQ534574,TAM-Agro-3 Pvt Ltd,Private (Ltd by shares),2013-09-15,10000000.0,5000000.0,Dormant,11,"38, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00004LQ661652,TAM-Foods-4 Pvt Ltd,Public,2023-10-25,100000.0,50000.0,Active,62,"106, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00005LQ280564,TAM-Foods-5 Pvt Ltd,Private,2017-11-16,2000000.0,2000000.0,Dormant,10,"104, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00006LQ447596,TAM-Info-6 Pvt Ltd,Private,2024-10-22,5000000.0,4000000.0,Active,64,"61, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00008LQ382507,TAM-Info-8 Pvt Ltd,Private (Ltd by shares),2008-04-05,500000.0,500000.0,Dormant,63,"107, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00009LQ607993,TAM-Consult-9 Pvt Ltd,Public,2025-02-07,1000000.0,500000.0,Amalgamated,96,"133, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00010LQ631413,TAM-Retail-10 Pvt Ltd,Private (Ltd by shares),2006-09-26,300000.0,100000.0,Active,96,"35, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00011LQ134677,TAM-Retail-11 Pvt Ltd,Public,2023-01-06,200000.0,100000.0,Active,47,"13, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00012LQ229890,TAM-Info-12 Pvt Ltd,Private,2011-05-12,10000000.0,8000000.0,Amalgamated,86,"8, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00013LQ678115,TAM-Foods-13 Pvt Ltd,Private,2016-08-20,1000000.0,500000.0,Dormant,72,"89, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00014LQ505343,TAM-Tech-14 Pvt Ltd,Private (Ltd by shares),2013-12-27,6000000.0,2500000.0,Active,10,"42, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00016LQ364650,TAM-Fin-16 Pvt Ltd,Private (Ltd by shares),2005-08-05,6000000.0,2500000.0,Active,47,"79, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00017LQ328808,TAM-Retail-17 Pvt Ltd,Private (Ltd by shares),2025-05-14,1200000.0,800000.0,Dormant,62,"78, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00018LQ794530,TAM-Consult-18 Pvt Ltd,Private (Ltd by shares),2021-10-13,3000000.0,1000000.0,Active,71,"96, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00019LQ166938,TAM-Foods-19 Pvt Ltd,Private (Ltd by shares),2025-10-20,500000.0,400000.0,Active,70,"71, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00021LQ126691,TAM-Info-21 Pvt Ltd,Public,2006-10-13,5000000.0,4000000.0,Active,96,"128, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00022LQ842464,TAM-Fin-22 Pvt Ltd,Public,2013-07-13,1000000.0,1000000.0,Active,72,"49, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00023LQ414777,TAM-Consult-23 Pvt Ltd,Private (Ltd by shares),2012-11-18,5000000.0,4000000.0,Strike Off,71,"44, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00025LQ422002,TAM-Retail-25 Pvt Ltd,Public,2015-11-03,200000.0,160000.0,Active,96,"85, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00026LQ765213,TAM-Fin-26 Pvt Ltd,Private (Ltd by shares),2013-10-10,1000000.0,500000.0,Active,10,"149, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00028LQ431752,TAM-Consult-28 Pvt Ltd,Private,2009-04-11,1200000.0,1000000.0,Dormant,46,"184, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00029LQ160831,TAM-Tech-29 Pvt Ltd,Public,2007-08-11,5000000.0,2500000.0,Strike Off,86,"116, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00031LQ659711,TAM-Agro-31 Pvt Ltd,Public,2018-07-14,1000000.0,800000.0,Active,10,"188, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00032LQ809621,TAM-Tech-32 Pvt Ltd,Private (Ltd by shares),2005-06-25,10000000.0,10000000.0,Active,10,"161, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00033LQ502181,TAM-Fin-33 Pvt Ltd,Public,2012-04-23,400000.0,400000.0,Active,11,"151, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00034LQ863187,TAM-Fin-34 Pvt Ltd,Private (Ltd by shares),2010-02-27,100000.0,80000.0,Active,70,"153, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00035LQ886553,TAM-Agro-35 Pvt Ltd,Public,2015-07-22,200000.0,160000.0,Dormant,63,"43, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00036LQ122977,TAM-Fin-36 Pvt Ltd,Private,2005-04-08,4000000.0,2500000.0,Active,96,"130, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00037LQ368214,TAM-Consult-37 Pvt Ltd,Private (Ltd by shares),2008-06-23,5000000.0,2500000.0,Amalgamated,86,"137, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00038LQ823255,TAM-Tech-38 Pvt Ltd,Public,2006-10-02,6000000.0,2500000.0,Active,10,"107, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00039LQ828961,TAM-Info-39 Pvt Ltd,Private,2017-02-18,500000.0,400000.0,Dormant,47,"162, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00040LQ735053,TAM-Info-40 Pvt Ltd,Public,2014-07-22,100000.0,100000.0,Active,72,"36, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00041LQ922880,TAM-Tech-41 Pvt Ltd,Private,2008-09-24,2000000.0,1000000.0,Active,11,"128, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00042LQ837606,TAM-Retail-42 Pvt Ltd,Private,2024-04-25,500000.0,500000.0,Active,63,"76, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00043LQ345896,TAM-Tech-43 Pvt Ltd,Private (Ltd by shares),2006-09-16,200000.0,200000.0,Dormant,63,"4, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00044LQ194458,TAM-Consult-44 Pvt Ltd,Private,2007-02-27,2400000.0,2000000.0,Dormant,46,"131, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00045LQ586830,TAM-Tech-45 Pvt Ltd,Private,2008-05-21,200000.0,160000.0,Active,62,"26, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00046LQ874415,TAM-Tech-46 Pvt Ltd,Private,2006-05-12,10000000.0,10000000.0,Strike Off,64,"25, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00047LQ558976,TAM-Fin-47 Pvt Ltd,Private (Ltd by shares),2005-03-22,5000000.0,2500000.0,Strike Off,63,"69, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00048LQ519692,TAM-Retail-48 Pvt Ltd,Public,2007-06-27,500000.0,250000.0,Active,64,"70, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00049LQ829987,TAM-Info-49 Pvt Ltd,Private,2020-07-21,10000000.0,5000000.0,Active,46,"16, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00050LQ741018,TAM-Retail-50 Pvt Ltd,Public,2008-07-19,1000000.0,1000000.0,Dormant,46,"200, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00051LQ611833,TAM-Tech-51 Pvt Ltd,Public,2024-01-28,5000000.0,5000000.0,Active,70,"106, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00052LQ810859,TAM-Fin-52 Pvt Ltd,Private (Ltd by shares),2006-02-09,5000000.0,4000000.0,Active,96,"197, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00053LQ648513,TAM-Info-53 Pvt Ltd,Private (Ltd by shares),2023-12-19,240000.0,200000.0,Strike Off,71,"180, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00054LQ795951,TAM-Info-54 Pvt Ltd,Public,2008-07-22,5000000.0,2500000.0,Active,63,"165, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00055LQ990079,TAM-Retail-55 Pvt Ltd,Private,2009-09-20,100000.0,50000.0,Active,71,"127, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00056LQ631553,TAM-Agro-56 Pvt Ltd,Private (Ltd by shares),2007-08-11,200000.0,160000.0,Active,10,"141, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00058LQ523037,TAM-Retail-58 Pvt Ltd,Private (Ltd by shares),2020-08-11,100000.0,80000.0,Active,11,"10, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00059LQ689648,TAM-Agro-59 Pvt Ltd,Private (Ltd by shares),2022-01-27,100000.0,100000.0,Active,71,"168, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00060LQ448098,TAM-Fin-60 Pvt Ltd,Private (Ltd by shares),2019-06-12,12000000.0,5000000.0,Active,70,"197, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00061LQ202170,TAM-Consult-61 Pvt Ltd,Private,2024-08-23,5000000.0,4000000.0,Amalgamated,11,"169, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00062LQ647341,TAM-Foods-62 Pvt Ltd,Private,2005-06-12,10000000.0,10000000.0,Amalgamated,71,"180, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00063LQ366641,TAM-Fin-63 Pvt Ltd,Private,2006-03-16,200000.0,200000.0,Amalgamated,11,"51, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00064LQ893928,TAM-Retail-64 Pvt Ltd,Private (Ltd by shares),2008-07-07,1000000.0,500000.0,Strike Off,11,"12, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00066LQ706658,TAM-Agro-66 Pvt Ltd,Private,2022-07-27,2000000.0,1600000.0,Active,96,"188, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00067LQ503348,TAM-Retail-67 Pvt Ltd,Private (Ltd by shares),2008-07-22,2000000.0,2000000.0,Dormant,71,"156, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00068LQ244892,TAM-Retail-68 Pvt Ltd,Private (Ltd by shares),2012-05-13,500000.0,400000.0,Dormant,46,"155, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00069LQ872610,TAM-Fin-69 Pvt Ltd,Private,2021-05-27,5000000.0,5000000.0,Strike Off,96,"162, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00070LQ239116,TAM-Info-70 Pvt Ltd,Private,2011-04-20,5000000.0,4000000.0,Dormant,86,"167, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00071LQ689593,TAM-Retail-71 Pvt Ltd,Private (Ltd by shares),2021-09-23,5000000.0,4000000.0,Active,63,"150, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00072LQ947568,TAM-Tech-72 Pvt Ltd,Private,2018-11-24,10000000.0,10000000.0,Active,64,"134, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00073LQ379947,TAM-Consult-73 Pvt Ltd,Public,2005-07-05,120000.0,100000.0,Active,47,"42, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00074LQ890200,TAM-Fin-74 Pvt Ltd,Public,2013-03-27,100000.0,100000.0,Active,47,"9, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00075LQ778553,TAM-Fin-75 Pvt Ltd,Private,2019-02-20,10000000.0,10000000.0,Active,96,"100, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00076LQ506380,TAM-Retail-76 Pvt Ltd,Public,2021-12-10,5000000.0,5000000.0,Dormant,64,"176, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00077LQ918859,TAM-Consult-77 Pvt Ltd,Private,2022-01-01,5000000.0,4000000.0,Active,72,"114, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00078LQ302897,TAM-Foods-78 Pvt Ltd,Private,2025-12-23,5000000.0,4000000.0,Active,96,"115, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00080LQ588983,TAM-Info-80 Pvt Ltd,Private,2013-03-06,2000000.0,1600000.0,Active,63,"40, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00081LQ928278,TAM-Fin-81 Pvt Ltd,Public,2009-06-20,100000.0,100000.0,Active,70,"141, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00082LQ171488,TAM-Consult-82 Pvt Ltd,Private,2007-12-11,2000000.0,1000000.0,Active,71,"130, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00083LQ323717,TAM-Info-83 Pvt Ltd,Public,2018-09-18,800000.0,500000.0,Strike Off,47,"85, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00084LQ963699,TAM-Consult-84 Pvt Ltd,Private,2016-05-07,10000000.0,10000000.0,Dormant,71,"167, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00085LQ815706,TAM-Foods-85 Pvt Ltd,Private,2008-11-12,1000000.0,500000.0,Strike Off,10,"98, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00086LQ962043,TAM-Consult-86 Pvt Ltd,Private (Ltd by shares),2017-05-18,4000000.0,4000000.0,Active,71,"96, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00087LQ638857,TAM-Tech-87 Pvt Ltd,Private,2021-08-16,100000.0,80000.0,Dormant,63,"25, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00088LQ760093,TAM-Consult-88 Pvt Ltd,Private (Ltd by shares),2022-09-01,5000000.0,2500000.0,Active,86,"55, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00089LQ956429,TAM-Tech-89 Pvt Ltd,Private (Ltd by shares),2018-02-07,3000000.0,2000000.0,Dormant,86,"192, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00090LQ176806,TAM-Tech-90 Pvt Ltd,Public,2009-01-15,6000000.0,4000000.0,Active,11,"46, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00093LQ627262,TAM-Tech-93 Pvt Ltd,Private (Ltd by shares),2007-12-19,100000.0,100000.0,Amalgamated,63,"75, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00095LQ409307,TAM-Info-95 Pvt Ltd,Public,2010-09-08,200000.0,200000.0,Amalgamated,71,"37, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00096LQ143802,TAM-Tech-96 Pvt Ltd,Private (Ltd by shares),2025-06-01,2000000.0,2000000.0,Active,11,"147, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00097LQ877446,TAM-Info-97 Pvt Ltd,Private,2017-09-18,150000.0,80000.0,Active,96,"89, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00098LQ331512,TAM-Fin-98 Pvt Ltd,Private,2018-11-28,2000000.0,1000000.0,Active,46,"65, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00099LQ583671,TAM-Info-99 Pvt Ltd,Private,2008-03-22,10000000.0,10000000.0,Active,71,"141, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00100LQ708798,TAM-Retail-100 Pvt Ltd,Public,2014-11-03,500000.0,250000.0,Active,96,"85, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00101LQ173199,TAM-Agro-101 Pvt Ltd,Public,2009-11-21,200000.0,100000.0,Active,72,"82, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00102LQ694397,TAM-Foods-102 Pvt Ltd,Public,2019-06-20,5000000.0,4000000.0,Active,72,"81, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00104LQ678469,TAM-Tech-104 Pvt Ltd,Private (Ltd by shares),2015-08-15,1000000.0,800000.0,Active,70,"45, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00105LQ869177,TAM-Info-105 Pvt Ltd,Private (Ltd by shares),2024-02-27,500000.0,250000.0,Active,62,"20, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00106LQ707021,TAM-Retail-106 Pvt Ltd,Private (Ltd by shares),2007-01-28,2000000.0,2000000.0,Active,72,"197, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00107LQ912853,TAM-Agro-107 Pvt Ltd,Public,2011-01-18,500000.0,500000.0,Dormant,86,"94, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00108LQ625465,TAM-Fin-108 Pvt Ltd,Public,2012-10-24,10000000.0,8000000.0,Active,70,"24, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00109LQ247189,TAM-Retail-109 Pvt Ltd,Private,2016-09-01,5000000.0,2500000.0,Active,71,"41, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00110LQ142383,TAM-Agro-110 Pvt Ltd,Public,2023-10-22,8000000.0,5000000.0,Dormant,63,"195, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00111LQ316818,TAM-Fin-111 Pvt Ltd,Public,2012-02-09,500000.0,250000.0,Amalgamated,86,"93, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00112LQ837920,TAM-Fin-112 Pvt Ltd,Public,2020-08-02,100000.0,100000.0,Strike Off,11,"163, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00113LQ496905,TAM-Foods-113 Pvt Ltd,Private (Ltd by shares),2013-10-18,2000000.0,1000000.0,Amalgamated,86,"151, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00114LQ956934,TAM-Consult-114 Pvt Ltd,Public,2007-09-09,1000000.0,500000.0,Active,63,"89, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00116LQ852146,TAM-Consult-116 Pvt Ltd,Private (Ltd by shares),2013-04-05,200000.0,100000.0,Strike Off,72,"31, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00117LQ808029,TAM-Retail-117 Pvt Ltd,Private,2012-07-26,900000.0,500000.0,Active,70,"123, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00118LQ145240,TAM-Agro-118 Pvt Ltd,Private (Ltd by shares),2023-03-21,10000000.0,8000000.0,Active,47,"147, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00119LQ274421,TAM-Foods-119 Pvt Ltd,Private (Ltd by shares),2010-03-21,2000000.0,1000000.0,Active,10,"47, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00120LQ327114,TAM-Retail-120 Pvt Ltd,Public,2017-10-19,5000000.0,2500000.0,Active,11,"156, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00122LQ725510,TAM-Fin-122 Pvt Ltd,Private,2021-05-06,5000000.0,5000000.0,Strike Off,70,"18, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00123LQ628859,TAM-Info-123 Pvt Ltd,Private,2017-07-05,100000.0,50000.0,Active,71,"108, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00124LQ627778,TAM-Consult-124 Pvt Ltd,Private,2024-02-06,1000000.0,1000000.0,Active,71,"31, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00125LQ780768,TAM-Retail-125 Pvt Ltd,Public,2020-11-05,2000000.0,2000000.0,Active,86,"134, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00126LQ927909,TAM-Consult-126 Pvt Ltd,Public,2016-01-23,1600000.0,1600000.0,Amalgamated,70,"98, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00127LQ240386,TAM-Foods-127 Pvt Ltd,Private,2023-12-25,10000000.0,10000000.0,Active,64,"123, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00128LQ105735,TAM-Info-128 Pvt Ltd,Private,2007-05-20,3000000.0,1600000.0,Active,47,"191, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00129LQ315397,TAM-Info-129 Pvt Ltd,Public,2023-09-04,2000000.0,1000000.0,Active,86,"81, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00130LQ996508,TAM-Fin-130 Pvt Ltd,Private (Ltd by shares),2016-02-05,1000000.0,1000000.0,Strike Off,62,"109, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00131LQ678923,TAM-Consult-131 Pvt Ltd,Public,2016-10-09,5000000.0,4000000.0,Active,64,"143, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00132LQ705711,TAM-Foods-132 Pvt Ltd,Private (Ltd by shares),2010-06-18,2000000.0,1600000.0,Active,62,"199, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00133LQ340932,TAM-Retail-133 Pvt Ltd,Private,2017-12-05,10000000.0,10000000.0,Active,96,"180, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00134LQ508004,TAM-Info-134 Pvt Ltd,Private,2008-04-17,1000000.0,800000.0,Active,46,"2, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00135LQ332542,TAM-Foods-135 Pvt Ltd,Private (Ltd by shares),2009-08-20,1000000.0,500000.0,Active,62,"21, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00136LQ726495,TAM-Tech-136 Pvt Ltd,Private,2006-12-13,1000000.0,1000000.0,Active,96,"199, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00137LQ135241,TAM-Consult-137 Pvt Ltd,Private (Ltd by shares),2025-08-15,100000.0,50000.0,Active,47,"154, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00138LQ350878,TAM-Info-138 Pvt Ltd,Private,2021-12-08,2000000.0,1000000.0,Active,63,"1, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00139LQ714549,TAM-Agro-139 Pvt Ltd,Private,2007-05-25,1000000.0,800000.0,Amalgamated,64,"133, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00140LQ955129,TAM-Foods-140 Pvt Ltd,Private (Ltd by shares),2007-02-18,500000.0,500000.0,Strike Off,63,"58, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00141LQ615780,TAM-Info-141 Pvt Ltd,Private,2020-02-21,7500000.0,4000000.0,Amalgamated,46,"166, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00143LQ958029,TAM-Tech-143 Pvt Ltd,Private (Ltd by shares),2023-07-28,500000.0,500000.0,Dormant,96,"96, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00144LQ435209,TAM-Retail-144 Pvt Ltd,Private,2023-01-28,500000.0,250000.0,Active,46,"178, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00145LQ473276,TAM-Tech-145 Pvt Ltd,Public,2016-03-02,500000.0,400000.0,Amalgamated,86,"75, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00146LQ727847,TAM-Consult-146 Pvt Ltd,Private (Ltd by shares),2021-11-03,2000000.0,1000000.0,Active,11,"43, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00147LQ818739,TAM-Info-147 Pvt Ltd,Public,2015-06-27,10000000.0,10000000.0,Active,62,"177, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00148LQ643341,TAM-Foods-148 Pvt Ltd,Public,2008-09-19,500000.0,250000.0,Active,46,"96, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00149LQ331854,TAM-Consult-149 Pvt Ltd,Private (Ltd by shares),2018-06-06,100000.0,50000.0,Active,71,"49, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00150LQ582860,TAM-Tech-150 Pvt Ltd,Private,2024-12-27,2000000.0,2000000.0,Active,64,"30, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00151LQ956727,TAM-Retail-151 Pvt Ltd,Private (Ltd by shares),2005-08-12,400000.0,500000.0,Strike Off,46,"153, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00152LQ234966,TAM-Consult-152 Pvt Ltd,Private,2015-03-23,500000.0,250000.0,Active,47,"178, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00153LQ824375,TAM-Consult-153 Pvt Ltd,Private,2012-05-05,200000.0,100000.0,Dormant,64,"29, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00154LQ134385,TAM-Consult-154 Pvt Ltd,Private (Ltd by shares),2005-08-25,1000000.0,500000.0,Active,11,"169, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00155LQ416298,TAM-Info-155 Pvt Ltd,Private,2023-01-16,100000.0,80000.0,Active,11,"3, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00156LQ468609,TAM-Tech-156 Pvt Ltd,Private,2008-10-07,2000000.0,1000000.0,Active,86,"24, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00157LQ697935,TAM-Tech-157 Pvt Ltd,Private (Ltd by shares),2013-10-12,600000.0,250000.0,Active,71,"26, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00158LQ890645,TAM-Fin-158 Pvt Ltd,Private (Ltd by shares),2005-09-07,5000000.0,2500000.0,Active,46,"2, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00159LQ832045,TAM-Fin-159 Pvt Ltd,Public,2008-04-17,12000000.0,10000000.0,Dormant,63,"48, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00160LQ639231,TAM-Agro-160 Pvt Ltd,Private,2008-03-27,500000.0,400000.0,Amalgamated,47,"105, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00161LQ899301,TAM-Foods-161 Pvt Ltd,Public,2015-02-15,150000.0,100000.0,Active,70,"181, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00163LQ996915,TAM-Retail-163 Pvt Ltd,Private,2014-11-27,1000000.0,500000.0,Amalgamated,62,"49, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00164LQ210280,TAM-Retail-164 Pvt Ltd,Private (Ltd by shares),2020-11-12,200000.0,100000.0,Dormant,86,"113, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00165LQ276919,TAM-Tech-165 Pvt Ltd,Private,2007-02-05,1000000.0,800000.0,Active,96,"94, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00166LQ576370,TAM-Consult-166 Pvt Ltd,Public,2015-10-10,1000000.0,800000.0,Active,11,"11, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00167LQ754227,TAM-Agro-167 Pvt Ltd,Public,2012-01-21,200000.0,200000.0,Active,70,"62, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00168LQ480441,TAM-Tech-168 Pvt Ltd,Public,2015-12-13,200000.0,160000.0,Active,10,"19, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00169LQ762002,TAM-Fin-169 Pvt Ltd,Public,2005-09-04,200000.0,160000.0,Dormant,47,"196, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00170LQ374725,TAM-Info-170 Pvt Ltd,Public,2006-01-07,200000.0,160000.0,Active,47,"45, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00171LQ206105,TAM-Tech-171 Pvt Ltd,Private,2022-04-06,200000.0,100000.0,Active,62,"174, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00172LQ578364,TAM-Agro-172 Pvt Ltd,Public,2017-11-26,100000.0,80000.0,Active,62,"95, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00173LQ251448,TAM-Agro-173 Pvt Ltd,Private,2010-09-26,2000000.0,1600000.0,Active,11,"49, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00174LQ356428,TAM-Tech-174 Pvt Ltd,Private (Ltd by shares),2022-07-23,500000.0,400000.0,Amalgamated,86,"196, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00175LQ359178,TAM-Tech-175 Pvt Ltd,Public,2023-04-28,2000000.0,1600000.0,Active,63,"162, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00176LQ929420,TAM-Info-176 Pvt Ltd,Private,2009-09-19,1000000.0,500000.0,Active,70,"158, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00177LQ644098,TAM-Retail-177 Pvt Ltd,Public,2010-09-13,10000000.0,10000000.0,Strike Off,70,"46, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00178LQ381370,TAM-Fin-178 Pvt Ltd,Private (Ltd by shares),2016-09-23,1000000.0,1000000.0,Dormant,70,"103, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00179LQ345770,TAM-Retail-179 Pvt Ltd,Public,2023-11-02,200000.0,100000.0,Active,70,"56, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00180LQ188876,TAM-Agro-180 Pvt Ltd,Private,2018-07-19,200000.0,160000.0,Active,71,"193, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00181LQ637145,TAM-Fin-181 Pvt Ltd,Public,2014-08-17,500000.0,250000.0,Active,70,"87, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00182LQ386281,TAM-Retail-182 Pvt Ltd,Private,2019-08-14,1000000.0,800000.0,Dormant,63,"7, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00183LQ408824,TAM-Consult-183 Pvt Ltd,Private (Ltd by shares),2019-04-09,5000000.0,2500000.0,Strike Off,11,"129, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00184LQ224348,TAM-Tech-184 Pvt Ltd,Private,2022-11-03,10000000.0,8000000.0,Active,11,"93, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00185LQ417420,TAM-Info-185 Pvt Ltd,Private (Ltd by shares),2022-04-11,200000.0,200000.0,Strike Off,62,"197, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00186LQ907483,TAM-Foods-186 Pvt Ltd,Public,2013-04-23,2000000.0,1000000.0,Active,10,"73, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00187LQ785864,TAM-Fin-187 Pvt Ltd,Private,2017-07-27,2000000.0,2000000.0,Active,70,"195, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00188LQ345076,TAM-Fin-188 Pvt Ltd,Private (Ltd by shares),2017-04-08,5000000.0,5000000.0,Active,70,"151, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00189LQ986887,TAM-Agro-189 Pvt Ltd,Private (Ltd by shares),2019-12-27,1000000.0,800000.0,Active,63,"110, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00190LQ245699,TAM-Fin-190 Pvt Ltd,Public,2018-04-15,1000000.0,1000000.0,Active,63,"33, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00191LQ539507,TAM-Retail-191 Pvt Ltd,Public,2005-08-26,5000000.0,4000000.0,Strike Off,47,"176, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00192LQ261156,TAM-Foods-192 Pvt Ltd,Private (Ltd by shares),2022-05-11,2000000.0,1000000.0,Active,46,"146, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00193LQ509611,TAM-Tech-193 Pvt Ltd,Public,2024-10-19,10000000.0,8000000.0,Amalgamated,47,"137, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UEJ00001MR526911,KAR-Fin-1 Pvt Ltd,Private (Ltd by shares),2011-08-13,2000000.0,1000000.0,Active,46,"28, Karnataka",RoC-Bangalore,Karnataka
+UEJ00002MR952646,KAR-Consult-2 Pvt Ltd,Public,2007-09-10,500000.0,250000.0,Active,71,"148, Karnataka",RoC-Bangalore,Karnataka
+UEJ00003MR814703,KAR-Retail-3 Pvt Ltd,Private,2019-07-19,1000000.0,500000.0,Strike Off,70,"151, Karnataka",RoC-Bangalore,Karnataka
+UEJ00004MR835236,KAR-Agro-4 Pvt Ltd,Public,2020-02-09,100000.0,80000.0,Active,86,"81, Karnataka",RoC-Bangalore,Karnataka
+UEJ00005MR401244,KAR-Tech-5 Pvt Ltd,Private (Ltd by shares),2016-09-18,100000.0,100000.0,Active,47,"103, Karnataka",RoC-Bangalore,Karnataka
+UEJ00006MR329183,KAR-Fin-6 Pvt Ltd,Private,2015-02-18,200000.0,160000.0,Strike Off,63,"69, Karnataka",RoC-Bangalore,Karnataka
+UEJ00007MR316823,KAR-Agro-7 Pvt Ltd,Private,2011-08-24,240000.0,100000.0,Strike Off,62,"52, Karnataka",RoC-Bangalore,Karnataka
+UEJ00008MR808640,KAR-Info-8 Pvt Ltd,Private (Ltd by shares),2024-06-05,10000000.0,5000000.0,Active,11,"127, Karnataka",RoC-Bangalore,Karnataka
+UEJ00009MR430738,KAR-Retail-9 Pvt Ltd,Public,2005-09-02,12000000.0,8000000.0,Dormant,72,"148, Karnataka",RoC-Bangalore,Karnataka
+UEJ00010MR886609,KAR-Fin-10 Pvt Ltd,Private,2020-03-25,2000000.0,1600000.0,Amalgamated,47,"33, Karnataka",RoC-Bangalore,Karnataka
+UEJ00011MR819678,KAR-Consult-11 Pvt Ltd,Public,2021-07-16,2000000.0,1000000.0,Strike Off,64,"45, Karnataka",RoC-Bangalore,Karnataka
+UEJ00012MR806848,KAR-Agro-12 Pvt Ltd,Private (Ltd by shares),2008-12-17,1000000.0,800000.0,Active,10,"98, Karnataka",RoC-Bangalore,Karnataka
+UEJ00013MR375617,KAR-Agro-13 Pvt Ltd,Public,2008-06-12,2000000.0,1600000.0,Active,71,"69, Karnataka",RoC-Bangalore,Karnataka
+UEJ00014MR539450,KAR-Info-14 Pvt Ltd,Public,2024-06-12,300000.0,160000.0,Amalgamated,47,"193, Karnataka",RoC-Bangalore,Karnataka
+UEJ00015MR819335,KAR-Agro-15 Pvt Ltd,Private (Ltd by shares),2016-07-09,1000000.0,500000.0,Amalgamated,72,"26, Karnataka",RoC-Bangalore,Karnataka
+UEJ00016MR938900,KAR-Info-16 Pvt Ltd,Public,2013-04-18,1200000.0,800000.0,Active,46,"39, Karnataka",RoC-Bangalore,Karnataka
+UEJ00017MR414608,KAR-Foods-17 Pvt Ltd,Private (Ltd by shares),2005-03-14,1500000.0,500000.0,Strike Off,70,"144, Karnataka",RoC-Bangalore,Karnataka
+UEJ00018MR953350,KAR-Foods-18 Pvt Ltd,Private (Ltd by shares),2006-07-04,4800000.0,2500000.0,Active,47,"122, Karnataka",RoC-Bangalore,Karnataka
+UEJ00019MR687569,KAR-Fin-19 Pvt Ltd,Public,2008-08-24,500000.0,400000.0,Dormant,63,"66, Karnataka",RoC-Bangalore,Karnataka
+UEJ00020MR703869,KAR-Info-20 Pvt Ltd,Private (Ltd by shares),2005-07-04,500000.0,500000.0,Active,72,"167, Karnataka",RoC-Bangalore,Karnataka
+UEJ00021MR568640,KAR-Tech-21 Pvt Ltd,Private (Ltd by shares),2010-05-12,500000.0,500000.0,Active,96,"98, Karnataka",RoC-Bangalore,Karnataka
+UEJ00022MR761938,KAR-Fin-22 Pvt Ltd,Public,2014-08-21,200000.0,100000.0,Strike Off,64,"147, Karnataka",RoC-Bangalore,Karnataka
+UEJ00023MR784733,KAR-Foods-23 Pvt Ltd,Public,2007-02-06,500000.0,250000.0,Strike Off,63,"182, Karnataka",RoC-Bangalore,Karnataka
+UEJ00025MR363871,KAR-Info-25 Pvt Ltd,Private (Ltd by shares),2010-03-28,100000.0,50000.0,Active,86,"180, Karnataka",RoC-Bangalore,Karnataka
+UEJ00026MR596171,KAR-Fin-26 Pvt Ltd,Private,2007-04-06,1000000.0,500000.0,Active,11,"14, Karnataka",RoC-Bangalore,Karnataka
+UEJ00027MR262816,KAR-Tech-27 Pvt Ltd,Public,2017-09-25,100000.0,50000.0,Active,72,"168, Karnataka",RoC-Bangalore,Karnataka
+UEJ00029MR666843,KAR-Foods-29 Pvt Ltd,Public,2005-01-22,600000.0,400000.0,Dormant,70,"141, Karnataka",RoC-Bangalore,Karnataka
+UEJ00030MR885290,KAR-Info-30 Pvt Ltd,Public,2009-12-18,200000.0,200000.0,Amalgamated,86,"145, Karnataka",RoC-Bangalore,Karnataka
+UEJ00031MR665883,KAR-Agro-31 Pvt Ltd,Public,2021-11-21,2000000.0,1600000.0,Strike Off,70,"23, Karnataka",RoC-Bangalore,Karnataka
+UEJ00033MR414164,KAR-Tech-33 Pvt Ltd,Public,2016-05-16,2000000.0,1000000.0,Dormant,70,"197, Karnataka",RoC-Bangalore,Karnataka
+UEJ00034MR531736,KAR-Fin-34 Pvt Ltd,Public,2014-10-08,15000000.0,5000000.0,Strike Off,47,"112, Karnataka",RoC-Bangalore,Karnataka
+UEJ00035MR331307,KAR-Foods-35 Pvt Ltd,Public,2012-03-23,5000000.0,5000000.0,Amalgamated,64,"21, Karnataka",RoC-Bangalore,Karnataka
+UEJ00036MR779956,KAR-Info-36 Pvt Ltd,Public,2025-04-17,10000000.0,10000000.0,Active,62,"137, Karnataka",RoC-Bangalore,Karnataka
+UEJ00037MR215717,KAR-Info-37 Pvt Ltd,Private (Ltd by shares),2018-04-28,80000.0,50000.0,Active,62,"117, Karnataka",RoC-Bangalore,Karnataka
+UEJ00038MR120337,KAR-Agro-38 Pvt Ltd,Private (Ltd by shares),2019-05-23,2000000.0,1600000.0,Active,63,"13, Karnataka",RoC-Bangalore,Karnataka
+UEJ00039MR559713,KAR-Info-39 Pvt Ltd,Private,2005-03-04,500000.0,400000.0,Active,96,"3, Karnataka",RoC-Bangalore,Karnataka
+UEJ00040MR426711,KAR-Consult-40 Pvt Ltd,Public,2007-03-01,1000000.0,500000.0,Strike Off,64,"128, Karnataka",RoC-Bangalore,Karnataka
+UEJ00041MR158760,KAR-Foods-41 Pvt Ltd,Public,2019-12-26,100000.0,80000.0,Active,46,"199, Karnataka",RoC-Bangalore,Karnataka
+UEJ00042MR968485,KAR-Tech-42 Pvt Ltd,Private (Ltd by shares),2007-09-16,200000.0,100000.0,Active,64,"32, Karnataka",RoC-Bangalore,Karnataka
+UEJ00043MR583220,KAR-Info-43 Pvt Ltd,Private,2012-07-25,1000000.0,500000.0,Active,47,"198, Karnataka",RoC-Bangalore,Karnataka
+UEJ00044MR266316,KAR-Info-44 Pvt Ltd,Private,2021-11-07,1000000.0,800000.0,Active,63,"187, Karnataka",RoC-Bangalore,Karnataka
+UEJ00046MR932978,KAR-Foods-46 Pvt Ltd,Private,2008-04-21,1000000.0,800000.0,Active,46,"150, Karnataka",RoC-Bangalore,Karnataka
+UEJ00047MR725173,KAR-Agro-47 Pvt Ltd,Private,2017-04-01,100000.0,100000.0,Dormant,96,"96, Karnataka",RoC-Bangalore,Karnataka
+UEJ00048MR162969,KAR-Tech-48 Pvt Ltd,Private (Ltd by shares),2012-03-16,100000.0,100000.0,Dormant,86,"92, Karnataka",RoC-Bangalore,Karnataka
+UEJ00049MR343977,KAR-Foods-49 Pvt Ltd,Private (Ltd by shares),2009-12-18,10000000.0,5000000.0,Active,70,"143, Karnataka",RoC-Bangalore,Karnataka
+UEJ00051MR694229,KAR-Agro-51 Pvt Ltd,Public,2020-12-15,1600000.0,1600000.0,Dormant,47,"140, Karnataka",RoC-Bangalore,Karnataka
+UEJ00053MR294546,KAR-Tech-53 Pvt Ltd,Public,2013-09-12,1000000.0,500000.0,Amalgamated,96,"159, Karnataka",RoC-Bangalore,Karnataka
+UEJ00054MR649526,KAR-Info-54 Pvt Ltd,Private (Ltd by shares),2024-04-11,7500000.0,2500000.0,Amalgamated,47,"128, Karnataka",RoC-Bangalore,Karnataka
+UEJ00055MR200932,KAR-Fin-55 Pvt Ltd,Private,2009-10-10,500000.0,400000.0,Strike Off,11,"169, Karnataka",RoC-Bangalore,Karnataka
+UEJ00056MR608947,KAR-Agro-56 Pvt Ltd,Private,2006-03-06,10000000.0,5000000.0,Active,11,"26, Karnataka",RoC-Bangalore,Karnataka
+UEJ00057MR754280,KAR-Info-57 Pvt Ltd,Public,2023-11-27,1200000.0,1000000.0,Dormant,71,"152, Karnataka",RoC-Bangalore,Karnataka
+UEJ00058MR318877,KAR-Info-58 Pvt Ltd,Private,2006-06-08,2000000.0,2000000.0,Active,10,"126, Karnataka",RoC-Bangalore,Karnataka
+UEJ00059MR932831,KAR-Info-59 Pvt Ltd,Private (Ltd by shares),2019-11-02,500000.0,500000.0,Active,63,"15, Karnataka",RoC-Bangalore,Karnataka
+UEJ00061MR755700,KAR-Agro-61 Pvt Ltd,Private (Ltd by shares),2012-09-13,240000.0,100000.0,Active,72,"143, Karnataka",RoC-Bangalore,Karnataka
+UEJ00062MR581003,KAR-Info-62 Pvt Ltd,Public,2022-07-24,80000.0,100000.0,Strike Off,86,"171, Karnataka",RoC-Bangalore,Karnataka
+UEJ00063MR453907,KAR-Info-63 Pvt Ltd,Private (Ltd by shares),2008-03-26,200000.0,200000.0,Amalgamated,71,"41, Karnataka",RoC-Bangalore,Karnataka
+UEJ00064MR532373,KAR-Consult-64 Pvt Ltd,Public,2024-08-12,500000.0,500000.0,Strike Off,63,"163, Karnataka",RoC-Bangalore,Karnataka
+UEJ00065MR902903,KAR-Fin-65 Pvt Ltd,Public,2015-10-08,2000000.0,2000000.0,Active,64,"191, Karnataka",RoC-Bangalore,Karnataka
+UEJ00066MR724702,KAR-Tech-66 Pvt Ltd,Private,2016-08-15,1000000.0,500000.0,Amalgamated,62,"133, Karnataka",RoC-Bangalore,Karnataka
+UEJ00067MR909000,KAR-Consult-67 Pvt Ltd,Public,2014-01-10,288000.0,100000.0,Strike Off,10,"177, Karnataka",RoC-Bangalore,Karnataka
+UEJ00068MR139569,KAR-Retail-68 Pvt Ltd,Private,2022-09-18,2000000.0,2000000.0,Active,11,"92, Karnataka",RoC-Bangalore,Karnataka
+UEJ00069MR950472,KAR-Foods-69 Pvt Ltd,Private (Ltd by shares),2009-05-12,2000000.0,1000000.0,Amalgamated,62,"24, Karnataka",RoC-Bangalore,Karnataka
+UEJ00070MR281301,KAR-Retail-70 Pvt Ltd,Private (Ltd by shares),2017-10-07,5000000.0,2500000.0,Strike Off,70,"177, Karnataka",RoC-Bangalore,Karnataka
+UEJ00071MR947607,KAR-Fin-71 Pvt Ltd,Private,2023-02-20,5000000.0,4000000.0,Active,96,"98, Karnataka",RoC-Bangalore,Karnataka
+UEJ00073MR419588,KAR-Fin-73 Pvt Ltd,Public,2024-01-21,10000000.0,10000000.0,Amalgamated,10,"11, Karnataka",RoC-Bangalore,Karnataka
+UEJ00074MR152973,KAR-Info-74 Pvt Ltd,Public,2022-10-05,500000.0,500000.0,Amalgamated,46,"188, Karnataka",RoC-Bangalore,Karnataka
+UEJ00075MR403859,KAR-Consult-75 Pvt Ltd,Private,2019-10-19,2000000.0,1000000.0,Active,64,"101, Karnataka",RoC-Bangalore,Karnataka
+UEJ00076MR518582,KAR-Foods-76 Pvt Ltd,Public,2009-06-03,1000000.0,1000000.0,Active,71,"22, Karnataka",RoC-Bangalore,Karnataka
+UEJ00077MR686464,KAR-Agro-77 Pvt Ltd,Public,2021-07-25,5000000.0,2500000.0,Strike Off,70,"125, Karnataka",RoC-Bangalore,Karnataka
+UEJ00078MR175124,KAR-Foods-78 Pvt Ltd,Public,2025-10-07,2000000.0,2000000.0,Active,47,"199, Karnataka",RoC-Bangalore,Karnataka
+UEJ00079MR483010,KAR-Foods-79 Pvt Ltd,Public,2015-11-19,100000.0,50000.0,Amalgamated,64,"49, Karnataka",RoC-Bangalore,Karnataka
+UEJ00080MR746154,KAR-Consult-80 Pvt Ltd,Private (Ltd by shares),2016-10-21,100000.0,80000.0,Active,63,"114, Karnataka",RoC-Bangalore,Karnataka
+UEJ00081MR491979,KAR-Agro-81 Pvt Ltd,Private (Ltd by shares),2009-08-02,10000000.0,5000000.0,Strike Off,86,"194, Karnataka",RoC-Bangalore,Karnataka
+UEJ00083MR664139,KAR-Agro-83 Pvt Ltd,Private (Ltd by shares),2014-08-16,100000.0,80000.0,Active,96,"53, Karnataka",RoC-Bangalore,Karnataka
+UEJ00084MR832697,KAR-Info-84 Pvt Ltd,Public,2021-05-18,1500000.0,1000000.0,Active,96,"5, Karnataka",RoC-Bangalore,Karnataka
+UEJ00085MR397809,KAR-Agro-85 Pvt Ltd,Private (Ltd by shares),2023-11-17,80000.0,80000.0,Active,10,"179, Karnataka",RoC-Bangalore,Karnataka
+UEJ00086MR792451,KAR-Foods-86 Pvt Ltd,Private (Ltd by shares),2013-01-15,5000000.0,2500000.0,Active,64,"170, Karnataka",RoC-Bangalore,Karnataka
+UEJ00088MR308535,KAR-Fin-88 Pvt Ltd,Private (Ltd by shares),2015-08-28,2000000.0,2000000.0,Active,46,"118, Karnataka",RoC-Bangalore,Karnataka
+UEJ00089MR512509,KAR-Info-89 Pvt Ltd,Private,2005-01-08,2000000.0,1600000.0,Strike Off,70,"41, Karnataka",RoC-Bangalore,Karnataka
+UEJ00091MR259077,KAR-Foods-91 Pvt Ltd,Private (Ltd by shares),2013-07-27,100000.0,100000.0,Active,47,"101, Karnataka",RoC-Bangalore,Karnataka
+UEJ00092MR352036,KAR-Fin-92 Pvt Ltd,Public,2009-02-24,1000000.0,1000000.0,Active,64,"40, Karnataka",RoC-Bangalore,Karnataka
+UEJ00093MR784167,KAR-Agro-93 Pvt Ltd,Private (Ltd by shares),2014-10-11,1000000.0,1000000.0,Active,47,"149, Karnataka",RoC-Bangalore,Karnataka
+UEJ00094MR907455,KAR-Agro-94 Pvt Ltd,Private (Ltd by shares),2011-03-10,5000000.0,5000000.0,Active,64,"168, Karnataka",RoC-Bangalore,Karnataka
+UEJ00095MR433025,KAR-Consult-95 Pvt Ltd,Private (Ltd by shares),2010-06-03,2000000.0,2000000.0,Dormant,46,"38, Karnataka",RoC-Bangalore,Karnataka
+UEJ00096MR961613,KAR-Info-96 Pvt Ltd,Public,2005-06-14,1000000.0,800000.0,Dormant,96,"190, Karnataka",RoC-Bangalore,Karnataka
+UEJ00097MR746915,KAR-Foods-97 Pvt Ltd,Private (Ltd by shares),2009-04-04,200000.0,100000.0,Strike Off,72,"156, Karnataka",RoC-Bangalore,Karnataka
+UEJ00098MR183336,KAR-Info-98 Pvt Ltd,Public,2024-04-20,200000.0,100000.0,Active,63,"200, Karnataka",RoC-Bangalore,Karnataka
+UEJ00099MR993522,KAR-Retail-99 Pvt Ltd,Public,2009-09-28,2000000.0,1600000.0,Strike Off,46,"126, Karnataka",RoC-Bangalore,Karnataka
+UEJ00100MR382967,KAR-Retail-100 Pvt Ltd,Private (Ltd by shares),2009-03-07,200000.0,100000.0,Dormant,10,"57, Karnataka",RoC-Bangalore,Karnataka
+UEJ00101MR440677,KAR-Consult-101 Pvt Ltd,Private,2011-04-03,200000.0,160000.0,Dormant,96,"118, Karnataka",RoC-Bangalore,Karnataka
+UEJ00102MR428096,KAR-Retail-102 Pvt Ltd,Private (Ltd by shares),2018-07-25,100000.0,100000.0,Amalgamated,96,"157, Karnataka",RoC-Bangalore,Karnataka
+UEJ00103MR214626,KAR-Retail-103 Pvt Ltd,Private,2023-10-18,2000000.0,2000000.0,Active,71,"117, Karnataka",RoC-Bangalore,Karnataka
+UEJ00105MR583757,KAR-Agro-105 Pvt Ltd,Public,2006-04-10,1000000.0,800000.0,Active,62,"109, Karnataka",RoC-Bangalore,Karnataka
+UEJ00106MR573639,KAR-Tech-106 Pvt Ltd,Private (Ltd by shares),2024-01-23,2000000.0,1000000.0,Dormant,86,"185, Karnataka",RoC-Bangalore,Karnataka
+UEJ00107MR533648,KAR-Foods-107 Pvt Ltd,Private,2008-03-25,1600000.0,2000000.0,Active,64,"116, Karnataka",RoC-Bangalore,Karnataka
+UEJ00108MR362230,KAR-Foods-108 Pvt Ltd,Private (Ltd by shares),2010-08-19,4000000.0,2500000.0,Dormant,11,"178, Karnataka",RoC-Bangalore,Karnataka
+UEJ00110MR677079,KAR-Retail-110 Pvt Ltd,Private,2021-12-13,6000000.0,5000000.0,Active,64,"12, Karnataka",RoC-Bangalore,Karnataka
+UEJ00111MR287555,KAR-Consult-111 Pvt Ltd,Private,2015-10-28,7500000.0,2500000.0,Active,46,"183, Karnataka",RoC-Bangalore,Karnataka
+UEJ00112MR289473,KAR-Tech-112 Pvt Ltd,Private,2018-05-10,5000000.0,4000000.0,Active,86,"34, Karnataka",RoC-Bangalore,Karnataka
+UEJ00113MR996963,KAR-Retail-113 Pvt Ltd,Private,2005-10-25,500000.0,250000.0,Dormant,70,"140, Karnataka",RoC-Bangalore,Karnataka
+UEJ00114MR530074,KAR-Retail-114 Pvt Ltd,Private (Ltd by shares),2024-08-08,240000.0,200000.0,Dormant,70,"21, Karnataka",RoC-Bangalore,Karnataka
+UEJ00115MR293818,KAR-Agro-115 Pvt Ltd,Private (Ltd by shares),2024-01-08,2000000.0,1600000.0,Active,10,"15, Karnataka",RoC-Bangalore,Karnataka
+UEJ00116MR191962,KAR-Tech-116 Pvt Ltd,Public,2016-01-05,10000000.0,5000000.0,Active,63,"28, Karnataka",RoC-Bangalore,Karnataka
+UEJ00117MR885734,KAR-Fin-117 Pvt Ltd,Private,2010-03-22,500000.0,500000.0,Active,70,"93, Karnataka",RoC-Bangalore,Karnataka
+UEJ00118MR984274,KAR-Fin-118 Pvt Ltd,Public,2007-05-11,500000.0,400000.0,Active,64,"17, Karnataka",RoC-Bangalore,Karnataka
+UEJ00119MR533856,KAR-Fin-119 Pvt Ltd,Private (Ltd by shares),2020-03-04,5000000.0,4000000.0,Strike Off,71,"54, Karnataka",RoC-Bangalore,Karnataka
+UEJ00120MR859246,KAR-Info-120 Pvt Ltd,Private (Ltd by shares),2011-10-02,100000.0,100000.0,Active,70,"155, Karnataka",RoC-Bangalore,Karnataka
+UEJ00121MR703080,KAR-Fin-121 Pvt Ltd,Private,2014-07-20,10000000.0,8000000.0,Active,71,"91, Karnataka",RoC-Bangalore,Karnataka
+UEJ00122MR947228,KAR-Agro-122 Pvt Ltd,Private,2024-10-16,2000000.0,2000000.0,Dormant,70,"157, Karnataka",RoC-Bangalore,Karnataka
+UEJ00124MR945197,KAR-Info-124 Pvt Ltd,Private,2024-07-14,100000.0,80000.0,Strike Off,71,"55, Karnataka",RoC-Bangalore,Karnataka
+UEJ00125MR414870,KAR-Fin-125 Pvt Ltd,Public,2025-04-23,500000.0,400000.0,Strike Off,62,"141, Karnataka",RoC-Bangalore,Karnataka
+UEJ00126MR696557,KAR-Fin-126 Pvt Ltd,Private,2005-02-22,500000.0,400000.0,Amalgamated,96,"8, Karnataka",RoC-Bangalore,Karnataka
+UEJ00127MR935981,KAR-Tech-127 Pvt Ltd,Private,2011-06-27,500000.0,500000.0,Dormant,70,"166, Karnataka",RoC-Bangalore,Karnataka
+UEJ00129MR661916,KAR-Tech-129 Pvt Ltd,Private (Ltd by shares),2006-09-10,2000000.0,2000000.0,Strike Off,71,"54, Karnataka",RoC-Bangalore,Karnataka
+UEJ00131MR839525,KAR-Consult-131 Pvt Ltd,Private (Ltd by shares),2023-10-13,200000.0,200000.0,Active,62,"81, Karnataka",RoC-Bangalore,Karnataka
+UEJ00132MR573858,KAR-Consult-132 Pvt Ltd,Private,2006-05-14,100000.0,80000.0,Active,63,"78, Karnataka",RoC-Bangalore,Karnataka
+UEJ00133MR197102,KAR-Retail-133 Pvt Ltd,Private,2021-05-06,100000.0,80000.0,Amalgamated,47,"130, Karnataka",RoC-Bangalore,Karnataka
+UEJ00134MR649063,KAR-Foods-134 Pvt Ltd,Public,2020-09-05,240000.0,160000.0,Dormant,96,"199, Karnataka",RoC-Bangalore,Karnataka
+UEJ00135MR859767,KAR-Tech-135 Pvt Ltd,Public,2009-02-27,2000000.0,2000000.0,Dormant,47,"118, Karnataka",RoC-Bangalore,Karnataka
+UEJ00136MR589554,KAR-Tech-136 Pvt Ltd,Private (Ltd by shares),2021-02-01,500000.0,250000.0,Active,63,"27, Karnataka",RoC-Bangalore,Karnataka
+UEJ00137MR310297,KAR-Agro-137 Pvt Ltd,Public,2014-01-19,10000000.0,8000000.0,Active,63,"74, Karnataka",RoC-Bangalore,Karnataka
+UEJ00138MR256574,KAR-Agro-138 Pvt Ltd,Private,2022-06-25,1000000.0,1000000.0,Active,62,"71, Karnataka",RoC-Bangalore,Karnataka
+UEJ00139MR467335,KAR-Fin-139 Pvt Ltd,Public,2005-10-18,2000000.0,1000000.0,Active,71,"82, Karnataka",RoC-Bangalore,Karnataka
+UEJ00140MR174703,KAR-Foods-140 Pvt Ltd,Public,2009-12-26,500000.0,500000.0,Active,46,"157, Karnataka",RoC-Bangalore,Karnataka
+UEJ00141MR129514,KAR-Fin-141 Pvt Ltd,Private,2024-11-12,10000000.0,8000000.0,Strike Off,10,"12, Karnataka",RoC-Bangalore,Karnataka
+UEJ00142MR457833,KAR-Retail-142 Pvt Ltd,Public,2016-06-26,4000000.0,5000000.0,Active,86,"25, Karnataka",RoC-Bangalore,Karnataka
+UEJ00143MR346019,KAR-Info-143 Pvt Ltd,Private (Ltd by shares),2016-06-14,500000.0,250000.0,Active,47,"80, Karnataka",RoC-Bangalore,Karnataka
+UEJ00144MR278026,KAR-Tech-144 Pvt Ltd,Public,2007-12-03,10000000.0,8000000.0,Active,63,"138, Karnataka",RoC-Bangalore,Karnataka
+UEJ00145MR121393,KAR-Info-145 Pvt Ltd,Private (Ltd by shares),2006-08-22,10000000.0,8000000.0,Amalgamated,62,"121, Karnataka",RoC-Bangalore,Karnataka
+UEJ00146MR202472,KAR-Consult-146 Pvt Ltd,Private,2005-06-13,2000000.0,1600000.0,Strike Off,72,"126, Karnataka",RoC-Bangalore,Karnataka
+UEJ00147MR744693,KAR-Foods-147 Pvt Ltd,Public,2011-06-16,2000000.0,2000000.0,Strike Off,46,"94, Karnataka",RoC-Bangalore,Karnataka
+UEJ00148MR378035,KAR-Tech-148 Pvt Ltd,Private (Ltd by shares),2011-08-21,15000000.0,5000000.0,Active,62,"77, Karnataka",RoC-Bangalore,Karnataka
+UEJ00149MR453200,KAR-Foods-149 Pvt Ltd,Private (Ltd by shares),2017-04-20,6000000.0,2500000.0,Active,72,"18, Karnataka",RoC-Bangalore,Karnataka
+UEJ00150MR963752,KAR-Foods-150 Pvt Ltd,Public,2021-08-14,200000.0,160000.0,Active,86,"130, Karnataka",RoC-Bangalore,Karnataka
+UEJ00151MR363470,KAR-Fin-151 Pvt Ltd,Public,2018-11-18,500000.0,250000.0,Amalgamated,64,"132, Karnataka",RoC-Bangalore,Karnataka
+UEJ00152MR623452,KAR-Agro-152 Pvt Ltd,Private (Ltd by shares),2022-03-01,5000000.0,5000000.0,Active,72,"170, Karnataka",RoC-Bangalore,Karnataka
+UEJ00153MR861911,KAR-Info-153 Pvt Ltd,Private (Ltd by shares),2019-05-21,2000000.0,2000000.0,Active,72,"16, Karnataka",RoC-Bangalore,Karnataka
+UEJ00155MR379901,KAR-Consult-155 Pvt Ltd,Private (Ltd by shares),2018-06-28,10000000.0,5000000.0,Active,64,"74, Karnataka",RoC-Bangalore,Karnataka
+UEJ00156MR219074,KAR-Agro-156 Pvt Ltd,Private,2010-05-22,2000000.0,1000000.0,Amalgamated,47,"50, Karnataka",RoC-Bangalore,Karnataka
+UEJ00157MR778346,KAR-Tech-157 Pvt Ltd,Private,2012-05-15,800000.0,1000000.0,Amalgamated,64,"52, Karnataka",RoC-Bangalore,Karnataka
+UEJ00158MR993933,KAR-Tech-158 Pvt Ltd,Public,2013-03-01,750000.0,400000.0,Active,86,"185, Karnataka",RoC-Bangalore,Karnataka
+UEJ00159MR526777,KAR-Foods-159 Pvt Ltd,Private (Ltd by shares),2005-01-28,120000.0,80000.0,Active,11,"172, Karnataka",RoC-Bangalore,Karnataka
+UEJ00160MR698708,KAR-Info-160 Pvt Ltd,Private,2007-07-27,5000000.0,2500000.0,Active,11,"129, Karnataka",RoC-Bangalore,Karnataka
+UEJ00161MR194632,KAR-Agro-161 Pvt Ltd,Private,2021-11-27,2000000.0,2000000.0,Active,70,"154, Karnataka",RoC-Bangalore,Karnataka
+UEJ00162MR880097,KAR-Agro-162 Pvt Ltd,Private,2015-06-27,2000000.0,2000000.0,Amalgamated,96,"109, Karnataka",RoC-Bangalore,Karnataka
+UEJ00163MR366659,KAR-Consult-163 Pvt Ltd,Private,2009-02-06,200000.0,160000.0,Dormant,64,"151, Karnataka",RoC-Bangalore,Karnataka
+UEJ00164MR544366,KAR-Retail-164 Pvt Ltd,Private,2020-09-12,5000000.0,2500000.0,Strike Off,71,"175, Karnataka",RoC-Bangalore,Karnataka
+UEJ00165MR122097,KAR-Info-165 Pvt Ltd,Private,2013-03-12,1000000.0,1000000.0,Strike Off,62,"156, Karnataka",RoC-Bangalore,Karnataka
+UEJ00166MR128015,KAR-Tech-166 Pvt Ltd,Private (Ltd by shares),2018-08-06,500000.0,250000.0,Active,70,"164, Karnataka",RoC-Bangalore,Karnataka
+UEJ00167MR139609,KAR-Tech-167 Pvt Ltd,Private,2019-07-11,5000000.0,4000000.0,Active,64,"65, Karnataka",RoC-Bangalore,Karnataka
+UEJ00168MR171551,KAR-Tech-168 Pvt Ltd,Private (Ltd by shares),2009-06-22,5000000.0,4000000.0,Dormant,70,"141, Karnataka",RoC-Bangalore,Karnataka
+UEJ00169MR278875,KAR-Consult-169 Pvt Ltd,Private (Ltd by shares),2012-12-15,200000.0,160000.0,Active,46,"5, Karnataka",RoC-Bangalore,Karnataka
+UEJ00170MR181354,KAR-Info-170 Pvt Ltd,Private,2008-03-10,100000.0,100000.0,Amalgamated,46,"196, Karnataka",RoC-Bangalore,Karnataka
+UEJ00171MR136118,KAR-Info-171 Pvt Ltd,Private,2013-03-15,500000.0,250000.0,Active,96,"137, Karnataka",RoC-Bangalore,Karnataka
+UEJ00172MR823880,KAR-Foods-172 Pvt Ltd,Private,2019-12-02,10000000.0,10000000.0,Active,64,"114, Karnataka",RoC-Bangalore,Karnataka
+UEJ00173MR492843,KAR-Agro-173 Pvt Ltd,Private,2024-01-02,10000000.0,8000000.0,Active,47,"52, Karnataka",RoC-Bangalore,Karnataka
+UEJ00174MR801444,KAR-Tech-174 Pvt Ltd,Private,2005-07-01,100000.0,80000.0,Active,86,"57, Karnataka",RoC-Bangalore,Karnataka
+UEJ00175MR438354,KAR-Fin-175 Pvt Ltd,Private,2010-12-06,100000.0,80000.0,Active,63,"161, Karnataka",RoC-Bangalore,Karnataka
+UEJ00176MR324164,KAR-Tech-176 Pvt Ltd,Public,2024-04-18,1000000.0,800000.0,Active,47,"92, Karnataka",RoC-Bangalore,Karnataka
+UEJ00177MR323103,KAR-Retail-177 Pvt Ltd,Private,2010-01-13,5000000.0,4000000.0,Active,64,"57, Karnataka",RoC-Bangalore,Karnataka
+UEJ00178MR531066,KAR-Foods-178 Pvt Ltd,Private (Ltd by shares),2013-11-20,500000.0,250000.0,Active,47,"197, Karnataka",RoC-Bangalore,Karnataka
+UEJ00179MR199346,KAR-Fin-179 Pvt Ltd,Private (Ltd by shares),2020-02-23,2000000.0,2000000.0,Active,62,"84, Karnataka",RoC-Bangalore,Karnataka
+UEJ00180MR766216,KAR-Consult-180 Pvt Ltd,Public,2017-11-25,5000000.0,2500000.0,Strike Off,46,"177, Karnataka",RoC-Bangalore,Karnataka
+UEJ00181MR635849,KAR-Info-181 Pvt Ltd,Private,2020-02-11,100000.0,100000.0,Dormant,64,"190, Karnataka",RoC-Bangalore,Karnataka
+UEJ00182MR895807,KAR-Tech-182 Pvt Ltd,Private,2021-10-23,100000.0,50000.0,Active,72,"80, Karnataka",RoC-Bangalore,Karnataka
+UEJ00183MR622952,KAR-Foods-183 Pvt Ltd,Private,2018-04-20,100000.0,50000.0,Active,63,"52, Karnataka",RoC-Bangalore,Karnataka
+UEJ00184MR444656,KAR-Agro-184 Pvt Ltd,Public,2017-04-21,100000.0,50000.0,Dormant,96,"72, Karnataka",RoC-Bangalore,Karnataka
+UEJ00185MR340134,KAR-Consult-185 Pvt Ltd,Public,2025-01-17,10000000.0,8000000.0,Active,10,"188, Karnataka",RoC-Bangalore,Karnataka
+UEJ00186MR830100,KAR-Info-186 Pvt Ltd,Private (Ltd by shares),2015-04-07,2000000.0,1000000.0,Active,86,"57, Karnataka",RoC-Bangalore,Karnataka
+UEJ00187MR615524,KAR-Tech-187 Pvt Ltd,Private,2017-09-11,200000.0,160000.0,Active,11,"50, Karnataka",RoC-Bangalore,Karnataka
+UEJ00188MR675507,KAR-Consult-188 Pvt Ltd,Private,2025-03-07,200000.0,100000.0,Active,72,"53, Karnataka",RoC-Bangalore,Karnataka
+UEJ00189MR856729,KAR-Agro-189 Pvt Ltd,Public,2021-02-14,5000000.0,4000000.0,Active,46,"63, Karnataka",RoC-Bangalore,Karnataka
+UEJ00190MR311184,KAR-Foods-190 Pvt Ltd,Private,2010-10-08,500000.0,400000.0,Dormant,86,"124, Karnataka",RoC-Bangalore,Karnataka
+UEJ00191MR629837,KAR-Fin-191 Pvt Ltd,Public,2016-07-13,200000.0,160000.0,Dormant,64,"189, Karnataka",RoC-Bangalore,Karnataka
+UEJ00192MR895720,KAR-Foods-192 Pvt Ltd,Private (Ltd by shares),2009-08-01,10000000.0,8000000.0,Amalgamated,11,"153, Karnataka",RoC-Bangalore,Karnataka
+UEJ00193MR420704,KAR-Retail-193 Pvt Ltd,Public,2009-09-24,200000.0,160000.0,Amalgamated,70,"73, Karnataka",RoC-Bangalore,Karnataka

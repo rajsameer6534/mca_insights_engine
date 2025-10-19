@@ -1,0 +1,158 @@
+CIN,Company_Name,Company_Class,Date_of_Incorporation,Authorized_Capital,Paidup_Capital,Company_Status,NIC_Code,Registered_Address,RoC,State
+UAF00001IN246316,MAH-Info-1 Pvt Ltd,Private (Ltd by shares),2025-02-01,5000000.0,4000000.0,Active,47,"27, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00002IN329258,MAH-Agro-2 Pvt Ltd,Private (Ltd by shares),2022-02-19,1000000.0,500000.0,Active,11,"130, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00003IN571029,MAH-Fin-3 Pvt Ltd,Private,2005-09-07,5000000.0,5000000.0,Amalgamated,47,"72, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00004IN900581,MAH-Foods-4 Pvt Ltd,Private,2010-12-14,500000.0,400000.0,Active,47,"27, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00005IN865179,MAH-Retail-5 Pvt Ltd,Private,2017-02-12,10000000.0,8000000.0,Active,10,"138, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00006IN301629,MAH-Info-6 Pvt Ltd,Private,2017-02-18,500000.0,500000.0,Strike Off,72,"18, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00007IN391476,MAH-Retail-7 Pvt Ltd,Public,2012-05-03,10000000.0,5000000.0,Active,64,"163, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00009IN497887,MAH-Foods-9 Pvt Ltd,Private (Ltd by shares),2025-03-18,5000000.0,2500000.0,Active,70,"164, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00010IN944151,MAH-Foods-10 Pvt Ltd,Public,2022-04-22,500000.0,250000.0,Active,10,"103, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00011IN623481,MAH-Retail-11 Pvt Ltd,Public,2007-04-19,5000000.0,4000000.0,Active,86,"165, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00012IN712982,MAH-Retail-12 Pvt Ltd,Public,2009-05-05,240000.0,200000.0,Active,96,"150, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00014IN363626,MAH-Fin-14 Pvt Ltd,Private (Ltd by shares),2018-10-03,1000000.0,800000.0,Dormant,71,"3, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00015IN407757,MAH-Retail-15 Pvt Ltd,Public,2008-11-18,10000000.0,8000000.0,Strike Off,11,"41, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00016IN211579,MAH-Consult-16 Pvt Ltd,Public,2005-12-24,400000.0,500000.0,Active,71,"161, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00017IN665579,MAH-Consult-17 Pvt Ltd,Private,2025-09-20,200000.0,100000.0,Strike Off,46,"136, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00018IN351083,MAH-Tech-18 Pvt Ltd,Private (Ltd by shares),2024-06-16,100000.0,50000.0,Strike Off,62,"62, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00019IN791798,MAH-Retail-19 Pvt Ltd,Private,2007-02-24,1000000.0,500000.0,Active,46,"141, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00020IN891952,MAH-Info-20 Pvt Ltd,Private,2013-09-28,2000000.0,1600000.0,Active,71,"177, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00021IN573417,MAH-Tech-21 Pvt Ltd,Private,2014-07-22,5000000.0,4000000.0,Dormant,71,"64, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00022IN330914,MAH-Tech-22 Pvt Ltd,Private (Ltd by shares),2007-06-01,2000000.0,2000000.0,Active,72,"19, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00023IN639131,MAH-Agro-23 Pvt Ltd,Private (Ltd by shares),2025-01-08,100000.0,50000.0,Strike Off,11,"72, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00024IN922733,MAH-Retail-24 Pvt Ltd,Private,2020-04-18,200000.0,200000.0,Dormant,47,"105, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00025IN589710,MAH-Consult-25 Pvt Ltd,Private,2008-02-22,1500000.0,800000.0,Amalgamated,64,"187, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00026IN360735,MAH-Agro-26 Pvt Ltd,Private (Ltd by shares),2025-11-04,100000.0,80000.0,Strike Off,11,"49, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00027IN179046,MAH-Retail-27 Pvt Ltd,Private,2019-03-14,200000.0,160000.0,Dormant,47,"141, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00029IN378085,MAH-Consult-29 Pvt Ltd,Public,2011-07-02,200000.0,160000.0,Dormant,64,"117, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00030IN299122,MAH-Foods-30 Pvt Ltd,Private,2018-12-24,10000000.0,10000000.0,Dormant,46,"56, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00031IN152578,MAH-Fin-31 Pvt Ltd,Private (Ltd by shares),2023-12-18,100000.0,100000.0,Strike Off,10,"123, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00032IN723939,MAH-Tech-32 Pvt Ltd,Private,2021-03-02,2000000.0,1000000.0,Active,11,"173, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00033IN185965,MAH-Retail-33 Pvt Ltd,Private (Ltd by shares),2017-02-19,200000.0,200000.0,Active,72,"169, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00035IN751332,MAH-Fin-35 Pvt Ltd,Private,2025-05-15,500000.0,250000.0,Active,70,"26, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00036IN356150,MAH-Foods-36 Pvt Ltd,Private,2022-04-17,500000.0,250000.0,Strike Off,11,"73, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00037IN956795,MAH-Fin-37 Pvt Ltd,Private (Ltd by shares),2019-09-23,500000.0,500000.0,Active,86,"77, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00038IN395442,MAH-Fin-38 Pvt Ltd,Private (Ltd by shares),2008-03-09,100000.0,50000.0,Active,62,"54, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00039IN987204,MAH-Tech-39 Pvt Ltd,Private (Ltd by shares),2015-04-22,5000000.0,4000000.0,Dormant,62,"24, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00040IN374680,MAH-Agro-40 Pvt Ltd,Public,2018-05-02,100000.0,80000.0,Active,86,"190, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00041IN824586,MAH-Agro-41 Pvt Ltd,Private,2022-12-14,2000000.0,1000000.0,Active,11,"140, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00042IN423232,MAH-Foods-42 Pvt Ltd,Public,2016-10-18,200000.0,160000.0,Active,10,"11, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00043IN526117,MAH-Fin-43 Pvt Ltd,Private,2011-11-08,5000000.0,2500000.0,Strike Off,71,"192, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00044IN288073,MAH-Info-44 Pvt Ltd,Public,2012-03-26,10000000.0,5000000.0,Dormant,10,"86, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00045IN140605,MAH-Consult-45 Pvt Ltd,Private,2012-05-06,10000000.0,10000000.0,Active,64,"121, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00046IN792094,MAH-Agro-46 Pvt Ltd,Public,2011-08-12,500000.0,250000.0,Active,10,"103, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00047IN984642,MAH-Fin-47 Pvt Ltd,Private,2013-02-25,500000.0,400000.0,Strike Off,86,"85, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00048IN725550,MAH-Retail-48 Pvt Ltd,Private (Ltd by shares),2008-05-06,2000000.0,1600000.0,Active,11,"89, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00049IN299312,MAH-Foods-49 Pvt Ltd,Private (Ltd by shares),2015-07-20,2000000.0,1000000.0,Amalgamated,72,"12, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00050IN552248,MAH-Tech-50 Pvt Ltd,Public,2018-01-17,10000000.0,10000000.0,Amalgamated,63,"171, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00051IN424308,MAH-Info-51 Pvt Ltd,Public,2024-06-22,10000000.0,5000000.0,Active,71,"105, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00052IN797229,MAH-Retail-52 Pvt Ltd,Private (Ltd by shares),2017-12-10,2000000.0,1000000.0,Active,64,"174, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00053IN400850,MAH-Agro-53 Pvt Ltd,Private (Ltd by shares),2010-10-19,500000.0,400000.0,Active,62,"111, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00054IN324082,MAH-Fin-54 Pvt Ltd,Private (Ltd by shares),2024-11-11,1000000.0,800000.0,Dormant,86,"122, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00055IN958179,MAH-Consult-55 Pvt Ltd,Private (Ltd by shares),2010-11-03,500000.0,500000.0,Strike Off,11,"61, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00056IN356736,MAH-Retail-56 Pvt Ltd,Private,2014-04-26,200000.0,100000.0,Active,10,"157, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00057IN519066,MAH-Agro-57 Pvt Ltd,Private (Ltd by shares),2019-07-21,2000000.0,1000000.0,Amalgamated,70,"38, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00058IN643118,MAH-Retail-58 Pvt Ltd,Private (Ltd by shares),2005-02-25,1000000.0,500000.0,Active,96,"13, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00059IN742412,MAH-Consult-59 Pvt Ltd,Private (Ltd by shares),2012-02-15,200000.0,160000.0,Strike Off,70,"185, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00060IN371782,MAH-Consult-60 Pvt Ltd,Private (Ltd by shares),2018-09-15,200000.0,200000.0,Dormant,70,"64, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00061IN181247,MAH-Info-61 Pvt Ltd,Private,2013-09-16,5000000.0,2500000.0,Active,70,"74, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00062IN342495,MAH-Retail-62 Pvt Ltd,Private,2013-06-11,2400000.0,1000000.0,Active,46,"178, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00063IN165290,MAH-Agro-63 Pvt Ltd,Public,2011-02-14,1000000.0,800000.0,Dormant,64,"108, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00064IN106182,MAH-Foods-64 Pvt Ltd,Public,2023-12-01,10000000.0,10000000.0,Amalgamated,70,"77, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00065IN330080,MAH-Foods-65 Pvt Ltd,Public,2018-09-24,5000000.0,5000000.0,Active,70,"112, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00066IN273061,MAH-Consult-66 Pvt Ltd,Private,2005-07-11,5000000.0,5000000.0,Amalgamated,96,"120, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00067IN773971,MAH-Retail-67 Pvt Ltd,Public,2024-09-01,1000000.0,1000000.0,Active,11,"35, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00068IN442722,MAH-Foods-68 Pvt Ltd,Public,2010-01-09,1000000.0,800000.0,Active,70,"195, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00069IN885408,MAH-Fin-69 Pvt Ltd,Public,2013-07-09,10000000.0,5000000.0,Dormant,10,"14, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00070IN359295,MAH-Agro-70 Pvt Ltd,Private (Ltd by shares),2012-11-03,10000000.0,10000000.0,Active,10,"6, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00071IN328552,MAH-Retail-71 Pvt Ltd,Public,2009-04-05,1000000.0,1000000.0,Active,72,"180, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00072IN426147,MAH-Tech-72 Pvt Ltd,Private,2016-03-20,2000000.0,2000000.0,Active,46,"149, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00073IN720859,MAH-Info-73 Pvt Ltd,Private,2014-10-22,1000000.0,800000.0,Amalgamated,11,"161, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00074IN920652,MAH-Tech-74 Pvt Ltd,Private (Ltd by shares),2008-12-25,500000.0,500000.0,Active,72,"89, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00075IN990844,MAH-Retail-75 Pvt Ltd,Private,2018-11-12,100000.0,100000.0,Strike Off,10,"126, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00076IN284692,MAH-Info-76 Pvt Ltd,Private (Ltd by shares),2018-06-21,10000000.0,8000000.0,Active,64,"134, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00077IN965845,MAH-Info-77 Pvt Ltd,Public,2013-10-26,2000000.0,1600000.0,Dormant,64,"152, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00078IN886931,MAH-Retail-78 Pvt Ltd,Private (Ltd by shares),2015-04-27,100000.0,80000.0,Dormant,47,"146, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00079IN322423,MAH-Foods-79 Pvt Ltd,Public,2017-06-01,1000000.0,800000.0,Active,70,"67, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00080IN300337,MAH-Tech-80 Pvt Ltd,Private (Ltd by shares),2013-10-23,600000.0,500000.0,Active,71,"62, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00081IN846420,MAH-Retail-81 Pvt Ltd,Private,2018-08-18,10000000.0,5000000.0,Active,86,"115, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00082IN796212,MAH-Fin-82 Pvt Ltd,Public,2007-05-08,1000000.0,1000000.0,Active,62,"95, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00083IN836996,MAH-Retail-83 Pvt Ltd,Public,2022-09-12,1000000.0,1000000.0,Active,63,"70, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00084IN878967,MAH-Fin-84 Pvt Ltd,Private (Ltd by shares),2013-04-04,5000000.0,2500000.0,Strike Off,11,"196, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00085IN718226,MAH-Consult-85 Pvt Ltd,Private (Ltd by shares),2010-04-07,5000000.0,4000000.0,Dormant,96,"135, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00086IN288158,MAH-Foods-86 Pvt Ltd,Private (Ltd by shares),2014-02-27,200000.0,160000.0,Active,63,"4, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00087IN232413,MAH-Info-87 Pvt Ltd,Public,2022-03-09,100000.0,50000.0,Active,96,"193, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00088IN457256,MAH-Agro-88 Pvt Ltd,Public,2008-01-19,500000.0,400000.0,Dormant,70,"14, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00089IN705050,MAH-Info-89 Pvt Ltd,Private,2020-02-27,100000.0,80000.0,Dormant,11,"176, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00090IN224205,MAH-Fin-90 Pvt Ltd,Public,2009-03-26,2400000.0,1600000.0,Active,47,"196, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00091IN564226,MAH-Foods-91 Pvt Ltd,Public,2024-10-26,2000000.0,1000000.0,Amalgamated,70,"151, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00092IN755900,MAH-Agro-92 Pvt Ltd,Private (Ltd by shares),2014-10-20,100000.0,100000.0,Active,47,"68, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00093IN102805,MAH-Retail-93 Pvt Ltd,Private (Ltd by shares),2007-03-08,300000.0,200000.0,Active,46,"116, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00094IN396451,MAH-Info-94 Pvt Ltd,Private,2024-08-10,150000.0,50000.0,Active,96,"117, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00095IN220351,MAH-Fin-95 Pvt Ltd,Private (Ltd by shares),2012-05-26,10000000.0,10000000.0,Active,64,"58, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00096IN931131,MAH-Foods-96 Pvt Ltd,Private (Ltd by shares),2009-05-27,200000.0,100000.0,Active,46,"153, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00097IN522060,MAH-Foods-97 Pvt Ltd,Private (Ltd by shares),2023-05-15,100000.0,80000.0,Active,96,"129, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00098IN437978,MAH-Fin-98 Pvt Ltd,Private,2020-08-03,2000000.0,1000000.0,Amalgamated,96,"65, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00100IN713762,MAH-Retail-100 Pvt Ltd,Public,2010-08-17,5000000.0,4000000.0,Active,46,"163, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00101IN209680,MAH-Consult-101 Pvt Ltd,Public,2007-08-12,1000000.0,800000.0,Strike Off,86,"42, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00102IN138479,MAH-Retail-102 Pvt Ltd,Public,2018-12-16,500000.0,500000.0,Amalgamated,71,"23, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00103IN668950,MAH-Retail-103 Pvt Ltd,Private,2013-06-04,15000000.0,8000000.0,Active,86,"106, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00104IN313446,MAH-Foods-104 Pvt Ltd,Private,2011-09-12,2000000.0,1600000.0,Dormant,10,"141, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00105IN738448,MAH-Consult-105 Pvt Ltd,Private (Ltd by shares),2014-08-23,1000000.0,500000.0,Active,86,"62, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00106IN335615,MAH-Consult-106 Pvt Ltd,Public,2010-05-18,100000.0,100000.0,Dormant,11,"30, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00107IN839677,MAH-Foods-107 Pvt Ltd,Public,2008-11-27,200000.0,160000.0,Active,71,"107, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00108IN728492,MAH-Fin-108 Pvt Ltd,Private,2020-04-15,2000000.0,1000000.0,Amalgamated,47,"192, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00109IN380150,MAH-Consult-109 Pvt Ltd,Public,2007-05-25,10000000.0,8000000.0,Strike Off,71,"1, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00110IN664742,MAH-Retail-110 Pvt Ltd,Public,2014-10-19,6000000.0,4000000.0,Active,70,"89, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00111IN350405,MAH-Fin-111 Pvt Ltd,Private,2022-09-13,1000000.0,800000.0,Active,96,"99, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00112IN795928,MAH-Consult-112 Pvt Ltd,Private,2018-01-11,5000000.0,4000000.0,Amalgamated,64,"167, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00113IN986088,MAH-Retail-113 Pvt Ltd,Private (Ltd by shares),2020-01-05,2000000.0,2000000.0,Amalgamated,11,"26, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00115IN659543,MAH-Retail-115 Pvt Ltd,Private (Ltd by shares),2024-12-13,5000000.0,2500000.0,Strike Off,86,"82, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00116IN817644,MAH-Foods-116 Pvt Ltd,Private (Ltd by shares),2020-09-02,2000000.0,1000000.0,Dormant,86,"59, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00117IN274446,MAH-Info-117 Pvt Ltd,Private,2007-07-04,10000000.0,10000000.0,Active,70,"77, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00118IN551607,MAH-Agro-118 Pvt Ltd,Private (Ltd by shares),2006-06-26,100000.0,80000.0,Strike Off,63,"63, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00119IN182804,MAH-Fin-119 Pvt Ltd,Private (Ltd by shares),2018-10-22,10000000.0,5000000.0,Active,46,"98, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00120IN366314,MAH-Retail-120 Pvt Ltd,Private (Ltd by shares),2012-08-19,200000.0,100000.0,Dormant,86,"66, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00122IN503380,MAH-Consult-122 Pvt Ltd,Private,2025-07-23,600000.0,400000.0,Active,47,"124, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00123IN409571,MAH-Tech-123 Pvt Ltd,Public,2012-07-19,500000.0,500000.0,Active,96,"169, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00124IN881369,MAH-Retail-124 Pvt Ltd,Private,2013-01-19,10000000.0,10000000.0,Active,72,"74, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00125IN892280,MAH-Info-125 Pvt Ltd,Private (Ltd by shares),2024-06-08,5000000.0,2500000.0,Active,86,"197, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00126IN926918,MAH-Retail-126 Pvt Ltd,Private (Ltd by shares),2009-11-04,5000000.0,5000000.0,Active,62,"9, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00127IN535686,MAH-Agro-127 Pvt Ltd,Private,2016-12-05,100000.0,80000.0,Strike Off,96,"52, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00128IN964749,MAH-Retail-128 Pvt Ltd,Private (Ltd by shares),2022-06-17,2000000.0,1600000.0,Active,62,"76, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00129IN859396,MAH-Info-129 Pvt Ltd,Private (Ltd by shares),2015-02-15,100000.0,50000.0,Active,86,"102, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00130IN229592,MAH-Retail-130 Pvt Ltd,Private (Ltd by shares),2016-02-26,1000000.0,500000.0,Active,71,"95, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00131IN807617,MAH-Agro-131 Pvt Ltd,Private,2013-10-13,10000000.0,10000000.0,Strike Off,11,"121, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00132IN963874,MAH-Retail-132 Pvt Ltd,Public,2024-09-11,2000000.0,1000000.0,Active,86,"180, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00133IN616554,MAH-Tech-133 Pvt Ltd,Private,2025-07-04,200000.0,100000.0,Active,62,"25, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00134IN878325,MAH-Info-134 Pvt Ltd,Public,2022-03-13,1000000.0,800000.0,Amalgamated,72,"40, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00135IN134305,MAH-Info-135 Pvt Ltd,Private,2025-02-27,1200000.0,1000000.0,Amalgamated,62,"95, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00136IN485178,MAH-Fin-136 Pvt Ltd,Public,2019-08-08,10000000.0,8000000.0,Active,86,"166, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00137IN794963,MAH-Agro-137 Pvt Ltd,Private (Ltd by shares),2006-07-09,200000.0,100000.0,Dormant,11,"165, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00138IN925206,MAH-Fin-138 Pvt Ltd,Private,2024-01-02,10000000.0,8000000.0,Active,46,"53, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00140IN127032,MAH-Agro-140 Pvt Ltd,Public,2009-03-18,500000.0,250000.0,Active,86,"4, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00141IN846490,MAH-Fin-141 Pvt Ltd,Private,2022-12-08,200000.0,200000.0,Active,96,"125, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00142IN284731,MAH-Foods-142 Pvt Ltd,Private,2023-10-15,500000.0,500000.0,Active,70,"104, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00143IN618306,MAH-Info-143 Pvt Ltd,Private,2024-02-22,10000000.0,10000000.0,Amalgamated,63,"170, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00144IN792984,MAH-Agro-144 Pvt Ltd,Private (Ltd by shares),2007-04-27,200000.0,200000.0,Active,46,"116, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00145IN814622,MAH-Foods-145 Pvt Ltd,Private (Ltd by shares),2014-07-20,2000000.0,1600000.0,Active,47,"77, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00146IN635218,MAH-Retail-146 Pvt Ltd,Public,2014-07-23,500000.0,250000.0,Active,72,"33, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00147IN395917,MAH-Consult-147 Pvt Ltd,Private,2006-06-18,100000.0,50000.0,Strike Off,11,"8, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00148IN501384,MAH-Retail-148 Pvt Ltd,Public,2018-12-19,1000000.0,1000000.0,Strike Off,96,"98, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00149IN682401,MAH-Retail-149 Pvt Ltd,Public,2022-04-22,200000.0,160000.0,Active,47,"93, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00150IN175231,MAH-Info-150 Pvt Ltd,Private,2009-05-28,5000000.0,2500000.0,Active,10,"5, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00151IN945091,MAH-Retail-151 Pvt Ltd,Private (Ltd by shares),2020-11-14,200000.0,100000.0,Active,86,"117, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00152IN959907,MAH-Retail-152 Pvt Ltd,Public,2024-07-20,200000.0,160000.0,Amalgamated,71,"99, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00153IN348250,MAH-Info-153 Pvt Ltd,Public,2012-03-14,2000000.0,1000000.0,Dormant,96,"129, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00154IN606743,MAH-Info-154 Pvt Ltd,Private,2018-09-19,500000.0,250000.0,Active,72,"95, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00155IN642060,MAH-Tech-155 Pvt Ltd,Private (Ltd by shares),2023-08-23,100000.0,50000.0,Active,70,"134, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00156IN764469,MAH-Fin-156 Pvt Ltd,Public,2007-04-16,5000000.0,5000000.0,Active,86,"149, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00157IN637566,MAH-Retail-157 Pvt Ltd,Private (Ltd by shares),2024-01-11,2000000.0,1000000.0,Dormant,70,"147, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00158IN137042,MAH-Info-158 Pvt Ltd,Private (Ltd by shares),2015-07-12,10000000.0,8000000.0,Active,46,"153, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00159IN596144,MAH-Fin-159 Pvt Ltd,Private (Ltd by shares),2014-12-26,2000000.0,1600000.0,Active,86,"44, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00160IN608307,MAH-Tech-160 Pvt Ltd,Private (Ltd by shares),2006-11-10,10000000.0,10000000.0,Active,62,"33, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00161IN999529,MAH-Foods-161 Pvt Ltd,Private (Ltd by shares),2007-05-09,200000.0,200000.0,Active,62,"4, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00162IN568349,MAH-Foods-162 Pvt Ltd,Public,2008-10-06,2000000.0,2000000.0,Active,86,"45, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00163IN188501,MAH-Agro-163 Pvt Ltd,Private,2012-08-06,10000000.0,10000000.0,Active,63,"153, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00164IN768545,MAH-Agro-164 Pvt Ltd,Private (Ltd by shares),2020-07-25,1000000.0,500000.0,Dormant,96,"54, Maharashtra",RoC-Mumbai,Maharashtra
+UAF00165IN586554,MAH-Retail-165 Pvt Ltd,Public,2016-01-21,500000.0,250000.0,Active,46,"122, Maharashtra",RoC-Mumbai,Maharashtra

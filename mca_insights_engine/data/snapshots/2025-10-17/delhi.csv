@@ -1,0 +1,141 @@
+CIN,Company_Name,Company_Class,Date_of_Incorporation,Authorized_Capital,Paidup_Capital,Company_Status,NIC_Code,Registered_Address,RoC,State
+UCH00001KP829417,DEL-Fin-1 Pvt Ltd,Private,2005-04-07,5000000.0,2500000.0,Dormant,47,"181, Delhi",RoC-Delhi,Delhi
+UCH00002KP659572,DEL-Info-2 Pvt Ltd,Public,2017-04-18,500000.0,400000.0,Amalgamated,70,"92, Delhi",RoC-Delhi,Delhi
+UCH00003KP592296,DEL-Consult-3 Pvt Ltd,Private,2013-06-17,1000000.0,800000.0,Active,96,"82, Delhi",RoC-Delhi,Delhi
+UCH00004KP253011,DEL-Tech-4 Pvt Ltd,Private (Ltd by shares),2016-06-14,100000.0,100000.0,Active,96,"67, Delhi",RoC-Delhi,Delhi
+UCH00005KP445888,DEL-Agro-5 Pvt Ltd,Private (Ltd by shares),2023-10-24,1000000.0,800000.0,Active,47,"98, Delhi",RoC-Delhi,Delhi
+UCH00006KP900441,DEL-Consult-6 Pvt Ltd,Private (Ltd by shares),2012-08-18,5000000.0,5000000.0,Strike Off,62,"126, Delhi",RoC-Delhi,Delhi
+UCH00007KP246757,DEL-Info-7 Pvt Ltd,Public,2025-12-16,1000000.0,500000.0,Strike Off,46,"140, Delhi",RoC-Delhi,Delhi
+UCH00008KP957730,DEL-Info-8 Pvt Ltd,Private,2010-09-21,100000.0,100000.0,Active,11,"13, Delhi",RoC-Delhi,Delhi
+UCH00009KP258366,DEL-Tech-9 Pvt Ltd,Private (Ltd by shares),2018-03-27,5000000.0,2500000.0,Active,96,"56, Delhi",RoC-Delhi,Delhi
+UCH00010KP611552,DEL-Tech-10 Pvt Ltd,Private (Ltd by shares),2019-06-02,2000000.0,2000000.0,Dormant,86,"2, Delhi",RoC-Delhi,Delhi
+UCH00011KP400614,DEL-Tech-11 Pvt Ltd,Private (Ltd by shares),2022-07-01,100000.0,100000.0,Active,71,"129, Delhi",RoC-Delhi,Delhi
+UCH00012KP301255,DEL-Fin-12 Pvt Ltd,Public,2018-03-04,100000.0,100000.0,Active,47,"135, Delhi",RoC-Delhi,Delhi
+UCH00013KP581294,DEL-Fin-13 Pvt Ltd,Private (Ltd by shares),2016-05-26,1000000.0,500000.0,Strike Off,64,"63, Delhi",RoC-Delhi,Delhi
+UCH00014KP524965,DEL-Retail-14 Pvt Ltd,Private (Ltd by shares),2012-05-22,10000000.0,5000000.0,Active,11,"97, Delhi",RoC-Delhi,Delhi
+UCH00015KP624139,DEL-Consult-15 Pvt Ltd,Private (Ltd by shares),2020-01-21,100000.0,100000.0,Active,11,"112, Delhi",RoC-Delhi,Delhi
+UCH00016KP321686,DEL-Consult-16 Pvt Ltd,Private (Ltd by shares),2015-10-28,100000.0,100000.0,Active,47,"178, Delhi",RoC-Delhi,Delhi
+UCH00017KP690882,DEL-Info-17 Pvt Ltd,Private,2020-05-02,100000.0,100000.0,Active,71,"9, Delhi",RoC-Delhi,Delhi
+UCH00018KP413814,DEL-Agro-18 Pvt Ltd,Private,2015-01-07,2000000.0,1000000.0,Amalgamated,11,"145, Delhi",RoC-Delhi,Delhi
+UCH00019KP246748,DEL-Consult-19 Pvt Ltd,Private (Ltd by shares),2023-07-22,2000000.0,1600000.0,Amalgamated,96,"177, Delhi",RoC-Delhi,Delhi
+UCH00020KP343420,DEL-Consult-20 Pvt Ltd,Public,2007-09-24,500000.0,250000.0,Active,64,"20, Delhi",RoC-Delhi,Delhi
+UCH00021KP386604,DEL-Consult-21 Pvt Ltd,Public,2024-10-20,1000000.0,800000.0,Active,86,"116, Delhi",RoC-Delhi,Delhi
+UCH00022KP714334,DEL-Info-22 Pvt Ltd,Private,2012-06-18,1000000.0,800000.0,Active,86,"98, Delhi",RoC-Delhi,Delhi
+UCH00023KP380989,DEL-Agro-23 Pvt Ltd,Private (Ltd by shares),2024-05-26,200000.0,200000.0,Active,11,"98, Delhi",RoC-Delhi,Delhi
+UCH00024KP195966,DEL-Tech-24 Pvt Ltd,Public,2025-03-24,1000000.0,800000.0,Strike Off,11,"79, Delhi",RoC-Delhi,Delhi
+UCH00025KP570646,DEL-Fin-25 Pvt Ltd,Private (Ltd by shares),2016-05-04,200000.0,100000.0,Active,64,"143, Delhi",RoC-Delhi,Delhi
+UCH00026KP727094,DEL-Consult-26 Pvt Ltd,Public,2018-02-01,100000.0,80000.0,Active,72,"84, Delhi",RoC-Delhi,Delhi
+UCH00027KP646417,DEL-Agro-27 Pvt Ltd,Public,2005-05-14,1000000.0,500000.0,Active,72,"176, Delhi",RoC-Delhi,Delhi
+UCH00028KP166340,DEL-Agro-28 Pvt Ltd,Public,2010-03-09,500000.0,400000.0,Dormant,46,"112, Delhi",RoC-Delhi,Delhi
+UCH00029KP358568,DEL-Info-29 Pvt Ltd,Public,2018-05-16,10000000.0,5000000.0,Strike Off,62,"161, Delhi",RoC-Delhi,Delhi
+UCH00030KP107096,DEL-Retail-30 Pvt Ltd,Private (Ltd by shares),2024-10-07,1000000.0,500000.0,Active,62,"86, Delhi",RoC-Delhi,Delhi
+UCH00031KP436241,DEL-Fin-31 Pvt Ltd,Private,2017-06-15,500000.0,400000.0,Active,62,"178, Delhi",RoC-Delhi,Delhi
+UCH00032KP828716,DEL-Info-32 Pvt Ltd,Private (Ltd by shares),2020-06-06,1000000.0,800000.0,Active,96,"126, Delhi",RoC-Delhi,Delhi
+UCH00033KP691240,DEL-Agro-33 Pvt Ltd,Private (Ltd by shares),2012-06-13,500000.0,400000.0,Strike Off,11,"152, Delhi",RoC-Delhi,Delhi
+UCH00034KP319832,DEL-Retail-34 Pvt Ltd,Private (Ltd by shares),2010-11-25,2000000.0,1000000.0,Dormant,96,"75, Delhi",RoC-Delhi,Delhi
+UCH00035KP364955,DEL-Info-35 Pvt Ltd,Private (Ltd by shares),2007-07-22,1000000.0,500000.0,Active,47,"40, Delhi",RoC-Delhi,Delhi
+UCH00036KP520274,DEL-Fin-36 Pvt Ltd,Private (Ltd by shares),2018-07-03,1000000.0,1000000.0,Dormant,72,"130, Delhi",RoC-Delhi,Delhi
+UCH00037KP906306,DEL-Agro-37 Pvt Ltd,Private (Ltd by shares),2018-09-02,10000000.0,8000000.0,Active,11,"169, Delhi",RoC-Delhi,Delhi
+UCH00038KP934908,DEL-Retail-38 Pvt Ltd,Private,2016-03-21,2000000.0,1000000.0,Amalgamated,63,"28, Delhi",RoC-Delhi,Delhi
+UCH00039KP492292,DEL-Retail-39 Pvt Ltd,Private (Ltd by shares),2008-05-08,2000000.0,2000000.0,Active,70,"119, Delhi",RoC-Delhi,Delhi
+UCH00040KP209627,DEL-Foods-40 Pvt Ltd,Private,2023-12-17,200000.0,160000.0,Active,70,"107, Delhi",RoC-Delhi,Delhi
+UCH00041KP922366,DEL-Agro-41 Pvt Ltd,Public,2008-12-05,500000.0,400000.0,Strike Off,70,"134, Delhi",RoC-Delhi,Delhi
+UCH00042KP170437,DEL-Foods-42 Pvt Ltd,Private (Ltd by shares),2016-08-04,1000000.0,1000000.0,Dormant,63,"12, Delhi",RoC-Delhi,Delhi
+UCH00043KP938913,DEL-Agro-43 Pvt Ltd,Private,2008-01-28,500000.0,500000.0,Active,86,"190, Delhi",RoC-Delhi,Delhi
+UCH00044KP343118,DEL-Consult-44 Pvt Ltd,Private (Ltd by shares),2021-03-18,200000.0,160000.0,Amalgamated,70,"104, Delhi",RoC-Delhi,Delhi
+UCH00045KP873207,DEL-Fin-45 Pvt Ltd,Public,2010-03-21,5000000.0,4000000.0,Amalgamated,10,"51, Delhi",RoC-Delhi,Delhi
+UCH00046KP391865,DEL-Consult-46 Pvt Ltd,Private,2023-07-13,100000.0,100000.0,Active,47,"181, Delhi",RoC-Delhi,Delhi
+UCH00047KP441819,DEL-Agro-47 Pvt Ltd,Private,2023-02-26,10000000.0,10000000.0,Active,63,"118, Delhi",RoC-Delhi,Delhi
+UCH00048KP507517,DEL-Fin-48 Pvt Ltd,Private (Ltd by shares),2013-11-28,1000000.0,1000000.0,Strike Off,72,"101, Delhi",RoC-Delhi,Delhi
+UCH00049KP840282,DEL-Consult-49 Pvt Ltd,Private (Ltd by shares),2008-06-12,10000000.0,8000000.0,Active,86,"77, Delhi",RoC-Delhi,Delhi
+UCH00050KP420214,DEL-Tech-50 Pvt Ltd,Public,2023-02-22,200000.0,160000.0,Active,47,"47, Delhi",RoC-Delhi,Delhi
+UCH00051KP502349,DEL-Retail-51 Pvt Ltd,Public,2009-09-13,1000000.0,1000000.0,Active,72,"48, Delhi",RoC-Delhi,Delhi
+UCH00052KP402865,DEL-Agro-52 Pvt Ltd,Public,2025-09-23,5000000.0,2500000.0,Active,70,"48, Delhi",RoC-Delhi,Delhi
+UCH00053KP243167,DEL-Agro-53 Pvt Ltd,Private (Ltd by shares),2019-10-02,10000000.0,8000000.0,Active,70,"99, Delhi",RoC-Delhi,Delhi
+UCH00054KP844638,DEL-Consult-54 Pvt Ltd,Public,2021-11-16,1000000.0,1000000.0,Dormant,64,"114, Delhi",RoC-Delhi,Delhi
+UCH00055KP388204,DEL-Agro-55 Pvt Ltd,Public,2010-02-19,100000.0,50000.0,Active,10,"138, Delhi",RoC-Delhi,Delhi
+UCH00056KP219754,DEL-Foods-56 Pvt Ltd,Private (Ltd by shares),2010-08-19,5000000.0,4000000.0,Active,72,"199, Delhi",RoC-Delhi,Delhi
+UCH00057KP329157,DEL-Retail-57 Pvt Ltd,Private (Ltd by shares),2016-09-27,10000000.0,5000000.0,Dormant,71,"27, Delhi",RoC-Delhi,Delhi
+UCH00058KP465509,DEL-Consult-58 Pvt Ltd,Public,2025-04-10,10000000.0,5000000.0,Dormant,62,"23, Delhi",RoC-Delhi,Delhi
+UCH00059KP739905,DEL-Info-59 Pvt Ltd,Private,2008-04-07,10000000.0,10000000.0,Strike Off,96,"110, Delhi",RoC-Delhi,Delhi
+UCH00060KP467856,DEL-Fin-60 Pvt Ltd,Private (Ltd by shares),2024-03-26,200000.0,100000.0,Active,72,"72, Delhi",RoC-Delhi,Delhi
+UCH00061KP380329,DEL-Consult-61 Pvt Ltd,Private (Ltd by shares),2022-03-11,5000000.0,4000000.0,Active,72,"132, Delhi",RoC-Delhi,Delhi
+UCH00062KP787757,DEL-Agro-62 Pvt Ltd,Private,2008-03-25,10000000.0,8000000.0,Active,62,"180, Delhi",RoC-Delhi,Delhi
+UCH00063KP249077,DEL-Fin-63 Pvt Ltd,Public,2012-03-23,500000.0,250000.0,Amalgamated,70,"162, Delhi",RoC-Delhi,Delhi
+UCH00064KP640659,DEL-Info-64 Pvt Ltd,Private (Ltd by shares),2025-07-13,1000000.0,500000.0,Active,64,"72, Delhi",RoC-Delhi,Delhi
+UCH00065KP197666,DEL-Info-65 Pvt Ltd,Private (Ltd by shares),2016-08-16,500000.0,500000.0,Active,96,"118, Delhi",RoC-Delhi,Delhi
+UCH00066KP964915,DEL-Agro-66 Pvt Ltd,Public,2016-02-26,2000000.0,1600000.0,Active,64,"127, Delhi",RoC-Delhi,Delhi
+UCH00067KP993829,DEL-Retail-67 Pvt Ltd,Private (Ltd by shares),2015-05-11,2000000.0,2000000.0,Active,72,"88, Delhi",RoC-Delhi,Delhi
+UCH00068KP999312,DEL-Agro-68 Pvt Ltd,Public,2006-01-04,5000000.0,4000000.0,Active,11,"113, Delhi",RoC-Delhi,Delhi
+UCH00069KP387330,DEL-Tech-69 Pvt Ltd,Public,2005-07-07,5000000.0,2500000.0,Active,46,"168, Delhi",RoC-Delhi,Delhi
+UCH00070KP515594,DEL-Info-70 Pvt Ltd,Private (Ltd by shares),2013-02-12,5000000.0,5000000.0,Active,10,"79, Delhi",RoC-Delhi,Delhi
+UCH00071KP323788,DEL-Retail-71 Pvt Ltd,Private,2012-07-21,100000.0,100000.0,Active,10,"20, Delhi",RoC-Delhi,Delhi
+UCH00072KP829386,DEL-Foods-72 Pvt Ltd,Public,2023-04-17,5000000.0,4000000.0,Active,10,"31, Delhi",RoC-Delhi,Delhi
+UCH00073KP945106,DEL-Tech-73 Pvt Ltd,Public,2009-08-03,200000.0,160000.0,Active,96,"27, Delhi",RoC-Delhi,Delhi
+UCH00074KP656278,DEL-Fin-74 Pvt Ltd,Private (Ltd by shares),2016-05-05,1000000.0,500000.0,Active,11,"3, Delhi",RoC-Delhi,Delhi
+UCH00075KP884616,DEL-Agro-75 Pvt Ltd,Private (Ltd by shares),2025-03-15,500000.0,500000.0,Active,86,"106, Delhi",RoC-Delhi,Delhi
+UCH00076KP865470,DEL-Retail-76 Pvt Ltd,Public,2019-04-03,100000.0,50000.0,Active,72,"90, Delhi",RoC-Delhi,Delhi
+UCH00077KP680278,DEL-Fin-77 Pvt Ltd,Private (Ltd by shares),2015-03-08,500000.0,500000.0,Active,47,"154, Delhi",RoC-Delhi,Delhi
+UCH00078KP642899,DEL-Fin-78 Pvt Ltd,Private,2024-05-25,5000000.0,2500000.0,Active,47,"131, Delhi",RoC-Delhi,Delhi
+UCH00079KP218220,DEL-Agro-79 Pvt Ltd,Private (Ltd by shares),2017-05-21,100000.0,50000.0,Dormant,64,"128, Delhi",RoC-Delhi,Delhi
+UCH00080KP505629,DEL-Consult-80 Pvt Ltd,Public,2024-02-17,100000.0,80000.0,Strike Off,46,"146, Delhi",RoC-Delhi,Delhi
+UCH00081KP715895,DEL-Tech-81 Pvt Ltd,Public,2016-09-22,200000.0,160000.0,Active,10,"4, Delhi",RoC-Delhi,Delhi
+UCH00082KP847245,DEL-Fin-82 Pvt Ltd,Public,2011-01-02,10000000.0,8000000.0,Active,86,"197, Delhi",RoC-Delhi,Delhi
+UCH00083KP187657,DEL-Foods-83 Pvt Ltd,Private (Ltd by shares),2018-12-13,100000.0,100000.0,Active,62,"21, Delhi",RoC-Delhi,Delhi
+UCH00084KP832614,DEL-Retail-84 Pvt Ltd,Private,2011-03-18,500000.0,400000.0,Active,62,"187, Delhi",RoC-Delhi,Delhi
+UCH00085KP738407,DEL-Tech-85 Pvt Ltd,Private (Ltd by shares),2006-04-03,1000000.0,500000.0,Dormant,72,"80, Delhi",RoC-Delhi,Delhi
+UCH00086KP620526,DEL-Foods-86 Pvt Ltd,Private (Ltd by shares),2010-02-01,5000000.0,2500000.0,Active,46,"134, Delhi",RoC-Delhi,Delhi
+UCH00087KP223791,DEL-Consult-87 Pvt Ltd,Public,2013-03-12,200000.0,200000.0,Active,96,"8, Delhi",RoC-Delhi,Delhi
+UCH00088KP577309,DEL-Fin-88 Pvt Ltd,Private,2018-05-17,100000.0,80000.0,Active,70,"93, Delhi",RoC-Delhi,Delhi
+UCH00089KP701790,DEL-Info-89 Pvt Ltd,Private,2020-10-06,500000.0,250000.0,Active,11,"186, Delhi",RoC-Delhi,Delhi
+UCH00090KP148215,DEL-Retail-90 Pvt Ltd,Public,2012-12-17,100000.0,50000.0,Active,47,"94, Delhi",RoC-Delhi,Delhi
+UCH00091KP437433,DEL-Agro-91 Pvt Ltd,Private (Ltd by shares),2009-03-28,100000.0,100000.0,Amalgamated,47,"107, Delhi",RoC-Delhi,Delhi
+UCH00092KP626428,DEL-Info-92 Pvt Ltd,Private,2015-05-27,100000.0,100000.0,Strike Off,11,"14, Delhi",RoC-Delhi,Delhi
+UCH00093KP911102,DEL-Consult-93 Pvt Ltd,Public,2012-09-02,1000000.0,500000.0,Dormant,62,"80, Delhi",RoC-Delhi,Delhi
+UCH00094KP691194,DEL-Consult-94 Pvt Ltd,Private (Ltd by shares),2007-09-15,100000.0,80000.0,Active,62,"78, Delhi",RoC-Delhi,Delhi
+UCH00095KP868043,DEL-Fin-95 Pvt Ltd,Private,2024-04-15,500000.0,500000.0,Dormant,47,"195, Delhi",RoC-Delhi,Delhi
+UCH00096KP980357,DEL-Info-96 Pvt Ltd,Public,2009-01-14,100000.0,50000.0,Strike Off,86,"3, Delhi",RoC-Delhi,Delhi
+UCH00097KP315161,DEL-Fin-97 Pvt Ltd,Public,2005-11-13,10000000.0,10000000.0,Active,11,"61, Delhi",RoC-Delhi,Delhi
+UCH00098KP342716,DEL-Consult-98 Pvt Ltd,Public,2020-01-05,5000000.0,4000000.0,Active,10,"134, Delhi",RoC-Delhi,Delhi
+UCH00099KP239999,DEL-Info-99 Pvt Ltd,Private,2016-08-24,100000.0,100000.0,Active,71,"101, Delhi",RoC-Delhi,Delhi
+UCH00100KP405844,DEL-Foods-100 Pvt Ltd,Public,2023-10-02,1000000.0,1000000.0,Active,47,"81, Delhi",RoC-Delhi,Delhi
+UCH00101KP242723,DEL-Consult-101 Pvt Ltd,Private (Ltd by shares),2015-06-15,500000.0,250000.0,Active,47,"198, Delhi",RoC-Delhi,Delhi
+UCH00102KP526259,DEL-Tech-102 Pvt Ltd,Public,2008-03-04,200000.0,160000.0,Dormant,63,"138, Delhi",RoC-Delhi,Delhi
+UCH00103KP265271,DEL-Consult-103 Pvt Ltd,Public,2011-08-10,1000000.0,800000.0,Active,11,"176, Delhi",RoC-Delhi,Delhi
+UCH00104KP845702,DEL-Agro-104 Pvt Ltd,Public,2024-01-07,10000000.0,8000000.0,Active,11,"92, Delhi",RoC-Delhi,Delhi
+UCH00105KP524035,DEL-Consult-105 Pvt Ltd,Private (Ltd by shares),2021-01-22,500000.0,400000.0,Active,10,"116, Delhi",RoC-Delhi,Delhi
+UCH00106KP112537,DEL-Tech-106 Pvt Ltd,Private,2022-04-04,1000000.0,500000.0,Active,11,"200, Delhi",RoC-Delhi,Delhi
+UCH00107KP714590,DEL-Foods-107 Pvt Ltd,Private,2009-04-27,1000000.0,800000.0,Active,72,"20, Delhi",RoC-Delhi,Delhi
+UCH00108KP228479,DEL-Tech-108 Pvt Ltd,Private,2007-04-21,1000000.0,500000.0,Active,63,"119, Delhi",RoC-Delhi,Delhi
+UCH00109KP130914,DEL-Retail-109 Pvt Ltd,Public,2010-10-14,10000000.0,10000000.0,Amalgamated,70,"175, Delhi",RoC-Delhi,Delhi
+UCH00110KP255851,DEL-Tech-110 Pvt Ltd,Private (Ltd by shares),2010-06-07,200000.0,160000.0,Active,70,"158, Delhi",RoC-Delhi,Delhi
+UCH00111KP602300,DEL-Tech-111 Pvt Ltd,Public,2024-04-21,500000.0,400000.0,Amalgamated,71,"23, Delhi",RoC-Delhi,Delhi
+UCH00112KP941134,DEL-Fin-112 Pvt Ltd,Public,2017-03-14,200000.0,200000.0,Active,86,"5, Delhi",RoC-Delhi,Delhi
+UCH00113KP626797,DEL-Foods-113 Pvt Ltd,Public,2016-08-18,10000000.0,8000000.0,Strike Off,72,"100, Delhi",RoC-Delhi,Delhi
+UCH00114KP161437,DEL-Consult-114 Pvt Ltd,Private (Ltd by shares),2010-01-11,2000000.0,1000000.0,Active,62,"121, Delhi",RoC-Delhi,Delhi
+UCH00115KP352867,DEL-Foods-115 Pvt Ltd,Private (Ltd by shares),2016-10-08,200000.0,100000.0,Active,86,"137, Delhi",RoC-Delhi,Delhi
+UCH00116KP284654,DEL-Agro-116 Pvt Ltd,Public,2006-04-19,10000000.0,8000000.0,Strike Off,46,"152, Delhi",RoC-Delhi,Delhi
+UCH00117KP690984,DEL-Agro-117 Pvt Ltd,Private,2016-10-01,5000000.0,5000000.0,Strike Off,72,"145, Delhi",RoC-Delhi,Delhi
+UCH00118KP158896,DEL-Agro-118 Pvt Ltd,Private,2020-09-10,200000.0,160000.0,Active,11,"155, Delhi",RoC-Delhi,Delhi
+UCH00119KP457311,DEL-Info-119 Pvt Ltd,Public,2005-09-16,100000.0,80000.0,Active,46,"46, Delhi",RoC-Delhi,Delhi
+UCH00120KP987599,DEL-Fin-120 Pvt Ltd,Private,2006-01-05,2000000.0,2000000.0,Active,11,"94, Delhi",RoC-Delhi,Delhi
+UCH00121KP416423,DEL-Foods-121 Pvt Ltd,Private,2016-12-22,1000000.0,1000000.0,Active,63,"35, Delhi",RoC-Delhi,Delhi
+UCH00122KP689275,DEL-Info-122 Pvt Ltd,Public,2018-11-16,5000000.0,4000000.0,Active,96,"158, Delhi",RoC-Delhi,Delhi
+UCH00123KP869649,DEL-Info-123 Pvt Ltd,Private,2012-11-19,10000000.0,5000000.0,Amalgamated,62,"76, Delhi",RoC-Delhi,Delhi
+UCH00124KP133955,DEL-Agro-124 Pvt Ltd,Public,2010-12-01,5000000.0,5000000.0,Amalgamated,72,"155, Delhi",RoC-Delhi,Delhi
+UCH00125KP447255,DEL-Info-125 Pvt Ltd,Private,2024-04-21,2000000.0,1000000.0,Dormant,46,"20, Delhi",RoC-Delhi,Delhi
+UCH00126KP111949,DEL-Foods-126 Pvt Ltd,Private,2016-06-06,5000000.0,2500000.0,Strike Off,70,"54, Delhi",RoC-Delhi,Delhi
+UCH00127KP504684,DEL-Retail-127 Pvt Ltd,Public,2007-06-09,10000000.0,5000000.0,Active,10,"188, Delhi",RoC-Delhi,Delhi
+UCH00128KP969067,DEL-Retail-128 Pvt Ltd,Private (Ltd by shares),2010-07-16,1000000.0,800000.0,Amalgamated,11,"148, Delhi",RoC-Delhi,Delhi
+UCH00129KP434198,DEL-Foods-129 Pvt Ltd,Private,2012-03-15,100000.0,50000.0,Active,10,"27, Delhi",RoC-Delhi,Delhi
+UCH00130KP197627,DEL-Foods-130 Pvt Ltd,Private (Ltd by shares),2015-03-13,200000.0,200000.0,Active,71,"153, Delhi",RoC-Delhi,Delhi
+UCH00131KP555292,DEL-Agro-131 Pvt Ltd,Private,2020-12-01,1000000.0,1000000.0,Active,72,"14, Delhi",RoC-Delhi,Delhi
+UCH00132KP395198,DEL-Foods-132 Pvt Ltd,Private,2015-04-07,1000000.0,1000000.0,Active,86,"61, Delhi",RoC-Delhi,Delhi
+UCH00133KP478356,DEL-Tech-133 Pvt Ltd,Private,2006-07-19,2000000.0,1600000.0,Active,10,"110, Delhi",RoC-Delhi,Delhi
+UCH00134KP126985,DEL-Agro-134 Pvt Ltd,Private (Ltd by shares),2014-11-21,2000000.0,1600000.0,Active,11,"44, Delhi",RoC-Delhi,Delhi
+UCH00135KP593821,DEL-Retail-135 Pvt Ltd,Public,2014-02-16,10000000.0,5000000.0,Active,64,"170, Delhi",RoC-Delhi,Delhi
+UCH00136KP487345,DEL-Agro-136 Pvt Ltd,Private,2007-11-18,1000000.0,500000.0,Strike Off,64,"115, Delhi",RoC-Delhi,Delhi
+UCH00137KP164633,DEL-Agro-137 Pvt Ltd,Private (Ltd by shares),2013-08-15,500000.0,250000.0,Active,72,"193, Delhi",RoC-Delhi,Delhi
+UCH00138KP338564,DEL-Fin-138 Pvt Ltd,Public,2008-02-22,500000.0,500000.0,Amalgamated,72,"16, Delhi",RoC-Delhi,Delhi
+UCH00139KP413369,DEL-Tech-139 Pvt Ltd,Private (Ltd by shares),2021-07-18,5000000.0,4000000.0,Active,70,"102, Delhi",RoC-Delhi,Delhi
+UCH00140KP893969,DEL-Retail-140 Pvt Ltd,Private,2006-09-19,2000000.0,2000000.0,Active,11,"45, Delhi",RoC-Delhi,Delhi

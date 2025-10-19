@@ -1,0 +1,141 @@
+CIN,Company_Name,Company_Class,Date_of_Incorporation,Authorized_Capital,Paidup_Capital,Company_Status,NIC_Code,Registered_Address,RoC,State
+UEJ00001MR526911,KAR-Fin-1 Pvt Ltd,Private (Ltd by shares),2011-08-13,2000000.0,1000000.0,Active,46,"28, Karnataka",RoC-Bangalore,Karnataka
+UEJ00002MR952646,KAR-Consult-2 Pvt Ltd,Public,2007-09-10,500000.0,250000.0,Active,71,"148, Karnataka",RoC-Bangalore,Karnataka
+UEJ00003MR814703,KAR-Retail-3 Pvt Ltd,Private,2019-07-19,1000000.0,500000.0,Strike Off,70,"151, Karnataka",RoC-Bangalore,Karnataka
+UEJ00004MR835236,KAR-Agro-4 Pvt Ltd,Public,2020-02-09,100000.0,80000.0,Active,86,"81, Karnataka",RoC-Bangalore,Karnataka
+UEJ00005MR401244,KAR-Tech-5 Pvt Ltd,Private (Ltd by shares),2016-09-18,100000.0,100000.0,Active,47,"103, Karnataka",RoC-Bangalore,Karnataka
+UEJ00006MR329183,KAR-Fin-6 Pvt Ltd,Private,2015-02-18,200000.0,160000.0,Strike Off,63,"69, Karnataka",RoC-Bangalore,Karnataka
+UEJ00007MR316823,KAR-Agro-7 Pvt Ltd,Private,2011-08-24,200000.0,100000.0,Active,62,"52, Karnataka",RoC-Bangalore,Karnataka
+UEJ00008MR808640,KAR-Info-8 Pvt Ltd,Private (Ltd by shares),2024-06-05,10000000.0,5000000.0,Active,11,"127, Karnataka",RoC-Bangalore,Karnataka
+UEJ00009MR430738,KAR-Retail-9 Pvt Ltd,Public,2005-09-02,10000000.0,8000000.0,Strike Off,72,"148, Karnataka",RoC-Bangalore,Karnataka
+UEJ00010MR886609,KAR-Fin-10 Pvt Ltd,Private,2020-03-25,2000000.0,1600000.0,Amalgamated,47,"33, Karnataka",RoC-Bangalore,Karnataka
+UEJ00011MR819678,KAR-Consult-11 Pvt Ltd,Public,2021-07-16,2000000.0,1000000.0,Strike Off,64,"45, Karnataka",RoC-Bangalore,Karnataka
+UEJ00012MR806848,KAR-Agro-12 Pvt Ltd,Private (Ltd by shares),2008-12-17,1000000.0,800000.0,Active,10,"98, Karnataka",RoC-Bangalore,Karnataka
+UEJ00013MR375617,KAR-Agro-13 Pvt Ltd,Public,2008-06-12,2000000.0,1600000.0,Active,71,"69, Karnataka",RoC-Bangalore,Karnataka
+UEJ00014MR539450,KAR-Info-14 Pvt Ltd,Public,2024-06-12,200000.0,160000.0,Amalgamated,47,"193, Karnataka",RoC-Bangalore,Karnataka
+UEJ00015MR819335,KAR-Agro-15 Pvt Ltd,Private (Ltd by shares),2016-07-09,1000000.0,500000.0,Active,72,"26, Karnataka",RoC-Bangalore,Karnataka
+UEJ00016MR938900,KAR-Info-16 Pvt Ltd,Public,2013-04-18,1000000.0,800000.0,Active,46,"39, Karnataka",RoC-Bangalore,Karnataka
+UEJ00017MR414608,KAR-Foods-17 Pvt Ltd,Private (Ltd by shares),2005-03-14,1000000.0,500000.0,Strike Off,70,"144, Karnataka",RoC-Bangalore,Karnataka
+UEJ00018MR953350,KAR-Foods-18 Pvt Ltd,Private (Ltd by shares),2006-07-04,5000000.0,2500000.0,Active,47,"122, Karnataka",RoC-Bangalore,Karnataka
+UEJ00019MR687569,KAR-Fin-19 Pvt Ltd,Public,2008-08-24,500000.0,400000.0,Strike Off,63,"66, Karnataka",RoC-Bangalore,Karnataka
+UEJ00020MR703869,KAR-Info-20 Pvt Ltd,Private (Ltd by shares),2005-07-04,500000.0,500000.0,Active,72,"167, Karnataka",RoC-Bangalore,Karnataka
+UEJ00021MR568640,KAR-Tech-21 Pvt Ltd,Private (Ltd by shares),2010-05-12,500000.0,500000.0,Dormant,96,"98, Karnataka",RoC-Bangalore,Karnataka
+UEJ00022MR761938,KAR-Fin-22 Pvt Ltd,Public,2014-08-21,200000.0,100000.0,Strike Off,64,"147, Karnataka",RoC-Bangalore,Karnataka
+UEJ00023MR784733,KAR-Foods-23 Pvt Ltd,Public,2007-02-06,500000.0,250000.0,Strike Off,63,"182, Karnataka",RoC-Bangalore,Karnataka
+UEJ00024MR715429,KAR-Fin-24 Pvt Ltd,Public,2024-11-13,500000.0,400000.0,Strike Off,96,"116, Karnataka",RoC-Bangalore,Karnataka
+UEJ00025MR363871,KAR-Info-25 Pvt Ltd,Private (Ltd by shares),2010-03-28,100000.0,50000.0,Active,86,"180, Karnataka",RoC-Bangalore,Karnataka
+UEJ00026MR596171,KAR-Fin-26 Pvt Ltd,Private,2007-04-06,1000000.0,500000.0,Active,11,"14, Karnataka",RoC-Bangalore,Karnataka
+UEJ00027MR262816,KAR-Tech-27 Pvt Ltd,Public,2017-09-25,100000.0,50000.0,Active,72,"168, Karnataka",RoC-Bangalore,Karnataka
+UEJ00028MR232552,KAR-Agro-28 Pvt Ltd,Private,2014-04-08,5000000.0,4000000.0,Dormant,86,"135, Karnataka",RoC-Bangalore,Karnataka
+UEJ00029MR666843,KAR-Foods-29 Pvt Ltd,Public,2005-01-22,500000.0,400000.0,Dormant,70,"141, Karnataka",RoC-Bangalore,Karnataka
+UEJ00030MR885290,KAR-Info-30 Pvt Ltd,Public,2009-12-18,200000.0,200000.0,Dormant,86,"145, Karnataka",RoC-Bangalore,Karnataka
+UEJ00031MR665883,KAR-Agro-31 Pvt Ltd,Public,2021-11-21,2000000.0,1600000.0,Strike Off,70,"23, Karnataka",RoC-Bangalore,Karnataka
+UEJ00032MR100096,KAR-Fin-32 Pvt Ltd,Private,2014-06-14,500000.0,250000.0,Active,10,"195, Karnataka",RoC-Bangalore,Karnataka
+UEJ00033MR414164,KAR-Tech-33 Pvt Ltd,Public,2016-05-16,2000000.0,1000000.0,Dormant,70,"197, Karnataka",RoC-Bangalore,Karnataka
+UEJ00034MR531736,KAR-Fin-34 Pvt Ltd,Public,2014-10-08,10000000.0,5000000.0,Strike Off,47,"112, Karnataka",RoC-Bangalore,Karnataka
+UEJ00035MR331307,KAR-Foods-35 Pvt Ltd,Public,2012-03-23,5000000.0,5000000.0,Amalgamated,64,"21, Karnataka",RoC-Bangalore,Karnataka
+UEJ00036MR779956,KAR-Info-36 Pvt Ltd,Public,2025-04-17,10000000.0,10000000.0,Active,62,"137, Karnataka",RoC-Bangalore,Karnataka
+UEJ00037MR215717,KAR-Info-37 Pvt Ltd,Private (Ltd by shares),2018-04-28,100000.0,50000.0,Active,62,"117, Karnataka",RoC-Bangalore,Karnataka
+UEJ00038MR120337,KAR-Agro-38 Pvt Ltd,Private (Ltd by shares),2019-05-23,2000000.0,1600000.0,Active,63,"13, Karnataka",RoC-Bangalore,Karnataka
+UEJ00039MR559713,KAR-Info-39 Pvt Ltd,Private,2005-03-04,500000.0,400000.0,Active,96,"3, Karnataka",RoC-Bangalore,Karnataka
+UEJ00040MR426711,KAR-Consult-40 Pvt Ltd,Public,2007-03-01,1000000.0,500000.0,Strike Off,64,"128, Karnataka",RoC-Bangalore,Karnataka
+UEJ00041MR158760,KAR-Foods-41 Pvt Ltd,Public,2019-12-26,100000.0,80000.0,Active,46,"199, Karnataka",RoC-Bangalore,Karnataka
+UEJ00042MR968485,KAR-Tech-42 Pvt Ltd,Private (Ltd by shares),2007-09-16,200000.0,100000.0,Active,64,"32, Karnataka",RoC-Bangalore,Karnataka
+UEJ00043MR583220,KAR-Info-43 Pvt Ltd,Private,2012-07-25,1000000.0,500000.0,Active,47,"198, Karnataka",RoC-Bangalore,Karnataka
+UEJ00044MR266316,KAR-Info-44 Pvt Ltd,Private,2021-11-07,1000000.0,800000.0,Active,63,"187, Karnataka",RoC-Bangalore,Karnataka
+UEJ00045MR477934,KAR-Tech-45 Pvt Ltd,Private,2022-09-04,500000.0,400000.0,Active,47,"171, Karnataka",RoC-Bangalore,Karnataka
+UEJ00046MR932978,KAR-Foods-46 Pvt Ltd,Private,2008-04-21,1000000.0,800000.0,Active,46,"150, Karnataka",RoC-Bangalore,Karnataka
+UEJ00047MR725173,KAR-Agro-47 Pvt Ltd,Private,2017-04-01,100000.0,100000.0,Dormant,96,"96, Karnataka",RoC-Bangalore,Karnataka
+UEJ00048MR162969,KAR-Tech-48 Pvt Ltd,Private (Ltd by shares),2012-03-16,100000.0,100000.0,Strike Off,86,"92, Karnataka",RoC-Bangalore,Karnataka
+UEJ00049MR343977,KAR-Foods-49 Pvt Ltd,Private (Ltd by shares),2009-12-18,10000000.0,5000000.0,Active,70,"143, Karnataka",RoC-Bangalore,Karnataka
+UEJ00050MR859587,KAR-Agro-50 Pvt Ltd,Private,2016-08-24,200000.0,100000.0,Amalgamated,63,"65, Karnataka",RoC-Bangalore,Karnataka
+UEJ00051MR694229,KAR-Agro-51 Pvt Ltd,Public,2020-12-15,2000000.0,1600000.0,Dormant,47,"140, Karnataka",RoC-Bangalore,Karnataka
+UEJ00052MR656937,KAR-Agro-52 Pvt Ltd,Public,2015-12-15,500000.0,500000.0,Active,11,"116, Karnataka",RoC-Bangalore,Karnataka
+UEJ00053MR294546,KAR-Tech-53 Pvt Ltd,Public,2013-09-12,1000000.0,500000.0,Amalgamated,96,"159, Karnataka",RoC-Bangalore,Karnataka
+UEJ00054MR649526,KAR-Info-54 Pvt Ltd,Private (Ltd by shares),2024-04-11,5000000.0,2500000.0,Amalgamated,47,"128, Karnataka",RoC-Bangalore,Karnataka
+UEJ00055MR200932,KAR-Fin-55 Pvt Ltd,Private,2009-10-10,500000.0,400000.0,Strike Off,11,"169, Karnataka",RoC-Bangalore,Karnataka
+UEJ00056MR608947,KAR-Agro-56 Pvt Ltd,Private,2006-03-06,10000000.0,5000000.0,Active,11,"26, Karnataka",RoC-Bangalore,Karnataka
+UEJ00057MR754280,KAR-Info-57 Pvt Ltd,Public,2023-11-27,1000000.0,1000000.0,Dormant,71,"152, Karnataka",RoC-Bangalore,Karnataka
+UEJ00058MR318877,KAR-Info-58 Pvt Ltd,Private,2006-06-08,2000000.0,2000000.0,Active,10,"126, Karnataka",RoC-Bangalore,Karnataka
+UEJ00059MR932831,KAR-Info-59 Pvt Ltd,Private (Ltd by shares),2019-11-02,500000.0,500000.0,Amalgamated,63,"15, Karnataka",RoC-Bangalore,Karnataka
+UEJ00060MR326387,KAR-Fin-60 Pvt Ltd,Private,2013-09-02,5000000.0,2500000.0,Active,11,"25, Karnataka",RoC-Bangalore,Karnataka
+UEJ00061MR755700,KAR-Agro-61 Pvt Ltd,Private (Ltd by shares),2012-09-13,200000.0,100000.0,Active,72,"143, Karnataka",RoC-Bangalore,Karnataka
+UEJ00062MR581003,KAR-Info-62 Pvt Ltd,Public,2022-07-24,100000.0,100000.0,Strike Off,86,"171, Karnataka",RoC-Bangalore,Karnataka
+UEJ00063MR453907,KAR-Info-63 Pvt Ltd,Private (Ltd by shares),2008-03-26,200000.0,200000.0,Amalgamated,71,"41, Karnataka",RoC-Bangalore,Karnataka
+UEJ00064MR532373,KAR-Consult-64 Pvt Ltd,Public,2024-08-12,500000.0,500000.0,Strike Off,63,"163, Karnataka",RoC-Bangalore,Karnataka
+UEJ00065MR902903,KAR-Fin-65 Pvt Ltd,Public,2015-10-08,2000000.0,2000000.0,Active,64,"191, Karnataka",RoC-Bangalore,Karnataka
+UEJ00066MR724702,KAR-Tech-66 Pvt Ltd,Private,2016-08-15,1000000.0,500000.0,Active,62,"133, Karnataka",RoC-Bangalore,Karnataka
+UEJ00067MR909000,KAR-Consult-67 Pvt Ltd,Public,2014-01-10,200000.0,100000.0,Strike Off,10,"177, Karnataka",RoC-Bangalore,Karnataka
+UEJ00068MR139569,KAR-Retail-68 Pvt Ltd,Private,2022-09-18,2000000.0,2000000.0,Active,11,"92, Karnataka",RoC-Bangalore,Karnataka
+UEJ00069MR950472,KAR-Foods-69 Pvt Ltd,Private (Ltd by shares),2009-05-12,2000000.0,1000000.0,Active,62,"24, Karnataka",RoC-Bangalore,Karnataka
+UEJ00070MR281301,KAR-Retail-70 Pvt Ltd,Private (Ltd by shares),2017-10-07,5000000.0,2500000.0,Strike Off,70,"177, Karnataka",RoC-Bangalore,Karnataka
+UEJ00071MR947607,KAR-Fin-71 Pvt Ltd,Private,2023-02-20,5000000.0,4000000.0,Active,96,"98, Karnataka",RoC-Bangalore,Karnataka
+UEJ00072MR907812,KAR-Agro-72 Pvt Ltd,Private (Ltd by shares),2006-06-12,10000000.0,8000000.0,Amalgamated,11,"192, Karnataka",RoC-Bangalore,Karnataka
+UEJ00073MR419588,KAR-Fin-73 Pvt Ltd,Public,2024-01-21,10000000.0,10000000.0,Amalgamated,10,"11, Karnataka",RoC-Bangalore,Karnataka
+UEJ00074MR152973,KAR-Info-74 Pvt Ltd,Public,2022-10-05,500000.0,500000.0,Active,46,"188, Karnataka",RoC-Bangalore,Karnataka
+UEJ00075MR403859,KAR-Consult-75 Pvt Ltd,Private,2019-10-19,2000000.0,1000000.0,Active,64,"101, Karnataka",RoC-Bangalore,Karnataka
+UEJ00076MR518582,KAR-Foods-76 Pvt Ltd,Public,2009-06-03,1000000.0,1000000.0,Active,71,"22, Karnataka",RoC-Bangalore,Karnataka
+UEJ00077MR686464,KAR-Agro-77 Pvt Ltd,Public,2021-07-25,5000000.0,2500000.0,Active,70,"125, Karnataka",RoC-Bangalore,Karnataka
+UEJ00078MR175124,KAR-Foods-78 Pvt Ltd,Public,2025-10-07,2000000.0,2000000.0,Active,47,"199, Karnataka",RoC-Bangalore,Karnataka
+UEJ00079MR483010,KAR-Foods-79 Pvt Ltd,Public,2015-11-19,100000.0,50000.0,Amalgamated,64,"49, Karnataka",RoC-Bangalore,Karnataka
+UEJ00080MR746154,KAR-Consult-80 Pvt Ltd,Private (Ltd by shares),2016-10-21,100000.0,80000.0,Active,63,"114, Karnataka",RoC-Bangalore,Karnataka
+UEJ00081MR491979,KAR-Agro-81 Pvt Ltd,Private (Ltd by shares),2009-08-02,10000000.0,5000000.0,Active,86,"194, Karnataka",RoC-Bangalore,Karnataka
+UEJ00082MR114400,KAR-Foods-82 Pvt Ltd,Private,2007-02-24,100000.0,50000.0,Active,62,"178, Karnataka",RoC-Bangalore,Karnataka
+UEJ00083MR664139,KAR-Agro-83 Pvt Ltd,Private (Ltd by shares),2014-08-16,100000.0,80000.0,Active,96,"53, Karnataka",RoC-Bangalore,Karnataka
+UEJ00084MR832697,KAR-Info-84 Pvt Ltd,Public,2021-05-18,1000000.0,1000000.0,Active,96,"5, Karnataka",RoC-Bangalore,Karnataka
+UEJ00085MR397809,KAR-Agro-85 Pvt Ltd,Private (Ltd by shares),2023-11-17,100000.0,80000.0,Active,10,"179, Karnataka",RoC-Bangalore,Karnataka
+UEJ00086MR792451,KAR-Foods-86 Pvt Ltd,Private (Ltd by shares),2013-01-15,5000000.0,2500000.0,Active,64,"170, Karnataka",RoC-Bangalore,Karnataka
+UEJ00087MR499194,KAR-Fin-87 Pvt Ltd,Private,2016-02-01,500000.0,500000.0,Amalgamated,47,"182, Karnataka",RoC-Bangalore,Karnataka
+UEJ00088MR308535,KAR-Fin-88 Pvt Ltd,Private (Ltd by shares),2015-08-28,2000000.0,2000000.0,Active,46,"118, Karnataka",RoC-Bangalore,Karnataka
+UEJ00089MR512509,KAR-Info-89 Pvt Ltd,Private,2005-01-08,2000000.0,1600000.0,Strike Off,70,"41, Karnataka",RoC-Bangalore,Karnataka
+UEJ00090MR625600,KAR-Foods-90 Pvt Ltd,Private (Ltd by shares),2016-11-12,500000.0,500000.0,Active,47,"16, Karnataka",RoC-Bangalore,Karnataka
+UEJ00091MR259077,KAR-Foods-91 Pvt Ltd,Private (Ltd by shares),2013-07-27,100000.0,100000.0,Active,47,"101, Karnataka",RoC-Bangalore,Karnataka
+UEJ00092MR352036,KAR-Fin-92 Pvt Ltd,Public,2009-02-24,1000000.0,1000000.0,Active,64,"40, Karnataka",RoC-Bangalore,Karnataka
+UEJ00093MR784167,KAR-Agro-93 Pvt Ltd,Private (Ltd by shares),2014-10-11,1000000.0,1000000.0,Active,47,"149, Karnataka",RoC-Bangalore,Karnataka
+UEJ00094MR907455,KAR-Agro-94 Pvt Ltd,Private (Ltd by shares),2011-03-10,5000000.0,5000000.0,Active,64,"168, Karnataka",RoC-Bangalore,Karnataka
+UEJ00095MR433025,KAR-Consult-95 Pvt Ltd,Private (Ltd by shares),2010-06-03,2000000.0,2000000.0,Active,46,"38, Karnataka",RoC-Bangalore,Karnataka
+UEJ00096MR961613,KAR-Info-96 Pvt Ltd,Public,2005-06-14,1000000.0,800000.0,Dormant,96,"190, Karnataka",RoC-Bangalore,Karnataka
+UEJ00097MR746915,KAR-Foods-97 Pvt Ltd,Private (Ltd by shares),2009-04-04,200000.0,100000.0,Active,72,"156, Karnataka",RoC-Bangalore,Karnataka
+UEJ00098MR183336,KAR-Info-98 Pvt Ltd,Public,2024-04-20,200000.0,100000.0,Active,63,"200, Karnataka",RoC-Bangalore,Karnataka
+UEJ00099MR993522,KAR-Retail-99 Pvt Ltd,Public,2009-09-28,2000000.0,1600000.0,Strike Off,46,"126, Karnataka",RoC-Bangalore,Karnataka
+UEJ00100MR382967,KAR-Retail-100 Pvt Ltd,Private (Ltd by shares),2009-03-07,200000.0,100000.0,Amalgamated,10,"57, Karnataka",RoC-Bangalore,Karnataka
+UEJ00101MR440677,KAR-Consult-101 Pvt Ltd,Private,2011-04-03,200000.0,160000.0,Dormant,96,"118, Karnataka",RoC-Bangalore,Karnataka
+UEJ00102MR428096,KAR-Retail-102 Pvt Ltd,Private (Ltd by shares),2018-07-25,100000.0,100000.0,Amalgamated,96,"157, Karnataka",RoC-Bangalore,Karnataka
+UEJ00103MR214626,KAR-Retail-103 Pvt Ltd,Private,2023-10-18,2000000.0,2000000.0,Active,71,"117, Karnataka",RoC-Bangalore,Karnataka
+UEJ00104MR506216,KAR-Fin-104 Pvt Ltd,Private (Ltd by shares),2012-09-18,1000000.0,1000000.0,Active,71,"196, Karnataka",RoC-Bangalore,Karnataka
+UEJ00105MR583757,KAR-Agro-105 Pvt Ltd,Public,2006-04-10,1000000.0,800000.0,Active,62,"109, Karnataka",RoC-Bangalore,Karnataka
+UEJ00106MR573639,KAR-Tech-106 Pvt Ltd,Private (Ltd by shares),2024-01-23,2000000.0,1000000.0,Dormant,86,"185, Karnataka",RoC-Bangalore,Karnataka
+UEJ00107MR533648,KAR-Foods-107 Pvt Ltd,Private,2008-03-25,2000000.0,2000000.0,Active,64,"116, Karnataka",RoC-Bangalore,Karnataka
+UEJ00108MR362230,KAR-Foods-108 Pvt Ltd,Private (Ltd by shares),2010-08-19,5000000.0,2500000.0,Dormant,11,"178, Karnataka",RoC-Bangalore,Karnataka
+UEJ00109MR571228,KAR-Info-109 Pvt Ltd,Private,2010-12-24,100000.0,50000.0,Active,96,"93, Karnataka",RoC-Bangalore,Karnataka
+UEJ00110MR677079,KAR-Retail-110 Pvt Ltd,Private,2021-12-13,5000000.0,5000000.0,Active,64,"12, Karnataka",RoC-Bangalore,Karnataka
+UEJ00111MR287555,KAR-Consult-111 Pvt Ltd,Private,2015-10-28,5000000.0,2500000.0,Active,46,"183, Karnataka",RoC-Bangalore,Karnataka
+UEJ00112MR289473,KAR-Tech-112 Pvt Ltd,Private,2018-05-10,5000000.0,4000000.0,Active,86,"34, Karnataka",RoC-Bangalore,Karnataka
+UEJ00113MR996963,KAR-Retail-113 Pvt Ltd,Private,2005-10-25,500000.0,250000.0,Dormant,70,"140, Karnataka",RoC-Bangalore,Karnataka
+UEJ00114MR530074,KAR-Retail-114 Pvt Ltd,Private (Ltd by shares),2024-08-08,200000.0,200000.0,Dormant,70,"21, Karnataka",RoC-Bangalore,Karnataka
+UEJ00115MR293818,KAR-Agro-115 Pvt Ltd,Private (Ltd by shares),2024-01-08,2000000.0,1600000.0,Active,10,"15, Karnataka",RoC-Bangalore,Karnataka
+UEJ00116MR191962,KAR-Tech-116 Pvt Ltd,Public,2016-01-05,10000000.0,5000000.0,Active,63,"28, Karnataka",RoC-Bangalore,Karnataka
+UEJ00117MR885734,KAR-Fin-117 Pvt Ltd,Private,2010-03-22,500000.0,500000.0,Active,70,"93, Karnataka",RoC-Bangalore,Karnataka
+UEJ00118MR984274,KAR-Fin-118 Pvt Ltd,Public,2007-05-11,500000.0,400000.0,Active,64,"17, Karnataka",RoC-Bangalore,Karnataka
+UEJ00119MR533856,KAR-Fin-119 Pvt Ltd,Private (Ltd by shares),2020-03-04,5000000.0,4000000.0,Strike Off,71,"54, Karnataka",RoC-Bangalore,Karnataka
+UEJ00120MR859246,KAR-Info-120 Pvt Ltd,Private (Ltd by shares),2011-10-02,100000.0,100000.0,Active,70,"155, Karnataka",RoC-Bangalore,Karnataka
+UEJ00121MR703080,KAR-Fin-121 Pvt Ltd,Private,2014-07-20,10000000.0,8000000.0,Active,71,"91, Karnataka",RoC-Bangalore,Karnataka
+UEJ00122MR947228,KAR-Agro-122 Pvt Ltd,Private,2024-10-16,2000000.0,2000000.0,Dormant,70,"157, Karnataka",RoC-Bangalore,Karnataka
+UEJ00123MR935434,KAR-Tech-123 Pvt Ltd,Private,2014-04-01,100000.0,50000.0,Dormant,86,"189, Karnataka",RoC-Bangalore,Karnataka
+UEJ00124MR945197,KAR-Info-124 Pvt Ltd,Private,2024-07-14,100000.0,80000.0,Strike Off,71,"55, Karnataka",RoC-Bangalore,Karnataka
+UEJ00125MR414870,KAR-Fin-125 Pvt Ltd,Public,2025-04-23,500000.0,400000.0,Active,62,"141, Karnataka",RoC-Bangalore,Karnataka
+UEJ00126MR696557,KAR-Fin-126 Pvt Ltd,Private,2005-02-22,500000.0,400000.0,Amalgamated,96,"8, Karnataka",RoC-Bangalore,Karnataka
+UEJ00127MR935981,KAR-Tech-127 Pvt Ltd,Private,2011-06-27,500000.0,500000.0,Dormant,70,"166, Karnataka",RoC-Bangalore,Karnataka
+UEJ00128MR922072,KAR-Consult-128 Pvt Ltd,Private (Ltd by shares),2020-03-21,1000000.0,1000000.0,Strike Off,70,"106, Karnataka",RoC-Bangalore,Karnataka
+UEJ00129MR661916,KAR-Tech-129 Pvt Ltd,Private (Ltd by shares),2006-09-10,2000000.0,2000000.0,Strike Off,71,"54, Karnataka",RoC-Bangalore,Karnataka
+UEJ00130MR493468,KAR-Info-130 Pvt Ltd,Private,2015-06-03,200000.0,160000.0,Active,63,"137, Karnataka",RoC-Bangalore,Karnataka
+UEJ00131MR839525,KAR-Consult-131 Pvt Ltd,Private (Ltd by shares),2023-10-13,200000.0,200000.0,Active,62,"81, Karnataka",RoC-Bangalore,Karnataka
+UEJ00132MR573858,KAR-Consult-132 Pvt Ltd,Private,2006-05-14,100000.0,80000.0,Active,63,"78, Karnataka",RoC-Bangalore,Karnataka
+UEJ00133MR197102,KAR-Retail-133 Pvt Ltd,Private,2021-05-06,100000.0,80000.0,Active,47,"130, Karnataka",RoC-Bangalore,Karnataka
+UEJ00134MR649063,KAR-Foods-134 Pvt Ltd,Public,2020-09-05,200000.0,160000.0,Dormant,96,"199, Karnataka",RoC-Bangalore,Karnataka
+UEJ00135MR859767,KAR-Tech-135 Pvt Ltd,Public,2009-02-27,2000000.0,2000000.0,Active,47,"118, Karnataka",RoC-Bangalore,Karnataka
+UEJ00136MR589554,KAR-Tech-136 Pvt Ltd,Private (Ltd by shares),2021-02-01,500000.0,250000.0,Active,63,"27, Karnataka",RoC-Bangalore,Karnataka
+UEJ00137MR310297,KAR-Agro-137 Pvt Ltd,Public,2014-01-19,10000000.0,8000000.0,Active,63,"74, Karnataka",RoC-Bangalore,Karnataka
+UEJ00138MR256574,KAR-Agro-138 Pvt Ltd,Private,2022-06-25,1000000.0,1000000.0,Active,62,"71, Karnataka",RoC-Bangalore,Karnataka
+UEJ00139MR467335,KAR-Fin-139 Pvt Ltd,Public,2005-10-18,2000000.0,1000000.0,Active,71,"82, Karnataka",RoC-Bangalore,Karnataka
+UEJ00140MR174703,KAR-Foods-140 Pvt Ltd,Public,2009-12-26,500000.0,500000.0,Active,46,"157, Karnataka",RoC-Bangalore,Karnataka

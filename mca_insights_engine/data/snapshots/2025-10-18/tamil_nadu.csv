@@ -1,0 +1,158 @@
+CIN,Company_Name,Company_Class,Date_of_Incorporation,Authorized_Capital,Paidup_Capital,Company_Status,NIC_Code,Registered_Address,RoC,State
+UDI00001LQ556542,TAM-Agro-1 Pvt Ltd,Private,2011-04-05,100000.0,80000.0,Active,86,"161, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00002LQ683390,TAM-Retail-2 Pvt Ltd,Public,2024-05-11,5000000.0,2500000.0,Active,64,"142, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00003LQ534574,TAM-Agro-3 Pvt Ltd,Private (Ltd by shares),2013-09-15,10000000.0,5000000.0,Dormant,11,"38, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00004LQ661652,TAM-Foods-4 Pvt Ltd,Public,2023-10-25,100000.0,50000.0,Active,62,"106, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00005LQ280564,TAM-Foods-5 Pvt Ltd,Private,2017-11-16,2000000.0,2000000.0,Dormant,10,"104, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00006LQ447596,TAM-Info-6 Pvt Ltd,Private,2024-10-22,5000000.0,4000000.0,Active,64,"61, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00008LQ382507,TAM-Info-8 Pvt Ltd,Private (Ltd by shares),2008-04-05,500000.0,500000.0,Dormant,63,"107, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00009LQ607993,TAM-Consult-9 Pvt Ltd,Public,2025-02-07,1000000.0,500000.0,Amalgamated,96,"133, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00010LQ631413,TAM-Retail-10 Pvt Ltd,Private (Ltd by shares),2006-09-26,200000.0,100000.0,Active,96,"35, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00011LQ134677,TAM-Retail-11 Pvt Ltd,Public,2023-01-06,200000.0,100000.0,Active,47,"13, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00012LQ229890,TAM-Info-12 Pvt Ltd,Private,2011-05-12,10000000.0,8000000.0,Amalgamated,86,"8, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00013LQ678115,TAM-Foods-13 Pvt Ltd,Private,2016-08-20,1000000.0,500000.0,Dormant,72,"89, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00014LQ505343,TAM-Tech-14 Pvt Ltd,Private (Ltd by shares),2013-12-27,5000000.0,2500000.0,Active,10,"42, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00015LQ783238,TAM-Retail-15 Pvt Ltd,Private,2011-04-21,200000.0,200000.0,Active,62,"132, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00016LQ364650,TAM-Fin-16 Pvt Ltd,Private (Ltd by shares),2005-08-05,4000000.0,2500000.0,Active,47,"79, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00017LQ328808,TAM-Retail-17 Pvt Ltd,Private (Ltd by shares),2025-05-14,1000000.0,800000.0,Dormant,62,"78, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00018LQ794530,TAM-Consult-18 Pvt Ltd,Private (Ltd by shares),2021-10-13,2000000.0,1000000.0,Active,71,"96, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00019LQ166938,TAM-Foods-19 Pvt Ltd,Private (Ltd by shares),2025-10-20,500000.0,400000.0,Active,70,"71, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00020LQ257212,TAM-Fin-20 Pvt Ltd,Private,2015-05-09,5000000.0,5000000.0,Active,47,"196, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00021LQ126691,TAM-Info-21 Pvt Ltd,Public,2006-10-13,5000000.0,4000000.0,Active,96,"128, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00022LQ842464,TAM-Fin-22 Pvt Ltd,Public,2013-07-13,1000000.0,1000000.0,Active,72,"49, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00023LQ414777,TAM-Consult-23 Pvt Ltd,Private (Ltd by shares),2012-11-18,5000000.0,4000000.0,Strike Off,71,"44, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00025LQ422002,TAM-Retail-25 Pvt Ltd,Public,2015-11-03,200000.0,160000.0,Active,96,"85, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00026LQ765213,TAM-Fin-26 Pvt Ltd,Private (Ltd by shares),2013-10-10,1000000.0,500000.0,Dormant,10,"149, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00027LQ412848,TAM-Retail-27 Pvt Ltd,Private,2007-08-07,2000000.0,1000000.0,Dormant,71,"14, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00028LQ431752,TAM-Consult-28 Pvt Ltd,Private,2009-04-11,1200000.0,1000000.0,Dormant,46,"184, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00029LQ160831,TAM-Tech-29 Pvt Ltd,Public,2007-08-11,5000000.0,2500000.0,Strike Off,86,"116, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00031LQ659711,TAM-Agro-31 Pvt Ltd,Public,2018-07-14,1000000.0,800000.0,Active,10,"188, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00032LQ809621,TAM-Tech-32 Pvt Ltd,Private (Ltd by shares),2005-06-25,10000000.0,10000000.0,Active,10,"161, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00033LQ502181,TAM-Fin-33 Pvt Ltd,Public,2012-04-23,500000.0,400000.0,Active,11,"151, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00034LQ863187,TAM-Fin-34 Pvt Ltd,Private (Ltd by shares),2010-02-27,100000.0,80000.0,Active,70,"153, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00035LQ886553,TAM-Agro-35 Pvt Ltd,Public,2015-07-22,200000.0,160000.0,Dormant,63,"43, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00036LQ122977,TAM-Fin-36 Pvt Ltd,Private,2005-04-08,5000000.0,2500000.0,Active,96,"130, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00037LQ368214,TAM-Consult-37 Pvt Ltd,Private (Ltd by shares),2008-06-23,5000000.0,2500000.0,Amalgamated,86,"137, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00038LQ823255,TAM-Tech-38 Pvt Ltd,Public,2006-10-02,5000000.0,2500000.0,Active,10,"107, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00039LQ828961,TAM-Info-39 Pvt Ltd,Private,2017-02-18,500000.0,400000.0,Active,47,"162, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00040LQ735053,TAM-Info-40 Pvt Ltd,Public,2014-07-22,100000.0,100000.0,Active,72,"36, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00041LQ922880,TAM-Tech-41 Pvt Ltd,Private,2008-09-24,2000000.0,1000000.0,Active,11,"128, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00042LQ837606,TAM-Retail-42 Pvt Ltd,Private,2024-04-25,500000.0,500000.0,Active,63,"76, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00043LQ345896,TAM-Tech-43 Pvt Ltd,Private (Ltd by shares),2006-09-16,200000.0,200000.0,Dormant,63,"4, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00044LQ194458,TAM-Consult-44 Pvt Ltd,Private,2007-02-27,2400000.0,2000000.0,Dormant,46,"131, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00045LQ586830,TAM-Tech-45 Pvt Ltd,Private,2008-05-21,200000.0,160000.0,Active,62,"26, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00046LQ874415,TAM-Tech-46 Pvt Ltd,Private,2006-05-12,10000000.0,10000000.0,Strike Off,64,"25, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00047LQ558976,TAM-Fin-47 Pvt Ltd,Private (Ltd by shares),2005-03-22,5000000.0,2500000.0,Strike Off,63,"69, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00048LQ519692,TAM-Retail-48 Pvt Ltd,Public,2007-06-27,500000.0,250000.0,Active,64,"70, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00049LQ829987,TAM-Info-49 Pvt Ltd,Private,2020-07-21,10000000.0,5000000.0,Active,46,"16, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00050LQ741018,TAM-Retail-50 Pvt Ltd,Public,2008-07-19,1000000.0,1000000.0,Dormant,46,"200, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00051LQ611833,TAM-Tech-51 Pvt Ltd,Public,2024-01-28,5000000.0,5000000.0,Active,70,"106, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00052LQ810859,TAM-Fin-52 Pvt Ltd,Private (Ltd by shares),2006-02-09,5000000.0,4000000.0,Active,96,"197, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00053LQ648513,TAM-Info-53 Pvt Ltd,Private (Ltd by shares),2023-12-19,240000.0,200000.0,Strike Off,71,"180, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00054LQ795951,TAM-Info-54 Pvt Ltd,Public,2008-07-22,5000000.0,2500000.0,Active,63,"165, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00055LQ990079,TAM-Retail-55 Pvt Ltd,Private,2009-09-20,100000.0,50000.0,Active,71,"127, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00056LQ631553,TAM-Agro-56 Pvt Ltd,Private (Ltd by shares),2007-08-11,200000.0,160000.0,Active,10,"141, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00058LQ523037,TAM-Retail-58 Pvt Ltd,Private (Ltd by shares),2020-08-11,100000.0,80000.0,Active,11,"10, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00059LQ689648,TAM-Agro-59 Pvt Ltd,Private (Ltd by shares),2022-01-27,100000.0,100000.0,Active,71,"168, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00060LQ448098,TAM-Fin-60 Pvt Ltd,Private (Ltd by shares),2019-06-12,10000000.0,5000000.0,Active,70,"197, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00061LQ202170,TAM-Consult-61 Pvt Ltd,Private,2024-08-23,5000000.0,4000000.0,Amalgamated,11,"169, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00062LQ647341,TAM-Foods-62 Pvt Ltd,Private,2005-06-12,10000000.0,10000000.0,Amalgamated,71,"180, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00063LQ366641,TAM-Fin-63 Pvt Ltd,Private,2006-03-16,200000.0,200000.0,Amalgamated,11,"51, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00064LQ893928,TAM-Retail-64 Pvt Ltd,Private (Ltd by shares),2008-07-07,1000000.0,500000.0,Strike Off,11,"12, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00065LQ104548,TAM-Fin-65 Pvt Ltd,Private,2023-02-25,1000000.0,800000.0,Active,70,"189, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00066LQ706658,TAM-Agro-66 Pvt Ltd,Private,2022-07-27,2000000.0,1600000.0,Active,96,"188, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00067LQ503348,TAM-Retail-67 Pvt Ltd,Private (Ltd by shares),2008-07-22,2000000.0,2000000.0,Dormant,71,"156, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00068LQ244892,TAM-Retail-68 Pvt Ltd,Private (Ltd by shares),2012-05-13,500000.0,400000.0,Dormant,46,"155, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00069LQ872610,TAM-Fin-69 Pvt Ltd,Private,2021-05-27,5000000.0,5000000.0,Strike Off,96,"162, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00070LQ239116,TAM-Info-70 Pvt Ltd,Private,2011-04-20,5000000.0,4000000.0,Dormant,86,"167, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00071LQ689593,TAM-Retail-71 Pvt Ltd,Private (Ltd by shares),2021-09-23,5000000.0,4000000.0,Active,63,"150, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00072LQ947568,TAM-Tech-72 Pvt Ltd,Private,2018-11-24,10000000.0,10000000.0,Active,64,"134, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00073LQ379947,TAM-Consult-73 Pvt Ltd,Public,2005-07-05,120000.0,100000.0,Active,47,"42, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00074LQ890200,TAM-Fin-74 Pvt Ltd,Public,2013-03-27,100000.0,100000.0,Active,47,"9, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00075LQ778553,TAM-Fin-75 Pvt Ltd,Private,2019-02-20,10000000.0,10000000.0,Active,96,"100, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00076LQ506380,TAM-Retail-76 Pvt Ltd,Public,2021-12-10,5000000.0,5000000.0,Dormant,64,"176, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00077LQ918859,TAM-Consult-77 Pvt Ltd,Private,2022-01-01,5000000.0,4000000.0,Active,72,"114, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00078LQ302897,TAM-Foods-78 Pvt Ltd,Private,2025-12-23,5000000.0,4000000.0,Active,96,"115, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00080LQ588983,TAM-Info-80 Pvt Ltd,Private,2013-03-06,2000000.0,1600000.0,Active,63,"40, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00081LQ928278,TAM-Fin-81 Pvt Ltd,Public,2009-06-20,100000.0,100000.0,Active,70,"141, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00082LQ171488,TAM-Consult-82 Pvt Ltd,Private,2007-12-11,2000000.0,1000000.0,Active,71,"130, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00083LQ323717,TAM-Info-83 Pvt Ltd,Public,2018-09-18,800000.0,500000.0,Strike Off,47,"85, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00084LQ963699,TAM-Consult-84 Pvt Ltd,Private,2016-05-07,10000000.0,10000000.0,Dormant,71,"167, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00085LQ815706,TAM-Foods-85 Pvt Ltd,Private,2008-11-12,1000000.0,500000.0,Active,10,"98, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00086LQ962043,TAM-Consult-86 Pvt Ltd,Private (Ltd by shares),2017-05-18,5000000.0,4000000.0,Active,71,"96, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00087LQ638857,TAM-Tech-87 Pvt Ltd,Private,2021-08-16,100000.0,80000.0,Active,63,"25, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00088LQ760093,TAM-Consult-88 Pvt Ltd,Private (Ltd by shares),2022-09-01,5000000.0,2500000.0,Active,86,"55, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00089LQ956429,TAM-Tech-89 Pvt Ltd,Private (Ltd by shares),2018-02-07,2000000.0,2000000.0,Dormant,86,"192, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00090LQ176806,TAM-Tech-90 Pvt Ltd,Public,2009-01-15,5000000.0,4000000.0,Active,11,"46, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00091LQ506881,TAM-Retail-91 Pvt Ltd,Public,2022-02-19,10000000.0,5000000.0,Dormant,64,"162, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00093LQ627262,TAM-Tech-93 Pvt Ltd,Private (Ltd by shares),2007-12-19,100000.0,100000.0,Amalgamated,63,"75, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00094LQ962057,TAM-Info-94 Pvt Ltd,Public,2014-10-03,500000.0,400000.0,Amalgamated,64,"8, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00095LQ409307,TAM-Info-95 Pvt Ltd,Public,2010-09-08,200000.0,200000.0,Amalgamated,71,"37, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00096LQ143802,TAM-Tech-96 Pvt Ltd,Private (Ltd by shares),2025-06-01,2000000.0,2000000.0,Active,11,"147, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00097LQ877446,TAM-Info-97 Pvt Ltd,Private,2017-09-18,100000.0,80000.0,Active,96,"89, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00098LQ331512,TAM-Fin-98 Pvt Ltd,Private,2018-11-28,2000000.0,1000000.0,Active,46,"65, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00099LQ583671,TAM-Info-99 Pvt Ltd,Private,2008-03-22,10000000.0,10000000.0,Active,71,"141, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00100LQ708798,TAM-Retail-100 Pvt Ltd,Public,2014-11-03,500000.0,250000.0,Active,96,"85, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00101LQ173199,TAM-Agro-101 Pvt Ltd,Public,2009-11-21,200000.0,100000.0,Active,72,"82, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00102LQ694397,TAM-Foods-102 Pvt Ltd,Public,2019-06-20,5000000.0,4000000.0,Active,72,"81, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00104LQ678469,TAM-Tech-104 Pvt Ltd,Private (Ltd by shares),2015-08-15,1000000.0,800000.0,Active,70,"45, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00105LQ869177,TAM-Info-105 Pvt Ltd,Private (Ltd by shares),2024-02-27,500000.0,250000.0,Active,62,"20, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00106LQ707021,TAM-Retail-106 Pvt Ltd,Private (Ltd by shares),2007-01-28,2000000.0,2000000.0,Active,72,"197, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00107LQ912853,TAM-Agro-107 Pvt Ltd,Public,2011-01-18,500000.0,500000.0,Dormant,86,"94, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00108LQ625465,TAM-Fin-108 Pvt Ltd,Public,2012-10-24,10000000.0,8000000.0,Active,70,"24, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00109LQ247189,TAM-Retail-109 Pvt Ltd,Private,2016-09-01,5000000.0,2500000.0,Active,71,"41, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00110LQ142383,TAM-Agro-110 Pvt Ltd,Public,2023-10-22,10000000.0,5000000.0,Dormant,63,"195, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00111LQ316818,TAM-Fin-111 Pvt Ltd,Public,2012-02-09,500000.0,250000.0,Active,86,"93, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00112LQ837920,TAM-Fin-112 Pvt Ltd,Public,2020-08-02,100000.0,100000.0,Strike Off,11,"163, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00113LQ496905,TAM-Foods-113 Pvt Ltd,Private (Ltd by shares),2013-10-18,2000000.0,1000000.0,Amalgamated,86,"151, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00114LQ956934,TAM-Consult-114 Pvt Ltd,Public,2007-09-09,1000000.0,500000.0,Amalgamated,63,"89, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00116LQ852146,TAM-Consult-116 Pvt Ltd,Private (Ltd by shares),2013-04-05,200000.0,100000.0,Strike Off,72,"31, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00117LQ808029,TAM-Retail-117 Pvt Ltd,Private,2012-07-26,600000.0,500000.0,Active,70,"123, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00118LQ145240,TAM-Agro-118 Pvt Ltd,Private (Ltd by shares),2023-03-21,10000000.0,8000000.0,Active,47,"147, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00119LQ274421,TAM-Foods-119 Pvt Ltd,Private (Ltd by shares),2010-03-21,2000000.0,1000000.0,Active,10,"47, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00120LQ327114,TAM-Retail-120 Pvt Ltd,Public,2017-10-19,5000000.0,2500000.0,Active,11,"156, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00121LQ960307,TAM-Consult-121 Pvt Ltd,Private (Ltd by shares),2020-03-08,10000000.0,8000000.0,Dormant,72,"47, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00122LQ725510,TAM-Fin-122 Pvt Ltd,Private,2021-05-06,5000000.0,5000000.0,Strike Off,70,"18, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00123LQ628859,TAM-Info-123 Pvt Ltd,Private,2017-07-05,100000.0,50000.0,Active,71,"108, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00124LQ627778,TAM-Consult-124 Pvt Ltd,Private,2024-02-06,1000000.0,1000000.0,Active,71,"31, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00125LQ780768,TAM-Retail-125 Pvt Ltd,Public,2020-11-05,2000000.0,2000000.0,Active,86,"134, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00126LQ927909,TAM-Consult-126 Pvt Ltd,Public,2016-01-23,2000000.0,1600000.0,Amalgamated,70,"98, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00127LQ240386,TAM-Foods-127 Pvt Ltd,Private,2023-12-25,10000000.0,10000000.0,Active,64,"123, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00128LQ105735,TAM-Info-128 Pvt Ltd,Private,2007-05-20,3000000.0,1600000.0,Active,47,"191, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00129LQ315397,TAM-Info-129 Pvt Ltd,Public,2023-09-04,2000000.0,1000000.0,Amalgamated,86,"81, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00130LQ996508,TAM-Fin-130 Pvt Ltd,Private (Ltd by shares),2016-02-05,1000000.0,1000000.0,Active,62,"109, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00131LQ678923,TAM-Consult-131 Pvt Ltd,Public,2016-10-09,5000000.0,4000000.0,Active,64,"143, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00132LQ705711,TAM-Foods-132 Pvt Ltd,Private (Ltd by shares),2010-06-18,2000000.0,1600000.0,Active,62,"199, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00133LQ340932,TAM-Retail-133 Pvt Ltd,Private,2017-12-05,10000000.0,10000000.0,Active,96,"180, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00134LQ508004,TAM-Info-134 Pvt Ltd,Private,2008-04-17,1000000.0,800000.0,Active,46,"2, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00135LQ332542,TAM-Foods-135 Pvt Ltd,Private (Ltd by shares),2009-08-20,1000000.0,500000.0,Active,62,"21, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00136LQ726495,TAM-Tech-136 Pvt Ltd,Private,2006-12-13,1000000.0,1000000.0,Active,96,"199, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00137LQ135241,TAM-Consult-137 Pvt Ltd,Private (Ltd by shares),2025-08-15,100000.0,50000.0,Active,47,"154, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00138LQ350878,TAM-Info-138 Pvt Ltd,Private,2021-12-08,2000000.0,1000000.0,Active,63,"1, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00139LQ714549,TAM-Agro-139 Pvt Ltd,Private,2007-05-25,1000000.0,800000.0,Amalgamated,64,"133, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00140LQ955129,TAM-Foods-140 Pvt Ltd,Private (Ltd by shares),2007-02-18,500000.0,500000.0,Strike Off,63,"58, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00141LQ615780,TAM-Info-141 Pvt Ltd,Private,2020-02-21,5000000.0,4000000.0,Amalgamated,46,"166, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00142LQ881782,TAM-Foods-142 Pvt Ltd,Public,2005-02-25,500000.0,400000.0,Active,72,"149, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00143LQ958029,TAM-Tech-143 Pvt Ltd,Private (Ltd by shares),2023-07-28,500000.0,500000.0,Dormant,96,"96, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00144LQ435209,TAM-Retail-144 Pvt Ltd,Private,2023-01-28,500000.0,250000.0,Active,46,"178, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00145LQ473276,TAM-Tech-145 Pvt Ltd,Public,2016-03-02,500000.0,400000.0,Amalgamated,86,"75, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00146LQ727847,TAM-Consult-146 Pvt Ltd,Private (Ltd by shares),2021-11-03,2000000.0,1000000.0,Active,11,"43, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00147LQ818739,TAM-Info-147 Pvt Ltd,Public,2015-06-27,10000000.0,10000000.0,Active,62,"177, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00148LQ643341,TAM-Foods-148 Pvt Ltd,Public,2008-09-19,500000.0,250000.0,Active,46,"96, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00149LQ331854,TAM-Consult-149 Pvt Ltd,Private (Ltd by shares),2018-06-06,100000.0,50000.0,Active,71,"49, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00150LQ582860,TAM-Tech-150 Pvt Ltd,Private,2024-12-27,2000000.0,2000000.0,Active,64,"30, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00151LQ956727,TAM-Retail-151 Pvt Ltd,Private (Ltd by shares),2005-08-12,500000.0,500000.0,Strike Off,46,"153, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00152LQ234966,TAM-Consult-152 Pvt Ltd,Private,2015-03-23,500000.0,250000.0,Active,47,"178, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00153LQ824375,TAM-Consult-153 Pvt Ltd,Private,2012-05-05,200000.0,100000.0,Active,64,"29, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00154LQ134385,TAM-Consult-154 Pvt Ltd,Private (Ltd by shares),2005-08-25,1000000.0,500000.0,Active,11,"169, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00155LQ416298,TAM-Info-155 Pvt Ltd,Private,2023-01-16,100000.0,80000.0,Active,11,"3, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00156LQ468609,TAM-Tech-156 Pvt Ltd,Private,2008-10-07,2000000.0,1000000.0,Active,86,"24, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00157LQ697935,TAM-Tech-157 Pvt Ltd,Private (Ltd by shares),2013-10-12,500000.0,250000.0,Active,71,"26, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00158LQ890645,TAM-Fin-158 Pvt Ltd,Private (Ltd by shares),2005-09-07,5000000.0,2500000.0,Active,46,"2, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00159LQ832045,TAM-Fin-159 Pvt Ltd,Public,2008-04-17,10000000.0,10000000.0,Dormant,63,"48, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00160LQ639231,TAM-Agro-160 Pvt Ltd,Private,2008-03-27,500000.0,400000.0,Amalgamated,47,"105, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00161LQ899301,TAM-Foods-161 Pvt Ltd,Public,2015-02-15,100000.0,100000.0,Active,70,"181, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00162LQ503472,TAM-Foods-162 Pvt Ltd,Private (Ltd by shares),2022-12-02,100000.0,80000.0,Dormant,11,"117, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00163LQ996915,TAM-Retail-163 Pvt Ltd,Private,2014-11-27,1000000.0,500000.0,Amalgamated,62,"49, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00164LQ210280,TAM-Retail-164 Pvt Ltd,Private (Ltd by shares),2020-11-12,200000.0,100000.0,Dormant,86,"113, Tamil Nadu",RoC-Chennai,Tamil Nadu
+UDI00165LQ276919,TAM-Tech-165 Pvt Ltd,Private,2007-02-05,1000000.0,800000.0,Active,96,"94, Tamil Nadu",RoC-Chennai,Tamil Nadu

@@ -1,0 +1,101 @@
+CIN,COMPANY_NAME,STATE,STATUS,SOURCE,FIELD,SOURCE_URL
+UAF00166IN882702,MAH-Retail-166 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00167IN289131,MAH-Retail-167 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00168IN711218,MAH-Info-168 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00169IN322526,MAH-Info-169 Pvt Ltd,Maharashtra,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00170IN161606,MAH-Tech-170 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00171IN365978,MAH-Fin-171 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00172IN288085,MAH-Foods-172 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00173IN656189,MAH-Retail-173 Pvt Ltd,Maharashtra,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00174IN478108,MAH-Retail-174 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00175IN872663,MAH-Retail-175 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00176IN255840,MAH-Tech-176 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00177IN221660,MAH-Retail-177 Pvt Ltd,Maharashtra,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00178IN986925,MAH-Info-178 Pvt Ltd,Maharashtra,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00179IN886365,MAH-Fin-179 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00180IN180567,MAH-Agro-180 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00181IN491704,MAH-Fin-181 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00182IN758879,MAH-Foods-182 Pvt Ltd,Maharashtra,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00183IN867080,MAH-Info-183 Pvt Ltd,Maharashtra,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00184IN879930,MAH-Tech-184 Pvt Ltd,Maharashtra,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00185IN193520,MAH-Tech-185 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00186IN413048,MAH-Retail-186 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00187IN637555,MAH-Agro-187 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00188IN893237,MAH-Retail-188 Pvt Ltd,Maharashtra,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00189IN458345,MAH-Retail-189 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00190IN590963,MAH-Retail-190 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00191IN548509,MAH-Foods-191 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00192IN199074,MAH-Retail-192 Pvt Ltd,Maharashtra,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UAF00193IN117058,MAH-Tech-193 Pvt Ltd,Maharashtra,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00166JO559392,GUJ-Agro-166 Pvt Ltd,Gujarat,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00167JO407645,GUJ-Info-167 Pvt Ltd,Gujarat,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00168JO752048,GUJ-Agro-168 Pvt Ltd,Gujarat,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00169JO735173,GUJ-Retail-169 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00170JO476215,GUJ-Foods-170 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00171JO454140,GUJ-Retail-171 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00172JO923012,GUJ-Foods-172 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00173JO152871,GUJ-Retail-173 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00174JO210531,GUJ-Agro-174 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00175JO622600,GUJ-Info-175 Pvt Ltd,Gujarat,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00176JO560438,GUJ-Retail-176 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00177JO378937,GUJ-Foods-177 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00178JO244697,GUJ-Consult-178 Pvt Ltd,Gujarat,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00179JO564077,GUJ-Agro-179 Pvt Ltd,Gujarat,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00180JO555157,GUJ-Tech-180 Pvt Ltd,Gujarat,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00181JO521530,GUJ-Info-181 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00182JO653429,GUJ-Fin-182 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00183JO462021,GUJ-Consult-183 Pvt Ltd,Gujarat,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00184JO860321,GUJ-Info-184 Pvt Ltd,Gujarat,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00185JO457259,GUJ-Consult-185 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00186JO972655,GUJ-Consult-186 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00187JO757446,GUJ-Fin-187 Pvt Ltd,Gujarat,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00188JO455446,GUJ-Agro-188 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00189JO413735,GUJ-Foods-189 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00190JO443772,GUJ-Fin-190 Pvt Ltd,Gujarat,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00191JO185927,GUJ-Tech-191 Pvt Ltd,Gujarat,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00192JO651818,GUJ-Retail-192 Pvt Ltd,Gujarat,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UBG00193JO543990,GUJ-Retail-193 Pvt Ltd,Gujarat,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00166KP653545,DEL-Foods-166 Pvt Ltd,Delhi,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00167KP291542,DEL-Foods-167 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00168KP441092,DEL-Agro-168 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00169KP439966,DEL-Foods-169 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00170KP633328,DEL-Consult-170 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00171KP607690,DEL-Tech-171 Pvt Ltd,Delhi,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00172KP900040,DEL-Fin-172 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00173KP491438,DEL-Fin-173 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00174KP969659,DEL-Fin-174 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00175KP498619,DEL-Foods-175 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00176KP194073,DEL-Retail-176 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00177KP629342,DEL-Consult-177 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00178KP357874,DEL-Info-178 Pvt Ltd,Delhi,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00179KP102146,DEL-Fin-179 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00180KP664271,DEL-Tech-180 Pvt Ltd,Delhi,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00181KP229410,DEL-Foods-181 Pvt Ltd,Delhi,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00182KP585168,DEL-Foods-182 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00183KP194336,DEL-Consult-183 Pvt Ltd,Delhi,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00184KP394394,DEL-Retail-184 Pvt Ltd,Delhi,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00185KP390819,DEL-Fin-185 Pvt Ltd,Delhi,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00186KP716735,DEL-Agro-186 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00187KP988843,DEL-Info-187 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00188KP547861,DEL-Info-188 Pvt Ltd,Delhi,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00189KP813213,DEL-Fin-189 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00190KP391433,DEL-Retail-190 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00191KP946906,DEL-Tech-191 Pvt Ltd,Delhi,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00192KP165896,DEL-Info-192 Pvt Ltd,Delhi,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UCH00193KP359159,DEL-Tech-193 Pvt Ltd,Delhi,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00166LQ576370,TAM-Consult-166 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00167LQ754227,TAM-Agro-167 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00168LQ480441,TAM-Tech-168 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00169LQ762002,TAM-Fin-169 Pvt Ltd,Tamil Nadu,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00170LQ374725,TAM-Info-170 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00171LQ206105,TAM-Tech-171 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00172LQ578364,TAM-Agro-172 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00173LQ251448,TAM-Agro-173 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00174LQ356428,TAM-Tech-174 Pvt Ltd,Tamil Nadu,Amalgamated,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00175LQ359178,TAM-Tech-175 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00176LQ929420,TAM-Info-176 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00177LQ644098,TAM-Retail-177 Pvt Ltd,Tamil Nadu,Strike Off,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00178LQ381370,TAM-Fin-178 Pvt Ltd,Tamil Nadu,Dormant,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00179LQ345770,TAM-Retail-179 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00180LQ188876,TAM-Agro-180 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
+UDI00181LQ637145,TAM-Fin-181 Pvt Ltd,Tamil Nadu,Active,Seeded (demo),Director_Names;Sector;Company_Type,N/A
