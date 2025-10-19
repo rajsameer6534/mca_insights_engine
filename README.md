@@ -91,6 +91,7 @@ cd mca_insights_engine
 streamlit run apps/dashboard_app.py
 
 Dashboard
-<img width="1886" height="884" alt="image" src="https://github.com/user-attachments/assets/1e433029-9982-4976-8f38-cec3544bb7c6" />
+<img width="1886" height="884" alt="image" src="https://github.com/user-attachments/assets/98759748-854a-4a60-b833-dbf142cc7b52" />
+
 
 
