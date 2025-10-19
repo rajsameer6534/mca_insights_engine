@@ -8,26 +8,6 @@
 
 ---
 
-## 📚 Table of Contents
-- [Problem Overview](#-problem-overview)
-- [Objectives](#-objectives)
-- [Key Features](#-key-features)
-- [Architecture](#-architecture)
-- [Project Structure](#-project-structure)
-- [Setup](#-setup)
-- [Quick Start (Demo Data)](#-quick-start-demo-data)
-- [Using Real MCA Files](#-using-real-mca-files)
-- [Workflow Details](#-workflow-details)
-- [Dashboard & API](#-dashboard--api)
-- [AI Insight Layer](#-ai-insight-layer)
-- [Deliverables Checklist](#-deliverables-checklist)
-- [Troubleshooting](#-troubleshooting)
-- [Roadmap](#-roadmap)
-- [Credits](#-credits)
-- [License](#-license)
-
----
-
 ## 🧩 Problem Overview
 MCA publishes company master data as **state-wise CSV files** on data.gov.in.  
 Tracking changes (new incorporations, deregistrations, capital/status updates) across states and days is **not feasible manually**. The raw data also lacks context (directors, industry tags, etc.), and evaluators need an **auditable** way to see **what changed, when, and why**.
